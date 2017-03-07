@@ -4,7 +4,7 @@ title:      "Una sola columna en lugar de dos"
 subtitle:   "{Tip 1 de usabilidad}"
 date:       2017-03-06 09:30:00
 author:     "Aunitz Giménez"
-header-img: "img/post-bg-03.jpg"
+header-img: "img/post-bg-04.jpg"
 ---
 
 <p>Existe una excelente web llamada <a href="http://www.goodui.org">Good User Interface</a> que recoge ideas y consejos sencillos sobre usabilidad y conversión.</p>

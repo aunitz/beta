@@ -4,7 +4,7 @@ title:      "Cómo cree este blog con Jekyll y GitHub (gratis!)"
 subtitle:   "Tutorial paso a paso"
 date:       2017-01-10 09:30:00
 author:     "Aunitz Giménez"
-header-img: "img/post-bg-06.jpg"
+header-img: "img/post-bg-01.jpg"
 ---
 
 <p>He pensado que en mi primer post podría explicar cómo cree este blog.</p>

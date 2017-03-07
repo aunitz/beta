@@ -4,7 +4,7 @@ title:      "Recomienda en lugar de mostrar opciones iguales"
 subtitle:   "{Tip 3 de usabilidad}"
 date:       2017-03-08 09:30:00
 author:     "Aunitz Giménez"
-header-img: "img/post-bg-03.jpg"
+header-img: "img/post-bg-06.jpg"
 ---
 
 <p>Al mostrar múltiples opciones iguales, hay usuarios que dudarán sobre cuál escoger.</p>
