@@ -1,6 +1,7 @@
 ---
 layout:     post
-title:      "Principios generales de usabilidad"
+title:      "Mis principios generales de usabilidad"
+subtitle:   "Estos son mis principios. Si no le gustan tengo otros. ;)"
 date:       2017-01-18 09:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-02.jpg"

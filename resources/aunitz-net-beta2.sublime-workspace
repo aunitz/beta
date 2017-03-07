@@ -67,24 +67,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 756,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 1101,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -131,19 +113,24 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta2",
-		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta2/img"
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta2"
 	],
 	"file_history":
 	[
 		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_layouts/post.html",
-		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_posts/2017-03-06-tip-1-usabilidad-una-columna.md",
-		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_posts/2017-01-18-principios-usabilidad.md",
-		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_posts/2017-01-19-alternativas-usables-menu-hamburguesa.md",
-		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/index.html",
 		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_config.yml",
-		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/feed.xml",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_posts/2017-01-19-alternativas-usables-menu-hamburguesa.md",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_includes/svg-icons.html",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_posts/2017-01-10-como-cree-este-blog-con-jekyll-y-github-gratis.md",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_posts/2017-03-06-tip-1-usabilidad-una-columna.md",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_layouts/default.html",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_layouts/page.html",
 		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/about.md",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_posts/2017-01-18-principios-usabilidad.md",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_includes/disqus.html",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_sass/_aunitz.scss",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/index.html",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/feed.xml",
 		"/C/Users/aunitz.ADIMEDIA/Documents/GitHub/gentelella/changelog.md",
 		"/C/Users/aunitz.ADIMEDIA/Documents/GitHub/gentelella/bower.json",
 		"/C/Users/aunitz.ADIMEDIA/Documents/GitHub/gentelella/gulpfile.js",
@@ -257,13 +244,7 @@
 		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-620.jsp",
 		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-308.jsp",
 		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-95b.jsp",
-		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-309.jsp",
-		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-353.jsp",
-		"/U/zergabidea-bego/WebContent/docs/doc-resumen-declaracion.jsp",
-		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-kar.jsp",
-		"/U/zergabidea-bego/WebContent/resumen-declaracion-borrador-kar.jsp",
-		"/U/zergabidea-bego/WebContent/resumen-declaracion-borrador-430.jsp",
-		"/U/zergabidea-bego/WebContent/resumen-declaracion-borrador-353.jsp"
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-309.jsp"
 	],
 	"find":
 	{
@@ -440,67 +421,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 756,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								250,
-								250
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1101,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								89,
-								89
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
