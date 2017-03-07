@@ -31,7 +31,7 @@ header-img: "img/post-bg-05.jpg"
   <li>Los usuarios no deben sufrir <strong>sobrecarga de información</strong>. Cuando un usuario visita un sitio web y no sabe donde comenzar a leer, existe sobrecarga de información. Cuanto mayor sea el número de acciones que un usuario pueda realizar, mayor es la probabilidad que cometa un error. Limitando el número de acciones al público objetivo se facilita el uso de la aplicación.</li>
 </ol>
 
-<h2 class="section-heading">Cómo lo hice</h2>
+<h2 class="section-heading">Referencias</h2>
 
 <ul>
   <li>Eduardo Manchón. Principios generales de usabilidad en sitios web. Ainda.info</li>

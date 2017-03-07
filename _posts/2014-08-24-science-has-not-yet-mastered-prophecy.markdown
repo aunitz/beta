@@ -1,43 +1,48 @@
 ---
 layout:     post
-title:      "Science has not yet mastered prophecy"
-subtitle:   "We predict too much for the next year and yet far too little for the next ten."
-date:       2014-08-24 12:00:00
-author:     "Start Bootstrap"
+title:      "Alternativas usables al menú hamburguesa"
+subtitle:   "No abuses de las hamburguesas ;)"
+date:       2017-01-19 09:30:00
+author:     "Aunitz Giménez"
 header-img: "img/post-bg-04.jpg"
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+<p>Ya habrás leído en más de una ocasión<sup id="fnref:fn-f1"><a href="#fn:fn-f1" class="footnote">1</a></sup> que el menú hamburguesa no resulta usable para muchos usuarios. Comparto esta opinión por la sencilla razón de que contradice el principio de usabilidad de <strong>interfaz visible</strong><sup id="fnref:fn-f2"><a href="#fn:fn-f2" class="footnote">2</a></sup>. El cual afirma que deben evitarse elementos invisibles de navegación que han de ser inferidos por los usuarios, menús desplegables, indicaciones ocultas, etc.</p>
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+<p>Buscando alternativas, he encontrado este <a href="https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8#.h13amirvf">excelente artículo de Zoltan Kollin</a> en Medium, que describe hasta 5 alternativas válidas.</p>
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+<ol>
+  <li>Pestañas</li>
+  <li>Pestañas con la opción “Más”</li>
+  <li>Menú que muestra más o menos opciones en función de la resolución</li>
+  <li>Menú con scroll horizontal</li>
+  <li>Menú desplegable</li>
+</ol>
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+<p>Voy a tratar de simplificar el problema y escoger una de las alternativas que proporciona Zoltan.</p>
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+<p>Realmente, la opción (3) es una variante más trabajada de la opción (2).</p>
 
-<h2 class="section-heading">The Final Frontier</h2>
+<p>La opción (5) la descarto porque incumple el principio de interfaz visible.</p>
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+<p>La opción (4) la descarto porque hay usuarios a los que no les resultará evidente que hay que hacer scroll horizontal para acceder a las secciones ocultas.</p>
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+<h2 class="section-heading">Conclusión</h2>
 
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+<p>Si el menú tiene más opciones de las que pueden verse en un móvil la mejor solución me parece la del menú que muestra más o menos opciones en función de la resolución. De este modo, mostramos de primeras el máximo número posible de opciones de menú que permite cada dispositivo. Maximizando el cumplimiento del principio de interfaz visible.</p>
 
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+<h3>Ejemplo: BBC</h3>
+<p><img src="{{ site.baseurl }}/img/bbc-menu.gif" alt="Menú progresivo de la web de la BBC"></p>
 
-<h2 class="section-heading">Reaching for the Stars</h2>
+<hr>
 
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
-</a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn-f1">
+      <p>Por ejemplo <a href="https://www.nngroup.com/articles/hamburger-menus/">en este artículo de Nielsen Norman Group</a>.&nbsp;<a href="#fnref:fn-f1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:fn-f2">
+      <p>Mi lista de <a href="/beta/principios-usabilidad/">principios generales de usabilidad</a>.&nbsp;<a href="#fnref:fn-f2" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
