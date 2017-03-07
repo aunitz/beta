@@ -42,7 +42,7 @@ header-img: "img/post-bg-04.jpg"
       <p>Por ejemplo <a href="https://www.nngroup.com/articles/hamburger-menus/">en este artículo de Nielsen Norman Group</a>.&nbsp;<a href="#fnref:fn-f1" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:fn-f2">
-      <p>Mi lista de <a href="/beta/principios-usabilidad/">principios generales de usabilidad</a>.&nbsp;<a href="#fnref:fn-f2" class="reversefootnote">&#8617;</a></p>
+      <p>Mi lista de <a href="{{ site.baseurl }}/principios-usabilidad/">principios generales de usabilidad</a>.&nbsp;<a href="#fnref:fn-f2" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>
