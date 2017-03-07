@@ -1,1 +1,589 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"button"
+			],
+			[
+				"text",
+				"text-danger"
+			],
+			[
+				"sele",
+				"select_provincia"
+			],
+			[
+				"radio-",
+				"radio-sm"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"te",
+				"text-right"
+			],
+			[
+				"co",
+				"code\tTag"
+			],
+			[
+				"tex",
+				"text-warning"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"sede",
+				"sede-declaraciones-presentadas"
+			],
+			[
+				"decla",
+				"declaraciones-destacadas"
+			],
+			[
+				"declaraciones",
+				"declaraciones_borrador"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"modelo",
+				"Modelo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 756,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1101,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 384.0,
+		"last_filter": "Package Control:",
+		"selected_items":
+		[
+			[
+				"Package Control:",
+				"Package Control: Enable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta2",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta2/img"
+	],
+	"file_history":
+	[
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_layouts/post.html",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_posts/2017-03-06-tip-1-usabilidad-una-columna.md",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_posts/2017-01-18-principios-usabilidad.md",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_posts/2017-01-19-alternativas-usables-menu-hamburguesa.md",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/index.html",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/_config.yml",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/feed.xml",
+		"/C/Users/aunitz.ADIMEDIA/Documents/aunitz.net/beta/about.md",
+		"/C/Users/aunitz.ADIMEDIA/Documents/GitHub/gentelella/changelog.md",
+		"/C/Users/aunitz.ADIMEDIA/Documents/GitHub/gentelella/bower.json",
+		"/C/Users/aunitz.ADIMEDIA/Documents/GitHub/gentelella/gulpfile.js",
+		"/C/Users/aunitz.ADIMEDIA/Documents/GitHub/gentelella/LICENSE.txt",
+		"/C/Users/aunitz.ADIMEDIA/Documents/GitHub/gentelella/README.md",
+		"/C/Users/aunitz.ADIMEDIA/Documents/GitHub/gentelella/production/form.html",
+		"/C/Users/aunitz.ADIMEDIA/Documents/GitHub/gentelella/build/js/custom.js",
+		"/C/Users/aunitz.ADIMEDIA/Documents/GitHub/gentelella/src/js/custom.js",
+		"/C/Users/aunitz.ADIMEDIA/Documents/GitHub/gentelella/src/js/helpers/smartresize.js",
+		"/U/zergabidea-bego/WebContent/includes/content/declaraciones-borrador-todas.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/declarantes-listado.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/declaraciones-recientes.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/declaraciones-destacadas.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/610-datos-liquidacion-tabla.jsp",
+		"/U/zergabidea-bego/WebContent/includes/botones-finales-resumen-declaracion-desactivados.jsp",
+		"/U/zergabidea-bego/WebContent/includes/menu-declaracion-presentacion-disabled.jsp",
+		"/U/zergabidea-bego/WebContent/botones-de-presentacion-deshabilitados.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/botones-de-presentacion-deshabilitados.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/nueva-declaracion-borrador.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/informacion_legal.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/sede-declaraciones-recientes-presentadas.jsp",
+		"/U/zergabidea-bego/WebContent/includes/tabla-declaraciones-sede.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/sede-buscador-declaraciones-presentadas.jsp",
+		"/U/zergabidea-bego/WebContent/includes/modal-anadir-comentario.jsp",
+		"/U/zergabidea-bego/WebContent/includes/modal-filtro.jsp",
+		"/U/zergabidea-bego/WebContent/includes/modal-mas-info.jsp",
+		"/U/zergabidea-bego/WebContent/sede-declaraciones-recientes-presentadas.jsp",
+		"/U/zergabidea-bego/WebContent/includes/tabla-declaraciones.jsp",
+		"/U/zergabidea-bego/WebContent/includes/login-header.jsp",
+		"/U/zergabidea-bego/WebContent/includes/paginacion-generica.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-109.jsp",
+		"/U/zergabidea-bego/WebContent/includes/menu-declaracion-109.jsp",
+		"/U/zergabidea-bego/WebContent/includes/nav.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-042.jsp",
+		"/U/zergabidea-bego/WebContent/includes/header.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/nueva-declaracion-borrador-paso2-109.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/nueva-declaracion-borrador-paso3-840.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/docs/bootstrap-extensions.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/declarante.jsp",
+		"/C/Users/aunitz.ADIMEDIA/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Program Files/Sublime Text 3/Packages/Color Scheme - Default.sublime-package",
+		"/U/zergabidea-bego/WebContent/index.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/listados-anidados-190.jsp",
+		"/U/zergabidea-bego/WebContent/includes/botones-finales-resumen-declaracion.jsp",
+		"/U/zergabidea-jumi/WebContent/includes/botones-finales-resumen-declaracion.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/610-datos-liquidacion.jsp",
+		"/U/zergabidea-bego/WebContent/610-datos-liquidacion.jsp",
+		"/U/zergabidea-bego/WebContent/listados-anidados-190.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/index.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/deducciones-vivienda-habitual.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/deducciones-familiares.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/rendimientos-de-trabajo-completa.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/rendimientos-de-trabajo.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/personas-unidad-familiar.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/docs/doc-apartados-declaracion.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/validar-declaracion-1.jsp",
+		"/U/zergabidea-bego/WebContent/rendimientos-de-trabajo.jsp",
+		"/U/zergabidea-bego/WebContent/docs/doc-apartados-declaracion.jsp",
+		"/U/zergabidea-bego/WebContent/deducciones-vivienda-habitual.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-60T-2.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-60T.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/subtitulos-paneles.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/115-retenciones.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/validar-declaracion-2.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/validar-declaracion-3.jsp",
+		"/U/zergabidea-bego/WebContent/includes/table-encabezado-109.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-216.jsp",
+		"/U/zergabidea-bego/WebContent/resumen-declaracion-borrador-109.jsp",
+		"/U/zergabidea-bego/WebContent/includes/scripts.jsp",
+		"/U/zergabidea-bego/WebContent/personas-unidad-familiar.jsp",
+		"/U/zergabidea-bego/WebContent/declarante.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/docs/doc-cambio-icono-texto-collapse.jsp",
+		"/U/zergabidea-bego/WebContent/rendimientos-de-trabajo-completa.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-840.jsp",
+		"/U/zergabidea-bego/WebContent/declaraciones-borrador-todas.jsp",
+		"/U/zergabidea-bego/WebContent/deducciones-familiares.jsp",
+		"/U/zergabidea-bego/WebContent/includes/google_analytics.jsp",
+		"/U/zergabidea-bego/WebContent/includes/menu-declaracion-generico.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador.jsp",
+		"/U/zergabidea-bego/WebContent/resumen-declaracion-borrador-042.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/docs/doc-iconos-usuarios.jsp",
+		"/U/zergabidea-bego/WebContent/includes/head.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/docs/doc-resumen-declaracion.jsp",
+		"/U/zergabidea-bego/WebContent/sede-buscador-declaraciones-presentadas.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/sede-declaraciones-presentadas.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/editar-representante-declarante.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/editar-declarante.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/declaraciones_borrador.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/subtitulos-paneles-editar.jsp",
+		"/U/zergabidea-bego/WebContent/resumen-declaracion-borrador.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-430.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-341.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-044.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/nueva-declaracion-borrador-paso2.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/modelo-300.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/modelo-300-errores.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/editar-superficies-840.jsp",
+		"/U/zergabidea-bego/WebContent/editar-declarante.jsp",
+		"/U/zergabidea-bego/WebContent/editar-declarante-errores.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/editar-declarante-errores.jsp",
+		"/U/zergabidea-bego/WebContent/nueva-declaracion-borrador.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/editar-cuenta-bancaria.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/editar-115-retenciones.jsp",
+		"/U/zergabidea-bego/WebContent/115-retenciones.jsp",
+		"/U/zergabidea-bego/WebContent/declaraciones-destacadas.jsp",
+		"/U/zergabidea-bego/WebContent/editar-115-retenciones.jsp",
+		"/U/zergabidea-bego/WebContent/610-datos-liquidacion-tabla.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/declarante-ficha.jsp",
+		"/U/zergabidea-bego/WebContent/editar-cuenta-bancaria.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-048.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-620.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-308.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-95b.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-309.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-353.jsp",
+		"/U/zergabidea-bego/WebContent/docs/doc-resumen-declaracion.jsp",
+		"/U/zergabidea-bego/WebContent/includes/content/resumen-declaracion-borrador-kar.jsp",
+		"/U/zergabidea-bego/WebContent/resumen-declaracion-borrador-kar.jsp",
+		"/U/zergabidea-bego/WebContent/resumen-declaracion-borrador-430.jsp",
+		"/U/zergabidea-bego/WebContent/resumen-declaracion-borrador-353.jsp"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"U:\\zergabidea-bego\\WebContent\\",
+			"U:\\zergabidea-bego\\WebContent\\includes\\content"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<div class=\"btn btn-default dropdown-toggle\" type=\"button\"",
+			"data-toggle=",
+			"datta-toggle",
+			"politicaCookies",
+			"modal-filtro-2",
+			"menuFiltrarDeclaraciones",
+			">\n",
+			"dropdownAcciones08",
+			"dropdownAcciones2016",
+			"type=\"button\"",
+			"<jsp:include page=\"../paginacion-generica.jsp\" />",
+			"            <jsp:include page=\"../paginacion-generica.jsp\" />",
+			"text-info",
+			"Percepción:",
+			"Percepción: 1",
+			"Percepción: 1 / Clave: G / Subclave: 01",
+			"submenu",
+			"href",
+			" class=\"js-vermas\"",
+			"class=\"js-vermas\"",
+			"<span class=\"icon-editar\"></span>",
+			"<a role=\"button\" class=\"btn btn-default text-danger\">",
+			"Eliminar",
+			"<span class=\"icon-editar\"></span>",
+			"</button>",
+			" type=\"submit\" value=\"Submit\"",
+			"<button",
+			"<hr />",
+			"</button>",
+			" type=\"submit\" value=\"Submit\"",
+			"<button ",
+			"<hr />",
+			"type=\"button\"",
+			"type=\"button\" ",
+			" class=\"js-vermas\"",
+			"<hr />",
+			"</button>",
+			" type=\"submit\" value=\"Submit\"",
+			"<button",
+			"<hr />",
+			"type=\"button\" ",
+			" type=\"submit\" value=\"Submit\"",
+			"</button>",
+			"<button",
+			" type=\"submit\" value=\"Submit\"",
+			"</button>",
+			"<button",
+			" type=\"submit\" value=\"Submit\"",
+			"</button>",
+			"<button",
+			" class=\"js-vermas\"",
+			"panel-title",
+			"    $('body').on('click', '.js-vermas', function () {",
+			"    $('body').on('click', '[data-toggle=\"collapse\"]', function () {",
+			" type=\"submit\" value=\"Submit\"",
+			"</button>",
+			"<button",
+			" type=\"submit\" value=\"Submit\"",
+			"button>",
+			"<button",
+			"<hr /> ",
+			"text-warning",
+			"warnig",
+			"<br />",
+			"br",
+			"menuFiltrarDeclaraciones",
+			"politicaCookies",
+			",chrome=1",
+			"sexo",
+			"col-",
+			"<a href=\"javascrip:void();\" class=\"ibot-limitar\" type=\"button\" data-ancho-limite=\"130px\" data-toggle=\"popover\" data-placement=\"top\" title=\"Comentario\" data-content=\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas, justo a facilisis dignissim, turpis nunc convallis mi, vel imperdiet quam nisi a erat.<br><br> <button type='button' class='btn btn-primary' data-toggle='modal' data-target='#nuevoComentario'><span class='icon-editar'></span> Editar</button>\" data-trigger=\"focus\">",
+			"icon-eliminar text-warning",
+			"            \n",
+			"308",
+			"<br />",
+			"<hr />",
+			"<br />",
+			"col-sm-4 control-label",
+			"Lorem ipsum<<",
+			"<td class=\"text-nowrap\">No presentada</td>",
+			"<a href=\"#\" class=\"btn btn-primary btn-xlg btn-block\">\n                            <span class=\"icon-diputacionforaldegipuzkoa ibot-xlg\"></span> &nbsp; PRESENTAR DECLARACIÓN\n                        </a>",
+			"<a href=\"#\" class=\"btn btn-primary\" role=\"button\"><span class=\"icon-diputacionforaldegipuzkoa\"></span> &nbsp;PRESENTAR DECLARACIÓN</a>",
+			"sede",
+			"theme",
+			"blink",
+			"color",
+			"file",
+			"tab",
+			"<td>No presentada</td>",
+			"modal-filtro-2",
+			"modal",
+			">                                     ",
+			")</",
+			"open",
+			"\">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"<span class=\"icon-editar\"></span>\n                                            <span class=\"sr-only\">Eliminar</span>",
+			"<a role=\"button\" class=\"btn btn-default\">",
+			"Corregir",
+			"<span class=\"icon-editar\"></span>\n                                            <span class=\"sr-only\">Eliminar</span>",
+			"</a>",
+			"",
+			"<a role=\"button\"",
+			"<hr>",
+			"</a>",
+			"",
+			"<a role=\"button\" ",
+			"<hr>",
+			"",
+			"<hr>",
+			"</a>",
+			"",
+			"<a role=\"button\"",
+			"<hr>",
+			"",
+			"</a>",
+			"<a role=\"button\"",
+			"",
+			"</a>",
+			"<a role=\"button\"",
+			"",
+			"</a>",
+			"<a role=\"button\"",
+			"",
+			"</a>",
+			"<a role=\"button\"",
+			"",
+			"<a",
+			"<hr>",
+			"text-danger",
+			"<br>",
+			"<a href=\"javascrip:void();\" class=\"ibot-limitar\" type=\"button\" data-ancho-limite=\"130px\" data-toggle=\"popover\" data-placement=\"top\" title=\"Comentario\" data-content=\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas, justo a facilisis dignissim, turpis nunc convallis mi, vel imperdiet quam nisi a erat.<br><br> <button type='button' class='btn btn-primary' data-toggle='modal' data-target='#nuevoComentario'><span class='icon-editar'></span> Editar</button> <button type='button' class='btn btn-default'><span class='icon-eliminar text-danger'></span></button>\" data-trigger=\"focus\">",
+			"icon-eliminar text-danger",
+			"col-sm-5 control-label",
+			"Lorem ipsum<",
+			"<td class=\"text-nowrap\">Lorem ipsum<</td>",
+			"<a href=\"#\" class=\"btn btn-inverse btn-xlg btn-block\">\n                            <span class=\"icon-diputacionforaldegipuzkoa ibot-xlg\"></span> &nbsp; PRESENTAR DECLARACIÓN\n                        </a>",
+			"<a href=\"#\" class=\"btn btn-inverse\" role=\"button\"><span class=\"icon-diputacionforaldegipuzkoa\"></span> &nbsp;PRESENTAR DECLARACIÓN</a>",
+			"text-inverse",
+			"<td class=\"text-nowrap\">No presentada</td>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aunitz-net-beta2.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 573.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
