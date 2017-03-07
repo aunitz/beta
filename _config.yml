@@ -7,14 +7,14 @@ description: "Más de 17 años en desarrollo web, dirección de proyectos y cons
 baseurl: ""
 url: "http://www.aunitz.net"
 twitter_username:
-github_username:  aunitz
+github_username: aunitz
 facebook_username:
-email_username:  aunitz@gmail.com
+email_username:
 linkedin_username: aunitz
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: UA-90648162-1
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
