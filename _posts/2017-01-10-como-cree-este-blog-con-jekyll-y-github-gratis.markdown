@@ -23,7 +23,7 @@ header-img: "img/post-bg-06.jpg"
 
 <p>Básicamente se trata de herramientas que permiten administrar los contenidos de un sitio web, de manera similar a un <a href="https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_contenidos">CMS</a>, pero cuyo formato de salida es un sitio web completamente estático. Es decir, compuesto de páginas HTML, CSS y algo de JavaScript.</p>
 
-<p>De los muchos generadores que existen me decanté por [Jekyll](https://jekyllrb.com/). El motivo principal fué que [GitHub](https://github.com/) permite generar y alojar páginas con Jekyll de manera completamente gratuita. De ese modo, me ahorraba tener que montar la infraestructura del generador en local y me ahorraba también el dinero del hosting del blog.</p>
+<p>De los muchos generadores que existen me decanté por <a href="https://jekyllrb.com/">Jekyll</a>. El motivo principal fué que <a href="https://github.com/">GitHub</a> permite generar y alojar páginas con Jekyll de manera completamente gratuita. De ese modo, me ahorraba tener que montar la infraestructura del generador en local y me ahorraba también el dinero del hosting del blog.</p>
 
 <h2 class="section-heading">Cómo lo hice</h2>
 
@@ -31,7 +31,7 @@ header-img: "img/post-bg-06.jpg"
 <ol>
 	<li>Seguí los pasos del excelente tutorial <a href="https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/">Build A Blog With Jekyll And GitHub Pages</a> publicado en Smashing Magazine.</li>
 	<li>Realicé algunos pequeños cambios en el HTML de la plantilla utilizada para adecuarla un poco a mis preferencias y para traducir los literales que incluía al español.</li>
-	<li>Si quieres alojar el blog de manera completamente gratuita, GitHub te proporciona un dominio del tipo *yourname.github.io*. Yo prefiría tener un dominio propio, así que compré aunitz.net y configuré el CNAME DNS para que apuntase a aunitz.github.io. Cómo hacerlo también se explica en el tutorial de Smashing Magazine.</li>
+	<li>Si quieres alojar el blog de manera completamente gratuita, GitHub te proporciona un dominio del tipo <em>yourname.github.io</em>. Yo prefiría tener un dominio propio, así que compré aunitz.net y configuré el CNAME DNS para que apuntase a aunitz.github.io. Cómo hacerlo también se explica en el tutorial de Smashing Magazine.</li>
 </ol>
 
 <p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cmYOcuaDcZY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen>
