@@ -1,15 +1,15 @@
 # Site settings
-title: Clean Blog
+title: Aunitz Giménez
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: aunitz@gmail.com
 copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Más de 17 años en desarrollo web, dirección de proyectos y consultoría tecnológica. Me gustan las soluciones simples a los problemas complejos."
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+url: "http://www.aunitz.net"
+twitter_username:
+github_username:  aunitz
+facebook_username:  
+email_username:  aunitz@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
