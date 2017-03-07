@@ -9,7 +9,7 @@ header-img: "img/post-bg-03.jpg"
 
 <p>Con el transcurso del tiempo, es fácil crear involuntariamente múltiples secciones, elementos y características que realizan la misma función.</p>
 
-<p>Cuantas más opciones tenga el usuario a la vista, más le costará tomar un decisión. Se trata de un <a href="{{ site.baseurl }}/principios-usabilidad">principio básico de usabilidad</a>.</p>
+<p>Cuantas más opciones tenga el usuario a la vista, más le costará tomar un decisión. Se trata de un <a href="{{ site.baseurl }}{% post_url 2017-01-18-principios-usabilidad %}">principio básico de usabilidad</a>.</p>
 
 <p>Revisa el interfaz de tu aplicación de vez en cuando para refactorizarlo mediante la fusión de funciones similares.</p>
 
