@@ -2,7 +2,7 @@
 layout:     post
 title:      "Unifica funcionalidades similares"
 subtitle:   "{Tip 2 de usabilidad}"
-date:       2017-03-06 09:30:00
+date:       2017-03-07 09:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-03.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "{Tip 1 de usabilidad} una sola columna"
-subtitle:   "Inauguro una serie de consejos de usabilidad"
+title:      "Una sola columna en lugar de dos"
+subtitle:   "{Tip 1 de usabilidad}"
 date:       2017-03-06 09:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-03.jpg"
