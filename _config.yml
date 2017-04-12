@@ -1,9 +1,10 @@
 # Site settings
-title: Aunitz Giménez
+title: Aunitz Giménez - Consultor y director de proyectos digitales
+subtitle: Aunitz Giménez
 header-img: img/home-bg.jpg
 email: aunitz@gmail.com
 copyright_name: Aunitz Giménez
-description: "Más de 17 años en desarrollo web, dirección de proyectos y consultoría tecnológica. Me gustan las soluciones simples a los problemas complejos."
+description: "Dirección de proyectos digitales y consultoría tecnológica. Especialista en usabilidad, accesibilidad y desarrollo web. Más de 17 años de experiencia en el sector."
 baseurl: ""
 url: "http://www.aunitz.net"
 twitter_username:
