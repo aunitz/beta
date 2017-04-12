@@ -4,7 +4,7 @@ title:      "Memorando sobre el libro Atomic Design de Brad Frost"
 subtitle:   "Notas que quiero recordar sobre lo leído en el libro."
 date:       2017-04-12 16:36:00
 author:     "Aunitz Giménez"
-header-img: "img/real-lights-big-bokeh-at-night.jpg"
+header-img: "img/post-bg-08.jpg"
 ---
 
 <p>El libro <strong>Atomic Design</strong> de <strong>Brad Frost</strong> fue
