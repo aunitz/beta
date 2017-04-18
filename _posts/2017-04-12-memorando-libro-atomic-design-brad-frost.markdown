@@ -274,11 +274,11 @@ conexión, capacidades del dispositivo, funcionalidades del navegador, etc.</p>
 muy útiles para hacer entender la complejidad del entorno web a los clientes,
 colegas, etc.</p>
 
-<p>[IMAGEN 1]</p>
+<p><img src="{{ site.baseurl }}/img/atomic-design-03-esto-no-es-web.png" alt="Fotografía de un monitor de ordenador de escritorio: esto no es la web"></p>
 
-<p>[IMAGEN 2]</p>
+<p><img src="{{ site.baseurl }}/img/atomic-design-04-esto-es-web.png" alt="Fotografía de múltiples dispositivos de distintos tamaños: esto es la web"></p>
 
-<p>[IMAGEN 3]</p>
+<p><img src="{{ site.baseurl }}/img/atomic-design-05-esto-sera-web.png" alt="Fotografía de múltiples dispositivos de distintos tamaños y signos de interrogación: esto será la web"></p>
 
 <h2>Considerar el rendimiento como un principio esencial del diseño</h2>
 
@@ -321,7 +321,10 @@ Brad Frost utiliza una, en mi opinión, acertada y bonita metáfora.</p>
 <p>Desarrollar un sistema de diseño es un <a href="http://atomicdesign.bradfrost.com/chapter-4/#an-iterative-iterative-iterative-iterative-process">proceso
 iterativo similar a esculpir una escultura</a>.</p>
 
-<p>[AÑADIR IMAGEN]</p>
+<p>
+  <img src="{{ site.baseurl }}/img/atomic-design-06-escultor.jpg" alt="Fotografía de un escultor tallando una escultura">
+  <figcaption>Créditos de la imagen: <a href="https://flic.kr/p/dLrf6w">Mike Beauregard en Flickr</a></figcaption>
+</p>
 
 <p>Es clave que los <i>stakeholders</i> se sientan cómodos y
 sepan revisar el sistema de diseño cuando aún está en curso de desarrollo.</p>
