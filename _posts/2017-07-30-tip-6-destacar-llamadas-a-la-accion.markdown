@@ -2,7 +2,7 @@
 layout:     post
 title:      "Destacar las llamadas a la acción"
 subtitle:   "{Tip 6 de usabilidad}"
-date:       2017-04-30 18:50:00
+date:       2017-07-30 18:50:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-11.jpg"
 ---

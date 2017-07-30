@@ -2,7 +2,7 @@
 layout:     post
 title:      "Cómo deshacer un commit en Git"
 subtitle:   "No lo tenía claro hasta que vi este vídeo"
-date:       2017-04-29 09:50:00
+date:       2017-07-29 09:50:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-10.jpg"
 ---
