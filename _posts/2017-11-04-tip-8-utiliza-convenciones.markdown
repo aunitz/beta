@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "No inventes la rueda: utiliza convenciones"
+title:      "No reinventes la rueda: utiliza convenciones"
 subtitle:   "{Tip 8 de usabilidad}"
 date:       2017-11-04 11:30:00
 author:     "Aunitz Giménez"
@@ -13,4 +13,4 @@ header-img: "img/post-bg-12.jpg"
 
 <p>Por supuesto, habrá momentos en que una convención ya no sirva para su propósito y dé paso a un nuevo patrón. Pero, antes de alejarte de una convención, asegúrate de que haya un buen motivo para ello.</p>
 
-<p><img src="{{ site.baseurl }}/img/tip-8-utiliza-convenciones.png" alt="Ilustración del tip 8 de usabilidad: no inventes la rueda; utiliza convenciones"></p>
+<p><img src="{{ site.baseurl }}/img/tip-8-utiliza-convenciones.png" alt="Ilustración del tip 8 de usabilidad: no reinventes la rueda; utiliza convenciones"></p>
