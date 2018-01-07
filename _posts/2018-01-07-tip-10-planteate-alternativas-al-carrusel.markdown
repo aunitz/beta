@@ -1,4 +1,3 @@
----
 layout:     post
 title:      "Plantéate alternativas al carrusel"
 subtitle:   "{Tip 10 de usabilidad}"
