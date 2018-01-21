@@ -11,7 +11,7 @@ header-img: "img/post-bg-18.jpg"
 
 <p>Esta perogrullada del gran <a href="https://www.nngroup.com/people/jakob-nielsen/" target="_blank">Jakob Nielsen</a>, no es más que un recordatorio de que una de las maneras más efectivas de conseguir optimizar la usabilidad de nuestros interfaces es seguir las convenciones de diseño establecidas.</p>
 
-<p><img src="{{ site.baseurl }}/img/ley-02-ley-de-hick.png" alt="Ilustración de la Ley 02 de usabilidad: Ley de Hick"></p>
+<p><img src="{{ site.baseurl }}/img/ley-03-ley-de-jakob.png" alt="Ilustración de la Ley 03 de usabilidad: Ley de Jakob"></p>
 
 <p>La Ley de Jakob fue formulada por el experto en usabilidad Jakob Nielsen en 1999. Y explicitada de nuevo en este breve vídeo en 2017.</p>
 
