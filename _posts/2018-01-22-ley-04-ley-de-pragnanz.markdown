@@ -11,6 +11,8 @@ header-img: "img/post-bg-19.jpg"
 
 <p>El motivo de actuar de este modo es que requiere de un menor esfuerzo cognitivo por parte del usuario.</p>
 
+<p>Nuestra percepción visual tiene una tendencia natural a buscar y encontrar patrones. Y ante varios patrones entre los cuales escoger, nuestro cerebro tiende a percibir el más sencillo.</p>
+
 <p>Ejemplo: dados cuatro puntos, veremos un cuadrado, en lugar de otros esquemas visuales más complejos.</p>
 
 <p><img src="{{ site.baseurl }}/img/ley-04-ley-de-pragnanz.png" alt="Ilustración de la Ley 03 de usabilidad: Ley de Prägnanz"></p>
