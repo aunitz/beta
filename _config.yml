@@ -23,7 +23,7 @@ disqus: aunitz
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+#highlighter: rouge
 #permalink: pretty
 permalink: /:title/
 paginate: 5
