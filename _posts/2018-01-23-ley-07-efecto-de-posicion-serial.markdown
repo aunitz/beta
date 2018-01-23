@@ -7,7 +7,7 @@ author:     "Aunitz Giménez"
 header-img: "img/post-bg-22.jpg"
 ---
 
-<p><em><strong>Los usuarios tienen tendencia a recordar mejor el primer y último elemento de una serie.</strong></em></p>
+<p><em><strong>Los usuarios tienden a recordar mejor el primer y último elemento de una serie.</strong></em></p>
 
 <p>Los primeros elementos de una lista se transfieren a la memoria a largo plazo. Los recuerdas porque ahí es donde comenzaste. Los elementos al final de la lista se recuerdan porque aún permanecen en la memoria a corto plazo. Mientras que los elementos del medio de la lista serán los peor recordados.</p>
 
