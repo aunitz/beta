@@ -13,6 +13,9 @@ facebook_username:
 email_username:
 linkedin_username: aunitz
 
+# Origen de la plantilla
+# https://startbootstrap.com/template-overviews/clean-blog/
+
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 google_tracking_id: UA-90648162-1
