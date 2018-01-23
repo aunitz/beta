@@ -2,7 +2,7 @@
 layout:     post
 title:      "Efecto Von Restorff"
 subtitle:   "{Leyes de usabilidad}"
-date:       2018-01-24 19:00:00
+date:       2018-01-23 20:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-24.jpg"
 ---
