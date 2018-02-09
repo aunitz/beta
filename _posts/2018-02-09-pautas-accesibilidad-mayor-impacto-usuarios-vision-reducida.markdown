@@ -23,11 +23,11 @@ header-img: "img/post-bg-18.jpg"
 
 <p><img src="{{ site.baseurl }}/img/pautas-accesibilidad-mayor-impacto-usuarios-vision-reducida-1.png" alt="Ilustración de la primera pauta de accesibilidad: Los enlaces deben distinguirse del texto circundante"></p>
 
-<h2>2. Los elementos de texto deben tener suficiente contraste de color con el fondo</h2>
+<h2>2. Los textos deben tener suficiente contraste de color con el fondo</h2>
 
 <p>Todos los contenidos textuales deben tener suficiente contraste entre el texto en primer plano y los colores de fondo detrás de él.</p>
 
-<p><img src="{{ site.baseurl }}/img/pautas-accesibilidad-mayor-impacto-usuarios-vision-reducida-2.png" alt="Ilustración de la segunda pauta de accesibilidad: Los elementos de texto deben tener suficiente contraste de color con el fondo"></p>
+<p><img src="{{ site.baseurl }}/img/pautas-accesibilidad-mayor-impacto-usuarios-vision-reducida-2.png" alt="Ilustración de la segunda pauta de accesibilidad: Los textos deben tener suficiente contraste de color con el fondo"></p>
 
 <h2>3. No se debe desactivar la posibilidad de hacer zoom</h2>
 
