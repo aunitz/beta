@@ -26,7 +26,7 @@ header-img: "img/post-bg-18.jpg"
 
 <div class="row">
     <div class="col-sm-6">
-        <p>Ventajas</p>
+        Ventajas
         <ul>
             <li>Tiempos de finalización más rápidos. Especialmente en dispositivos móviles.</li>
             <li>Más facilidad para rellenar el formulario siguiendo un orden lógico.</li>
@@ -34,7 +34,7 @@ header-img: "img/post-bg-18.jpg"
         </ul>
     </div>
     <div class="col-sm-6">
-        <p>Inconvenientes</p>
+        Inconvenientes
         <ul>
             <li>Requiere más espacio vertical.</li>
             <li>No es la solución ideal para formulario muy extensos.</li>
@@ -46,36 +46,47 @@ header-img: "img/post-bg-18.jpg"
 
 <p><img src="{{ site.baseurl }}/img/tip-11-etiquetas-alineadas-izquierda.png" alt="Formulario con las etiquetas alineadas a la izquierda"></p>
 
-<p>Ventajas</p>
-<ul>
-	<li>Requiere menos espacio vertical.</li>
-	<li>Facilita la lectura y comprensión de las etiquetas.</li>
-	<li>Requiere del usuario que preste más atención. Lo cual es positivo cuando se le piden datos poco habituales.</li>
-</ul>
-<p>Inconvenientes</p>
-<ul>
-	<li>Requiere más espacio horizontal.</li>
-	<li>Los estudios han medido tiempos de finalización más lentos. Lo cual no es necesariamente un inconveniente cuando lo que se le pide al usuario son datos complejos o poco habituales.</li>
-	<li>Peor soporte multilenguaje.</li>
-</ul>
+<div class="row">
+    <div class="col-sm-6">
+        Ventajas
+        <ul>
+            <li>Requiere menos espacio vertical.</li>
+            <li>Facilita la lectura y comprensión de las etiquetas.</li>
+            <li>Requiere del usuario que preste más atención. Lo cual es positivo cuando se le piden datos poco habituales.</li>
+        </ul>
+    </div>
+    <div class="col-sm-6">
+        Inconvenientes
+        <ul>
+            <li>Requiere más espacio horizontal.</li>
+            <li>Los estudios han medido tiempos de finalización más lentos. Lo cual no es necesariamente un inconveniente cuando lo que se le pide al usuario son datos complejos o poco habituales.</li>
+            <li>Peor soporte multilenguaje.</li>
+        </ul>
+    </div>
+</div>
 
 <h2>Etiquetas alineadas a la derecha</h2>
 
 <p><img src="{{ site.baseurl }}/img/tip-11-etiquetas-alineadas-derecha.png" alt="Formulario con las etiquetas alineadas a la derecha"></p>
 
-<p>Ventajas</p>
-<ul>
-	<li>Requiere menos espacio vertical.</li>
-	<li>Mejor conexión visual entre la etiqueta y el campo que en los alineados a la izquierda.</li>
-	<li>En consecuencia, se han medido tiempos de finalización más rápidos que en los alienados a la izquierda.</li>
-</ul>
-
-<p>Inconvenientes</p>
-<ul>
-	<li>Requiere más espacio horizontal.</li>
-	<li>Peor soporte multilenguaje.</li>
-	<li>Más difíciles de leer y comprender que los alineados a la izquierda. Especialmente cuando lo que se le pide al usuario son datos complejos o poco habituales.</li>
-</ul>
+<div class="row">
+    <div class="col-sm-6">
+        Ventajas
+        <ul>
+            <li>Requiere menos espacio vertical.</li>
+            <li>Mejor conexión visual entre la etiqueta y el campo que en los alineados a la izquierda.</li>
+            <li>En consecuencia, se han medido tiempos de finalización más rápidos que en los alienados a la izquierda.</li>
+        </ul>
+    </div>
+    <div class="col-sm-6">
+        Inconvenientes
+        <ul>
+            <li>Requiere más espacio horizontal.</li>
+            <li>Peor soporte multilenguaje.</li>
+            <li>Más difíciles de leer y comprender que los alineados a la izquierda. Especialmente cuando lo que se le pide al usuario son datos complejos o poco habituales.</li>
+        </ul>
+    </div>
+</div>
 
 <h2>Nunca prescindas de las etiquetas</h2>
 
