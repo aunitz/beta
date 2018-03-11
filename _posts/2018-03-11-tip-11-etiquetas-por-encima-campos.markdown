@@ -26,7 +26,7 @@ header-img: "img/post-bg-18.jpg"
 
 <div class="row">
     <div class="col-sm-6">
-        <span class="text-success"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>&nbsp;&nbsp;Ventajas</span>
+        <strong class="text-success"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>&nbsp;&nbsp;Ventajas</strong>
         <ul>
             <li>Tiempos de finalización más rápidos. Especialmente en dispositivos móviles.</li>
             <li>Más facilidad para rellenar el formulario siguiendo un orden lógico.</li>
@@ -34,7 +34,7 @@ header-img: "img/post-bg-18.jpg"
         </ul>
     </div>
     <div class="col-sm-6">
-        <span class="text-danger"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp;&nbsp;Inconvenientes</span>
+        <strong class="text-danger"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp;&nbsp;Inconvenientes</strong>
         <ul>
             <li>Requiere más espacio vertical.</li>
             <li>No es la solución ideal para formulario muy extensos.</li>
@@ -48,7 +48,7 @@ header-img: "img/post-bg-18.jpg"
 
 <div class="row">
     <div class="col-sm-6">
-        Ventajas
+        <strong class="text-success"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>&nbsp;&nbsp;Ventajas</strong>
         <ul>
             <li>Requiere menos espacio vertical.</li>
             <li>Facilita la lectura y comprensión de las etiquetas.</li>
@@ -56,7 +56,7 @@ header-img: "img/post-bg-18.jpg"
         </ul>
     </div>
     <div class="col-sm-6">
-        Inconvenientes
+        <strong class="text-danger"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp;&nbsp;Inconvenientes</strong>
         <ul>
             <li>Requiere más espacio horizontal.</li>
             <li>Los estudios han medido tiempos de finalización más lentos. Lo cual no es necesariamente un inconveniente cuando lo que se le pide al usuario son datos complejos o poco habituales.</li>
@@ -71,7 +71,7 @@ header-img: "img/post-bg-18.jpg"
 
 <div class="row">
     <div class="col-sm-6">
-        Ventajas
+        <strong class="text-success"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>&nbsp;&nbsp;Ventajas</strong>
         <ul>
             <li>Requiere menos espacio vertical.</li>
             <li>Mejor conexión visual entre la etiqueta y el campo que en los alineados a la izquierda.</li>
@@ -79,7 +79,7 @@ header-img: "img/post-bg-18.jpg"
         </ul>
     </div>
     <div class="col-sm-6">
-        Inconvenientes
+        <strong class="text-danger"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp;&nbsp;Inconvenientes</strong>
         <ul>
             <li>Requiere más espacio horizontal.</li>
             <li>Peor soporte multilenguaje.</li>
