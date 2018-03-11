@@ -26,7 +26,7 @@ header-img: "img/post-bg-18.jpg"
 
 <div class="row">
     <div class="col-sm-6">
-        <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Ventajas
+        <span class="text-success"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>&nbsp;&nbsp;Ventajas</span>
         <ul>
             <li>Tiempos de finalización más rápidos. Especialmente en dispositivos móviles.</li>
             <li>Más facilidad para rellenar el formulario siguiendo un orden lógico.</li>
@@ -34,7 +34,7 @@ header-img: "img/post-bg-18.jpg"
         </ul>
     </div>
     <div class="col-sm-6">
-        Inconvenientes
+        <span class="text-danger"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp;&nbsp;Inconvenientes</span>
         <ul>
             <li>Requiere más espacio vertical.</li>
             <li>No es la solución ideal para formulario muy extensos.</li>
