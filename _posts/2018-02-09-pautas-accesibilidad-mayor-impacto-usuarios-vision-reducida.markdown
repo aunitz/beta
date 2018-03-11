@@ -4,7 +4,7 @@ title:      "Las 3 pautas de accesibilidad de mayor impacto para usuarios con vi
 subtitle:   "{Accesibilidad web práctica}"
 date:       2018-02-09 18:00:00
 author:     "Aunitz Giménez"
-header-img: "img/post-bg-18.jpg"
+header-img: "img/post-bg-27.jpg"
 ---
 
 <p>Con este artículo voy a iniciar una serie dedicada a divulgar aquellas pautas de accesibilidad que tienen un <strong>mayor impacto práctico</strong> en el día a día de los usuarios con algún tipo de discapacidad.</p>

@@ -4,7 +4,7 @@ title:      "Las etiquetas de los campos, mejor por encima"
 subtitle:   "{Tip 11 de usabilidad}"
 date:       2018-03-11 12:00:00
 author:     "Aunitz Giménez"
-header-img: "img/post-bg-18.jpg"
+header-img: "img/post-bg-28.jpg"
 ---
 
 <p>Una de las decisiones importantes que debes tomar al diseñar un formulario es dónde ubicar las etiquetas (labels) con respecto a los campos del formulario.</p>
