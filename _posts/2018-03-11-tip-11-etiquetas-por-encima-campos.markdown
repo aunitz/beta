@@ -26,7 +26,7 @@ header-img: "img/post-bg-18.jpg"
 
 <div class="row">
     <div class="col-sm-6">
-        Ventajas
+        <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Ventajas
         <ul>
             <li>Tiempos de finalización más rápidos. Especialmente en dispositivos móviles.</li>
             <li>Más facilidad para rellenar el formulario siguiendo un orden lógico.</li>
