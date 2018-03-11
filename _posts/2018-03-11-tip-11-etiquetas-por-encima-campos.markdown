@@ -37,7 +37,7 @@ header-img: "img/post-bg-18.jpg"
         <strong class="text-danger"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp;&nbsp;Inconvenientes</strong>
         <ul>
             <li>Requiere más espacio vertical.</li>
-            <li>No es la solución ideal para formulario muy extensos.</li>
+            <li>No es la solución ideal para formularios muy extensos.</li>
         </ul>
     </div>
 </div>
