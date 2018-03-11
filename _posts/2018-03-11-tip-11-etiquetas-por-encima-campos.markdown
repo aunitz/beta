@@ -24,18 +24,23 @@ header-img: "img/post-bg-18.jpg"
 
 <p><img src="{{ site.baseurl }}/img/tip-11-etiquetas-por-encima.png" alt="Formulario con las etiquetas ubicadas por encima de los campos"></p>
 
-<p>Ventajas</p>
-<ul>
-	<li>Tiempos de finalización más rápidos. Especialmente en dispositivos móviles.</li>
-	<li>Más facilidad para rellenar el formulario siguiendo un orden lógico.</li>
-	<li>Mejor soporte multilenguaje. Dado que se maximiza el espacio dedicado a las etiquetas.</li>
-</ul>
-
-<p>Inconvenientes</p>
-<ul>
-	<li>Requiere más espacio vertical.</li>
-	<li>No es la solución ideal para formulario muy extensos.</li>
-</ul>
+<div class="row">
+    <div class="col-sm-6">
+        <p>Ventajas</p>
+        <ul>
+            <li>Tiempos de finalización más rápidos. Especialmente en dispositivos móviles.</li>
+            <li>Más facilidad para rellenar el formulario siguiendo un orden lógico.</li>
+            <li>Mejor soporte multilenguaje. Dado que se maximiza el espacio dedicado a las etiquetas.</li>
+        </ul>
+    </div>
+    <div class="col-sm-6">
+        <p>Inconvenientes</p>
+        <ul>
+            <li>Requiere más espacio vertical.</li>
+            <li>No es la solución ideal para formulario muy extensos.</li>
+        </ul>
+    </div>
+</div>
 
 <h2>Etiquetas alineadas a la izquierda</h2>
 
