@@ -11,6 +11,6 @@ header-img: "img/post-bg-32.jpg"
 
 <p>Tal y como nos lo sugieren <a href="{{ site.baseurl }}{% post_url 2017-01-18-principios-usabilidad %}">varios principios de usabilidad</a> (como el de anticipación o el de feedback), <strong>debemos informar al usuario del estado</strong> particular en el que se encuentra cada elemento.</p>
 
-<p>Los estados ayudarán a los usuarios a comprender si sus acciones pasadas se han llevado a cabo con éxito o no, y si debe tomar medidas o no.</p>
+<p>Los estados ayudarán a los usuarios a comprender si sus acciones pasadas se han llevado a cabo con éxito o no, y si deben tomar medidas o no.</p>
 
 <p><img src="{{ site.baseurl }}/img/tip-12-muestra-el-estado.png" alt="Muestra el estado de los elementos del interfaz"></p>
