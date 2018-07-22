@@ -4,7 +4,7 @@ title:      "Utiliza la jerarquía visual para dirigir la atención"
 subtitle:   "{Tip 13 de usabilidad}"
 date:       2018-07-22 18:00:00
 author:     "Aunitz Giménez"
-header-img: "img/post-bg-32.jpg"
+header-img: "img/post-bg-29.jpg"
 ---
 
 <p>Una buena jerarquía visual se utiliza para <strong>separar los elementos de un interfaz</strong> y distinguir los más importantes de los menos.</p>
