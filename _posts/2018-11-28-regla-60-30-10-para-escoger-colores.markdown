@@ -8,7 +8,7 @@ header-img: "img/post-bg-30.jpg"
 ---
 
 <p>Existe una regla clásica en el mundo de la decoración de interiores que se puede trasladar directamente al ámbito de los interfaces de usuario.</p>
-<p><img src="{{ site.baseurl }}/img/60-30-10_01.gif" alt="La regla del 60-30-10 para escoger colores"></p>
+<p><img src="{{ site.baseurl }}/img/60-30-10_01.png" alt="La regla del 60-30-10 para escoger colores"></p>
 <p>Consiste en escoger <strong>tres colores</strong> destacados que se distribuyan en la siguiente proporción:</p>
 <ul>
 	<li><strong>60%</strong> del espacio para el color <strong>principal</strong> o dominante.</li>
