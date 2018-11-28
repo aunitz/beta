@@ -16,8 +16,8 @@ header-img: "img/post-bg-30.jpg"
 	<li><strong>10%</strong> del espacio para el color que <strong>acentúa</strong> los detalles.</li>
 </ul>
 <p>Un ejemplo para asimilar esta proporción es el de un traje. La americana sería el color principal, la camisa el secundario y la corbata el color enfático.</p>
-<p><img src="{{ site.baseurl }}/img/60-30-10-ejemplo-1.gif" alt="Ejemplo de la regla del 60-30-10 para escoger colores"></p>
 <p>Las proporciones de la distribución de colores no tienen que ser matemáticamente exactas. Se trata de una regla orientativa.</p>
+<p><img src="{{ site.baseurl }}/img/60-30-10-ejemplo-1.png" alt="Ejemplo de la regla del 60-30-10 para escoger colores"></p>
 <p>En la mayoría de los casos, se escogerán los tres colores en base a las siguientes pautas:</p>
 <ul>
 	<li>Color principal: color neutral agradable a la vista.</li>
@@ -25,6 +25,6 @@ header-img: "img/post-bg-30.jpg"
 	<li>Color enfático: debe contrastar notablemente con respecto a los dos anteriores. Es habitual utilizarlo en los botones del tipo “Call-to-Action”.</li>
 </ul>
 <p>Estos tres colores deben escogerse de modo que sean armónicos y transmitan las sensaciones que el proyecto requiera.</p>
-<p><img src="{{ site.baseurl }}/img/60-30-10-ejemplo-2.gif" alt="Ejemplo de la regla del 60-30-10 para escoger colores"></p>
+<p><img src="{{ site.baseurl }}/img/60-30-10-ejemplo-2.png" alt="Ejemplo de la regla del 60-30-10 para escoger colores"></p>
 
 
