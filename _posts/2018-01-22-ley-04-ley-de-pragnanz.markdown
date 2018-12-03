@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Ley de Prägnanz"
-subtitle:   "{Leyes de usabilidad}"
+subtitle:   "{Leyes de usabilidad. Gestalt}"
 date:       2018-01-22 19:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-19.jpg"

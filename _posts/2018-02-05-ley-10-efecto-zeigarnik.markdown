@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Efecto Zeigárnik"
-subtitle:   "{Leyes de usabilidad}"
+subtitle:   "{Leyes de usabilidad. Gestalt}"
 date:       2018-02-05 20:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-25.jpg"
