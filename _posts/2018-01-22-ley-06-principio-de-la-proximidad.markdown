@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Principio de la proximidad"
+title:      "Principio de proximidad"
 subtitle:   "{Leyes de usabilidad. Gestalt}"
 date:       2018-01-22 21:45:00
 author:     "Aunitz Giménez"
