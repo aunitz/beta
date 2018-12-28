@@ -36,7 +36,6 @@ a:focus {
 }
 a img:hover,
 a img:focus {
-  cursor: -webkit-zoom-in;
   cursor: zoom-in;
 }
 blockquote {
@@ -92,9 +91,13 @@ hr.small {
 @media only screen and (min-width: 1170px) {
   .navbar-custom {
     -webkit-transition: background-color 0.3s;
+    -moz-transition: background-color 0.3s;
     transition: background-color 0.3s;
     /* Force Hardware Acceleration in WebKit */
     -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -106,9 +109,8 @@ hr.small {
     background-color: rgba(255, 255, 255, 0.9);
     border-bottom: 1px solid #f2f2f2;
     -webkit-transition: -webkit-transform 0.3s;
-    transition: -webkit-transform 0.3s;
+    -moz-transition: -moz-transform 0.3s;
     transition: transform 0.3s;
-    transition: transform 0.3s, -webkit-transform 0.3s;
   }
   .navbar-custom.is-fixed .navbar-brand {
     color: #404040;
@@ -127,6 +129,9 @@ hr.small {
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
     -webkit-transform: translate3d(0, 100%, 0);
+    -moz-transform: translate3d(0, 100%, 0);
+    -ms-transform: translate3d(0, 100%, 0);
+    -o-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
   }
 }
@@ -134,6 +139,8 @@ hr.small {
   background: no-repeat center center;
   background-color: #808080;
   background-attachment: scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
   margin-bottom: 50px;
@@ -158,7 +165,8 @@ hr.small {
 .intro-header .site-heading h1,
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 50px;
+  font-family: 'Caveat', sans-serif;
+  font-size: 80px;
 }
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
@@ -172,7 +180,8 @@ hr.small {
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-family: 'Caveat', sans-serif;
+    font-size: 105px;
   }
 }
 .intro-header .post-heading h1 {
@@ -288,8 +297,7 @@ footer .copyright {
   border-radius: 0;
   font-size: 1.5em;
   background: none;
-  -webkit-box-shadow: none !important;
-          box-shadow: none !important;
+  box-shadow: none !important;
   resize: none;
 }
 .floating-label-form-group label {
@@ -304,6 +312,8 @@ footer .copyright {
   vertical-align: baseline;
   opacity: 0;
   -webkit-transition: top 0.3s ease,opacity 0.3s ease;
+  -moz-transition: top 0.3s ease,opacity 0.3s ease;
+  -ms-transition: top 0.3s ease,opacity 0.3s ease;
   transition: top 0.3s ease,opacity 0.3s ease;
 }
 .floating-label-form-group::not(:first-child) {
@@ -384,10 +394,6 @@ form .row:first-child .floating-label-form-group {
   color: white;
   text-shadow: none;
   background: #0085a1;
-}
-img::-moz-selection {
-  color: white;
-  background: transparent;
 }
 img::selection {
   color: white;
