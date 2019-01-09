@@ -82,6 +82,6 @@ header-img: "img/post-bg-38.jpg"
 
 <p><img src="{{ site.baseurl }}/img/front-end-back-end-desacoplado-04.jpg" alt=""></p>
 
-<p>Creo que entre los frameworks de primera final no hay uno mejor ni peor. Dependerá de las características concretas del proyecto, del conocimiento de los desarrolladores, de las necesidades de integración con otros sistemas, de los plazos, etc.</p>
+<p>Creo que entre los frameworks de primera línea no hay uno mejor ni peor. Dependerá de las características concretas del proyecto, del conocimiento de los desarrolladores, de las necesidades de integración con otros sistemas, de los plazos, etc.</p>
 <p>Lo que considero que es claramente ventajosa es la apuesta por una arquitectura que desacople el front-end y el back-end de manera radical.</p>
 <p>No en vano es el camino que han seguido empresas como <strong>Google, Microsoft, Facebook, HBO, Instagram, PayPal, WhatsApp Web, American Express, OpenBank, eBay, Airbnb, Twitter, Pinterest, Slack, Uber, Dropbox </strong>y un largo etcétera.</p>
