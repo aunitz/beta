@@ -66,7 +66,7 @@ header-img: "img/post-bg-36.jpg"
 <h3>3. Añade labels a los elementos de formulario</h3>
 <p>Los elementos de formulario deben llevar una etiqueta <code>&lt;label&gt;</code> correctamente relacionada que los nombre adecuadamente para que resulten identificables por los lectores de pantalla.</p>
 <p><img src="{{ site.baseurl }}/img/accesibilidad-web-al-alcance-de-todos-05.gif" alt=""></p>
-<p>El atributo placeholder no es una alternativa válida.</p>
+<p>El atributo <code>placeholder</code> no es una alternativa válida.</p>
 
 <h3>4. Muestra dónde está el foco</h3>
 <p>Los usuarios que navegan con el teclado necesitan tener resaltado el elemento que tiene el foco (<code>:focus</code>). Además de que todos los elementos interactivos deben poder coger el foco y poderse recorrer con el teclado en un orden lógico.</p>
@@ -93,9 +93,9 @@ header-img: "img/post-bg-36.jpg"
 <p><img src="{{ site.baseurl }}/img/accesibilidad-web-al-alcance-de-todos-11.png" alt=""></p>
 
 <h3>9. No se debe desactivar la posibilidad de hacer zoom</h3>
-<p>La página no debe incluir el parámetro <code>user-scalable=no</code> en la etiqueta <code>&lt;meta name=”viewport”&gt;</code>, ya que desactiva la posibilidad de que el usuario pueda hacer zoom. Una funcionalidad esencial para los usuarios con visión reducida.</p>
+<p>La página no debe incluir el parámetro <code>user-scalable=no</code> en la etiqueta <code>&lt;meta name="viewport"&gt;</code>, ya que desactiva la posibilidad de que el usuario pueda hacer zoom. Una funcionalidad esencial para los usuarios con visión reducida.</p>
 <p><img src="{{ site.baseurl }}/img/accesibilidad-web-al-alcance-de-todos-12.jpg" alt=""></p>
-<p>Además, esta misma etiqueta <code>&lt;meta name=”viewport”&gt;</code>, no debe incluir el parámetro <code>maximum-scale</code>. El cual limita la escala máxima del nivel de zoom. En caso de que se incluya el parámetro, no debería estar establecido a un valor inferior a 5.</p>
+<p>Además, esta misma etiqueta <code>&lt;meta name="viewport"&gt;</code>, no debe incluir el parámetro <code>maximum-scale</code>. El cual limita la escala máxima del nivel de zoom. En caso de que se incluya el parámetro, no debería estar establecido a un valor inferior a 5.</p>
 
 <h2>Reglas no tan básicas de accesibilidad</h2>
 
