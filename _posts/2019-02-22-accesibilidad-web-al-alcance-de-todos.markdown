@@ -140,7 +140,7 @@ header-img: "img/post-bg-36.jpg"
 <div class="footnotes">
   <ol>
     <li id="fn:fn-f1">
-      <p>Los lectores de pantalla (screen readers en inglés) son un software que permite la utilización del sistema operativo y las distintas aplicaciones mediante el empleo de un sintetizador de voz que "lee y explica" lo que se visualiza en la pantalla, lo que supone una ayuda para las personas con graves problemas de visión o completamente ciegas.</p>
+      <p>Los lectores de pantalla (screen readers en inglés) son un software que permite la utilización del sistema operativo y las distintas aplicaciones mediante el empleo de un sintetizador de voz que "lee y explica" lo que se visualiza en la pantalla, lo que supone una ayuda para las personas con graves problemas de visión o completamente ciegas.&nbsp;<a href="#fnref:fn-f1" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>
