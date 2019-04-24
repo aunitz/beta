@@ -1,23 +1,23 @@
 ---
 layout:     post
 title:      "Qué es una Progressive Web App (PWA)"
-subtitle:   "Experiencia de usuario similar a las aplicaciones nativas"
+subtitle:   "Proporciona una experiencia de usuario similar a las aplicaciones nativas"
 date:       2019-04-24 13:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-40.jpg"
 ---
 
-<p>Las aplicaciones web progresivas (PWA, por sus siglas en inglés) <strong>son aplicaciones web </strong>que se cargan como páginas web o sitios web normales, pero <strong>ofrecen una experiencia de usuario que las asemeja a las aplicaciones nativas</strong>.</p>
+<p>Las aplicaciones web progresivas (PWA, por sus siglas en inglés) <strong>son aplicaciones web</strong> que se cargan como páginas web o sitios web normales, pero <strong>ofrecen una experiencia de usuario que las asemeja a las aplicaciones nativas</strong>.</p>
 
 <p>Son capaces de ofrecer funcionalidades como trabajar sin conexión, notificaciones push o el acceso al hardware del dispositivo. Tradicionalmente estas funcionalidades sólo estaban disponibles para aplicaciones nativas.</p>
 
 <p><img src="{{ site.baseurl }}/img/que-es-una-progressive-web-app-pwa-01.jpg" alt=""></p>
 
-<p>Las PWA no son una tecnología en si misma, sino un conjunto de tecnologías disponibles en los navegadores web modernos. El concepto de PWA es más bien un término “marketiniano” que fue acuñado por primera vez por Google en 2015. De hecho, Google es la empresa que con más fuerza a promovido este concepto y cuenta con una <a href="https://developers.google.com/web/progressive-web-apps/" target="_blank">completa web</a> que lo documenta en detalle.</p>
+<p>Las PWA no son una tecnología en sí misma, sino un <strong>conjunto de tecnologías</strong> disponibles en los navegadores web modernos. El concepto de PWA es más bien un término “marketiniano” que fue acuñado por primera vez por Google en 2015. De hecho, Google es la empresa que con más fuerza ha promovido este concepto y cuenta con una <a href="https://developers.google.com/web/progressive-web-apps/" target="_blank">completa web</a> que lo documenta en detalle.</p>
 
 <h2>Funcionalidades que se pueden implementar en una PWA</h2>
 
-<p>Al tratarse de un variado conjunto de tecnologías hay que tener en cuenta que una determinada PWA no tiene que implementarlas todas. Sólo aquellas que tengan sentido para el proyecto en concreto. Además, se trata de tecnologías que podemos utilizar en cualquier aplicación o sitio web, sin tener siquiera que denominarla como PWA.</p>
+<p>Al tratarse de un variado conjunto de tecnologías, hay que tener en cuenta que una determinada PWA no tiene que implementarlas todas. Sólo aquellas que tengan sentido para el proyecto en concreto. Además, se trata de tecnologías que podemos utilizar en cualquier aplicación o sitio web, sin tener siquiera que denominarla como PWA.</p>
 
 <p>La lista es amplia y va creciendo continuamente. Muchas de estas funcionalidades están todavía en fase experimental y, en gran parte, sólo Chrome las soporta totalmente.</p>
 
@@ -27,7 +27,7 @@ header-img: "img/post-bg-40.jpg"
 
 <ol>
 	<li>Acceso a la geolocalización (<a href="https://developers.google.com/maps/documentation/geolocation/intro" target="_blank">Geolocation API</a>).</li>
-	<li>Acceso a los <a href="https://developer.mozilla.org/es/docs/Web/API/Sensor_APIs" target="_blank">sensores de movimiento y orientación</a>: acelerómetro, el giroscopio y la brújula.</li>
+	<li>Acceso a los <a href="https://developer.mozilla.org/es/docs/Web/API/Sensor_APIs" target="_blank">sensores de movimiento y orientación</a>: acelerómetro, giroscopio y brújula.</li>
 	<li>Acceso a dispositivos conectados mediante USB (<a href="https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web" target="_blank">WebUSB API</a>).</li>
 	<li>Posibilidad de conectarse a otros dispositivos mediante Bluetooth e interactuar con ellos (<a href="https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web" target="_blank">Web Bluetooth API</a>).</li>
 	<li><a href="https://developers.google.com/web/fundamentals/media/recording-audio/" target="_blank">Grabación de audio</a>.</li>
