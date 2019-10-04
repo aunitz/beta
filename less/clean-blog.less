@@ -1,3 +1,9 @@
+/*!
+ * Clean Blog v1.0.0 (http://startbootstrap.com)
+ * Copyright 2015 Start Bootstrap
+ * Licensed under MIT (https://spdx.org/licenses/MIT)
+ */
+
 @import "variables.less";
 @import "mixins.less";
 
@@ -14,6 +20,12 @@ body {
 p {
 	line-height: 1.5;
 	margin: 30px 0;
+	a {
+		text-decoration: underline;
+	}
+}
+
+.container li {
 	a {
 		text-decoration: underline;
 	}
@@ -177,7 +189,8 @@ hr.small {
 		text-align: center;
 		h1 {
 			margin-top: 0;
-			font-size: 50px;
+			.hand-written;
+			font-size: 80px;
 		}
 		.subheading {
 			font-size: 24px;
@@ -189,7 +202,8 @@ hr.small {
 		}
 		@media only screen and (min-width: 768px) {
 			h1 {
-				font-size: 80px;
+				.hand-written;
+				font-size: 105px;
 			}
 		}
 	}
@@ -402,6 +416,7 @@ form .row:first-child .floating-label-form-group {
 		> span {
 			.sans-serif;
 			text-transform: uppercase;
+			text-decoration: none;
 			font-size: 14px;
 			font-weight: 800;
 			letter-spacing: 1px;

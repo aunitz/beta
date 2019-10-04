@@ -7,7 +7,7 @@ author:     "Aunitz Giménez"
 header-img: "img/post-bg-01.jpg"
 ---
 
-<p>Los seres humanos somos rehacios a realizar trabajo de más. Esta idea se aplica también a rellenar campos de un formulario.</p>
+<p>Los seres humanos somos reacios a realizar trabajo de más. Esta idea se aplica también a rellenar campos de un formulario.</p>
 
 <p>Cada campo que añadamos a un formulario es una posibilidad más de que el usuario abandone la tarea. Especialmente en dispositivos móviles.</p>
 

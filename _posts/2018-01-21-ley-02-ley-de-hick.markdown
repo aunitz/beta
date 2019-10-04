@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "Ley de Hick"
+subtitle:   "{Leyes de usabilidad}"
+date:       2018-01-21 20:00:00
+author:     "Aunitz Giménez"
+header-img: "img/post-bg-17.jpg"
+---
+
+<p><em><strong>El tiempo que se tarda en tomar una decisión aumenta de manera logarítmica a medida que se incrementa el número de alternativas.</strong></em></p>
+
+<p><img src="{{ site.baseurl }}/img/ley-02-ley-de-hick.png" alt="Ilustración de la Ley 02 de usabilidad: Ley de Hick"></p>
+
+<p>Llevado al campo de los interfaces de usuario, resulta que a medida que aumenta el número de opciones disponibles, más tiempo le llevará al usuario tomar una decisión con respecto a cuál elegir.</p>
+
+<p>Tal y como ocurría con la <a href="{{ site.baseurl }}{% post_url 2018-01-21-ley-01-ley-de-fitts %}">ley de Fitts</a>, resulta resulta bastante lógico, ¿verdad?</p>
+
+<p>La Ley de Hick o de Hick-Hyman, fue formulada por los psicólogos William Edmund Hick y Ray Hyman en 1952.</p>
+
+<p>Si quieres conocer su formulación matemática exacta y otros muchos detalles interesantes, puedes partir de este <a href="https://www.interaction-design.org/literature/article/hick-s-law-making-the-choice-easier-for-users" target="_blank">artículo de la Interaction Design Foundation</a>.</p>
