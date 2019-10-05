@@ -4,11 +4,8 @@ title: "Índice de materias"
 description: "Sumario de todos los artículos publicados clasificados por materias"
 header-img: "img/contact-bg.jpg"
 ---
-
-<p>Lorem ipsum</p>
-
 {% for tag in site.tags %}
-<h3>{{ tag[0] }}</h3>
+<h2 class="section-heading" style="text-transform: capitalize;">{{ tag[0] }}</h2>
 <ul>
     {% for post in tag[1] %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
