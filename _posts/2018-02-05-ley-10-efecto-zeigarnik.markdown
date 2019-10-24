@@ -5,7 +5,7 @@ subtitle:   "{Leyes de usabilidad. Gestalt}"
 date:       2018-02-05 20:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-25.jpg"
-tags:       [leyes de usabilidad, leyes de la Gestalt]
+tags:       [leyes y principios de usabilidad, leyes y principios de la Gestalt]
 ---
 
 <p><em><strong>Define la tendencia a recordar tareas inacabadas o interrumpidas con mayor facilidad que las que han sido completadas.</strong></em></p>

@@ -5,7 +5,7 @@ subtitle:   "{Leyes de usabilidad. Gestalt}"
 date:       2018-01-22 21:45:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-21.jpg"
-tags:       [leyes de usabilidad, leyes de la Gestalt]
+tags:       [leyes y principios de usabilidad, leyes y principios de la Gestalt]
 ---
 
 <p><em><strong>Los objetos que están más juntos son percibidos como más relacionados que los que están más separados.</strong></em></p>

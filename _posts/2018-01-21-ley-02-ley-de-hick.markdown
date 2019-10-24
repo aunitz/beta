@@ -5,7 +5,7 @@ subtitle:   "{Leyes de usabilidad}"
 date:       2018-01-21 20:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-17.jpg"
-tags:       [leyes de usabilidad]
+tags:       [leyes y principios de usabilidad]
 ---
 
 <p><em><strong>El tiempo que se tarda en tomar una decisión aumenta de manera logarítmica a medida que se incrementa el número de alternativas.</strong></em></p>

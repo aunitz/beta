@@ -5,7 +5,7 @@ subtitle:   "{Leyes de usabilidad}"
 date:       2018-01-23 19:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-23.jpg"
-tags:       [leyes de usabilidad]
+tags:       [leyes y principios de usabilidad]
 ---
 
 <p><em><strong>Toda aplicación tiene una cantidad inherente e irreducible de complejidad.</strong></em></p>

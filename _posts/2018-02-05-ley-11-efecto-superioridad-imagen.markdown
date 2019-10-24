@@ -5,7 +5,7 @@ subtitle:   "{Leyes de usabilidad}"
 date:       2018-02-05 21:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-26.jpg"
-tags:       [leyes de usabilidad]
+tags:       [leyes y principios de usabilidad]
 ---
 
 <p><em><strong>Los textos acompañados de imágenes tienen más probabilidades de ser recordados que la información únicamente textual.</strong></em></p>

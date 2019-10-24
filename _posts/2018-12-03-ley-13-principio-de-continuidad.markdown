@@ -5,7 +5,7 @@ subtitle:   "{Leyes de usabilidad. Gestalt}"
 date:       2018-12-03 13:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-14.jpg"
-tags:       [leyes de usabilidad, leyes de la Gestalt]
+tags:       [leyes y principios de usabilidad, leyes y principios de la Gestalt]
 ---
 
 <p><em><strong>Los elementos dispuestos en una línea o curva se perciben como relacionados.</strong></em></p>

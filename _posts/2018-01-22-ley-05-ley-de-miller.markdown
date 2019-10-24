@@ -5,7 +5,7 @@ subtitle:   "{Leyes de usabilidad}"
 date:       2018-01-22 20:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-20.jpg"
-tags:       [leyes de usabilidad]
+tags:       [leyes y principios de usabilidad]
 ---
 
 <p><em><strong>Una persona solo puede mantener 7 elementos en su memoria de trabajo.</strong></em></p>
