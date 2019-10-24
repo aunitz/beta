@@ -5,6 +5,7 @@ subtitle:   "{Tip 8 de usabilidad}"
 date:       2017-11-04 11:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-12.jpg"
+tags:       [buenas prácticas de usabilidad]
 ---
 
 <p>Las convenciones son consistentes con las expectativas de los usuarios, es decir, con su aprendizaje previo. Utilizar estándares comúnmente aceptados facilita el uso de una aplicación.</p>

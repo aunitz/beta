@@ -5,6 +5,7 @@ subtitle:   "Cuándo utilizar uno u otro"
 date:       2017-12-12 10:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-14.jpg"
+tags:       [buenas prácticas de usabilidad]
 ---
 
 <p>Desde el punto de vista de la usabilidad, una y otra t&eacute;cnica tiene sus pros y sus contras.</p>
