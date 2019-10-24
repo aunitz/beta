@@ -5,6 +5,7 @@ subtitle:   "{Leyes de usabilidad. Gestalt}"
 date:       2018-12-03 12:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-31.jpg"
+tags:       [leyes de usabilidad, leyes de la Gestalt]
 ---
 
 <p><em><strong>Tendemos a percibir los objetos como formas simétricas que se distribuyen alrededor de un centro.</strong></em></p>

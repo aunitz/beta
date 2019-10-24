@@ -5,6 +5,7 @@ subtitle:   "{Leyes de usabilidad. Gestalt}"
 date:       2018-12-08 20:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-33.jpg"
+tags:       [leyes de usabilidad, leyes de la Gestalt]
 ---
 
 <p><em><strong>Los elementos tienden a ser percibidos de acuerdo con la experiencia pasada del observador.</strong></em></p>

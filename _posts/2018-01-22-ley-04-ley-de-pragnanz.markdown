@@ -5,6 +5,7 @@ subtitle:   "{Leyes de usabilidad. Gestalt}"
 date:       2018-01-22 19:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-19.jpg"
+tags:       [leyes de usabilidad, leyes de la Gestalt]
 ---
 
 <p><em><strong>Las personas percibirán e interpretarán imágenes ambiguas o complejas como la forma más simple posible.</strong></em></p>

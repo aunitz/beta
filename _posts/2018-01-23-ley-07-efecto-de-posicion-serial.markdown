@@ -5,6 +5,7 @@ subtitle:   "{Leyes de usabilidad}"
 date:       2018-01-23 18:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-22.jpg"
+tags:       [leyes de usabilidad]
 ---
 
 <p><em><strong>Los usuarios tienden a recordar mejor el primer y último elemento de una serie.</strong></em></p>

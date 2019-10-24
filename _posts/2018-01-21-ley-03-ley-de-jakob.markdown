@@ -5,6 +5,7 @@ subtitle:   "{Leyes de usabilidad}"
 date:       2018-01-21 20:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-18.jpg"
+tags:       [leyes de usabilidad]
 ---
 
 <p><em><strong>Los usuarios pasan más tiempo en OTROS sitios que en el TUYO.</strong></em></p>
