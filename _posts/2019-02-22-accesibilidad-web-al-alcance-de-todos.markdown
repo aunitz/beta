@@ -84,6 +84,7 @@ tags:       [buenas prácticas de accesibilidad]
 <h3>6. No transmitas información solo mediante el color</h3>
 <p>Los usuarios con visión reducida o daltonismo pueden tener serias dificultades para distinguir los colores. Por ello no se debe transmitir ninguna información solo mediante el color. Debe ir apoyada por información gráfica o textual que permita interpretarla correctamente en caso de ausencia de color.</p>
 <p><img src="{{ site.baseurl }}/img/accesibilidad-web-al-alcance-de-todos-09.png" alt=""></p>
+<p>Una manera sencilla de comprobar esta pauta es imprimir (puede ser en formato PDF) la página en blanco y negro y verificar que todo el contenido se entiende correctamente. Una alternativa más precisa es utilizar una aplicación como <a href="http://colororacle.org/" target="_blank">Color Oracle</a>, que muestra en tiempo real lo que ven las personas con discapacidades comunes de la visión del color.  </p>
 
 <h3>7. Escribe enlaces descriptivos</h3>
 <p>Los lectores de pantalla disponen de atajos de teclado que permiten a los usuarios navegar de manera secuencial por los enlaces de un sitio web. Por tanto, deben tener significado por si mismos y no depender del contexto que les rodea.</p>
