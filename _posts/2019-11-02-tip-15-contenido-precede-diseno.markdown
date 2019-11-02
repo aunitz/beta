@@ -4,7 +4,7 @@ title:      "El contenido precede al diseño"
 subtitle:   "{Tip 15 de usabilidad}"
 date:       2019-11-02 22:30:00
 author:     "Aunitz Giménez"
-header-img: "img/post-bg-39.jpg"
+header-img: "img/post-bg-42.jpg"
 tags:       [buenas prácticas de usabilidad]
 ---
 
