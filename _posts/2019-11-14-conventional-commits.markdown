@@ -38,31 +38,34 @@ Agregar iconos alternativos en la versión móvil del pie de página
 
 Soluciona la incidencia #3
 </pre>
-<p>&nbsp;</p>
+
 <h3>Tipo (obligatorio)</h3>
 
 <p>El tipo de commit es obligatorio indicarlo.</p>
 
 <h4>Tipos de commits principales</h4>
-<ol>
- 	<li><strong>fix:</strong> corrige un error (se correlaciona con <strong>PATCH</strong> en el versionado semántico).</li>
- 	<li><strong>feat:</strong> introduce nuevas funcionalidades (se correlaciona con <strong>MINOR</strong> en el versionado semántico).</li>
-</ol>
-<p>&nbsp;</p>
+<p>
+    <ol>
+        <li><strong>fix:</strong> corrige un error (se correlaciona con <strong>PATCH</strong> en el versionado semántico).</li>
+        <li><strong>feat:</strong> introduce nuevas funcionalidades (se correlaciona con <strong>MINOR</strong> en el versionado semántico).</li>
+    </ol>
+</p>
+
 <h4>Otros tipos de commits</h4>
 
-<p>Está permitido cualquier tipo, pero se recomiendan los que usa <a href="https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines" target="_blank">Angular convention</a>. Ejemplos recomendados:<p>
-<ul>
- 	<li><strong>build:</strong> cambios que afectan el sistema de compilación o dependencias externas (gulp, broccoli, npm...)</li>
- 	<li><strong>ci:</strong> cambios en nuestros archivos y scripts de configuración de CI.</li>
- 	<li><strong>docs:</strong> cambios en la documentación.</li>
- 	<li><strong>improvement:</strong> mejorar una implementación actual sin añadir nuevas características ni corregir errores.</li>
- 	<li><strong>perf:</strong> cambio en el código que mejora el rendimiento.</li>
- 	<li><strong>refactor:</strong> mejora en el código que no corrige un error ni añade funcionalidad.</li>
- 	<li><strong>style:</strong> cambios cosméticos en el código que no afectan a la funcionalidad (formateo, espacios en blanco, tabuladores, etc.).</li>
- 	<li><strong>test:</strong> añadidos nuevos tests o corregidos estistentes.</li>
-</ul>
-<p>&nbsp;</p>
+<p>Está permitido cualquier tipo, pero se recomiendan los que usa <a href="https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines" target="_blank">Angular convention</a>. Ejemplos recomendados:
+    <ul>
+        <li><strong>build:</strong> cambios que afectan el sistema de compilación o dependencias externas (gulp, broccoli, npm...)</li>
+        <li><strong>ci:</strong> cambios en nuestros archivos y scripts de configuración de CI.</li>
+        <li><strong>docs:</strong> cambios en la documentación.</li>
+        <li><strong>improvement:</strong> mejorar una implementación actual sin añadir nuevas características ni corregir errores.</li>
+        <li><strong>perf:</strong> cambio en el código que mejora el rendimiento.</li>
+        <li><strong>refactor:</strong> mejora en el código que no corrige un error ni añade funcionalidad.</li>
+        <li><strong>style:</strong> cambios cosméticos en el código que no afectan a la funcionalidad (formateo, espacios en blanco, tabuladores, etc.).</li>
+        <li><strong>test:</strong> añadidos nuevos tests o corregidos estistentes.</li>
+    </ul>
+<p>
+
 <h3>Ámbito (opcional)</h3>
 
 <p>Se puede agregar un ámbito al tipo de commit para proveer información contextual adicional. Es opcional y se escribe entre paréntesis.</p>
@@ -70,7 +73,7 @@ Soluciona la incidencia #3
 <p>Ejemplo:</p>
 
 <pre>feat(parser): añadir capacidad de parsear arrays</pre>
-<p>&nbsp;</p>
+
 <h3>Descripción (obligatoria)</h3>
 
 <p>Es obligatoria una descripción corta de los cambios realizados en el código.</p>
