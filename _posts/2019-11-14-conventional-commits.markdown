@@ -49,9 +49,10 @@ Soluciona la incidencia #3
  	<li><strong>feat:</strong> introduce nuevas funcionalidades (se correlaciona con <strong>MINOR</strong> en el versionado semántico).</li>
 </ol>
 
+<br>
 <h4>Otros tipos de commits</h4>
 
-<p>Está permitido cualquier tipo, pero se recomiendan los que usa <a href="https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines" target="_blank">Angular convention</a>. Ejemplos recomendados:/<p>
+<p>Está permitido cualquier tipo, pero se recomiendan los que usa <a href="https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines" target="_blank">Angular convention</a>. Ejemplos recomendados:<p>
 <ul>
  	<li><strong>build:</strong> cambios que afectan el sistema de compilación o dependencias externas (gulp, broccoli, npm...)</li>
  	<li><strong>ci:</strong> cambios en nuestros archivos y scripts de configuración de CI.</li>
@@ -63,6 +64,7 @@ Soluciona la incidencia #3
  	<li><strong>test:</strong> añadidos nuevos tests o corregidos estistentes.</li>
 </ul>
 
+<br>
 <h3>Ámbito (opcional)</h3>
 
 <p>Se puede agregar un ámbito al tipo de commit para proveer información contextual adicional. Es opcional y se escribe entre paréntesis.</p>
@@ -71,6 +73,7 @@ Soluciona la incidencia #3
 
 <pre>feat(parser): añadir capacidad de parsear arrays</pre>
 
+<br>
 <h3>Descripción (obligatoria)</h3>
 
 <p>Es obligatoria una descripción corta de los cambios realizados en el código.</p>
