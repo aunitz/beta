@@ -38,7 +38,7 @@ Agregar iconos alternativos en la versión móvil del pie de página
 
 Soluciona la incidencia #3
 </pre>
-
+<p>&nbsp;</p>
 <h3>Tipo (obligatorio)</h3>
 
 <p>El tipo de commit es obligatorio indicarlo.</p>
@@ -48,8 +48,7 @@ Soluciona la incidencia #3
  	<li><strong>fix:</strong> corrige un error (se correlaciona con <strong>PATCH</strong> en el versionado semántico).</li>
  	<li><strong>feat:</strong> introduce nuevas funcionalidades (se correlaciona con <strong>MINOR</strong> en el versionado semántico).</li>
 </ol>
-
-<br>
+<p>&nbsp;</p>
 <h4>Otros tipos de commits</h4>
 
 <p>Está permitido cualquier tipo, pero se recomiendan los que usa <a href="https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines" target="_blank">Angular convention</a>. Ejemplos recomendados:<p>
@@ -63,8 +62,7 @@ Soluciona la incidencia #3
  	<li><strong>style:</strong> cambios cosméticos en el código que no afectan a la funcionalidad (formateo, espacios en blanco, tabuladores, etc.).</li>
  	<li><strong>test:</strong> añadidos nuevos tests o corregidos estistentes.</li>
 </ul>
-
-<br>
+<p>&nbsp;</p>
 <h3>Ámbito (opcional)</h3>
 
 <p>Se puede agregar un ámbito al tipo de commit para proveer información contextual adicional. Es opcional y se escribe entre paréntesis.</p>
@@ -72,8 +70,7 @@ Soluciona la incidencia #3
 <p>Ejemplo:</p>
 
 <pre>feat(parser): añadir capacidad de parsear arrays</pre>
-
-<br>
+<p>&nbsp;</p>
 <h3>Descripción (obligatoria)</h3>
 
 <p>Es obligatoria una descripción corta de los cambios realizados en el código.</p>
