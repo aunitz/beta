@@ -54,16 +54,17 @@ Soluciona la incidencia #3
 <h4>Otros tipos de commits</h4>
 
 <p>Está permitido cualquier tipo, pero se recomiendan los que usa <a href="https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines" target="_blank">Angular convention</a>. Ejemplos recomendados:</p>
-    <ul>
-        <li><strong>build:</strong> cambios que afectan el sistema de compilación o dependencias externas (gulp, broccoli, npm...)</li>
-        <li><strong>ci:</strong> cambios en nuestros archivos y scripts de configuración de CI.</li>
-        <li><strong>docs:</strong> cambios en la documentación.</li>
-        <li><strong>improvement:</strong> mejorar una implementación actual sin añadir nuevas características ni corregir errores.</li>
-        <li><strong>perf:</strong> cambio en el código que mejora el rendimiento.</li>
-        <li><strong>refactor:</strong> mejora en el código que no corrige un error ni añade funcionalidad.</li>
-        <li><strong>style:</strong> cambios cosméticos en el código que no afectan a la funcionalidad (formateo, espacios en blanco, tabuladores, etc.).</li>
-        <li><strong>test:</strong> añadidos nuevos tests o corregidos estistentes.</li>
-    </ul>
+
+<ul>
+    <li><strong>build:</strong> cambios que afectan el sistema de compilación o dependencias externas (gulp, broccoli, npm...)</li>
+    <li><strong>ci:</strong> cambios en nuestros archivos y scripts de configuración de CI.</li>
+    <li><strong>docs:</strong> cambios en la documentación.</li>
+    <li><strong>improvement:</strong> mejorar una implementación actual sin añadir nuevas características ni corregir errores.</li>
+    <li><strong>perf:</strong> cambio en el código que mejora el rendimiento.</li>
+    <li><strong>refactor:</strong> mejora en el código que no corrige un error ni añade funcionalidad.</li>
+    <li><strong>style:</strong> cambios cosméticos en el código que no afectan a la funcionalidad (formateo, espacios en blanco, tabuladores, etc.).</li>
+    <li><strong>test:</strong> añadidos nuevos tests o corregidos estistentes.</li>
+</ul>
 
 <h3>Ámbito (opcional)</h3>
 
