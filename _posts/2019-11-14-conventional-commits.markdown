@@ -46,16 +46,14 @@ Soluciona la incidencia #3
 <p>El tipo de commit es obligatorio indicarlo.</p>
 
 <h4>Tipos de commits principales</h4>
-<p>
-    <ol>
-        <li><strong>fix:</strong> corrige un error (se correlaciona con <strong>PATCH</strong> en el versionado semántico).</li>
-        <li><strong>feat:</strong> introduce nuevas funcionalidades (se correlaciona con <strong>MINOR</strong> en el versionado semántico).</li>
-    </ol>
-</p>
+<ol>
+    <li><strong>fix:</strong> corrige un error (se correlaciona con <strong>PATCH</strong> en el versionado semántico).</li>
+    <li><strong>feat:</strong> introduce nuevas funcionalidades (se correlaciona con <strong>MINOR</strong> en el versionado semántico).</li>
+</ol>
 
 <h4>Otros tipos de commits</h4>
 
-<p>Está permitido cualquier tipo, pero se recomiendan los que usa <a href="https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines" target="_blank">Angular convention</a>. Ejemplos recomendados:
+<p>Está permitido cualquier tipo, pero se recomiendan los que usa <a href="https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines" target="_blank">Angular convention</a>. Ejemplos recomendados:</p>
     <ul>
         <li><strong>build:</strong> cambios que afectan el sistema de compilación o dependencias externas (gulp, broccoli, npm...)</li>
         <li><strong>ci:</strong> cambios en nuestros archivos y scripts de configuración de CI.</li>
@@ -66,7 +64,6 @@ Soluciona la incidencia #3
         <li><strong>style:</strong> cambios cosméticos en el código que no afectan a la funcionalidad (formateo, espacios en blanco, tabuladores, etc.).</li>
         <li><strong>test:</strong> añadidos nuevos tests o corregidos estistentes.</li>
     </ul>
-</p>
 
 <h3>Ámbito (opcional)</h3>
 
