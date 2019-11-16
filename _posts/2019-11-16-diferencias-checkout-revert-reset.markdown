@@ -68,6 +68,11 @@ tags:       [git]
 <p>En la siguiente tabla se resumen los usos más frecuentes que se hacen de estos comandos.</p>
 
 <table class="table table-bordered">
+    <colgroup>
+        <col style="width:20%;">
+        <col style="width:20%;">
+        <col style="width:60%;">
+    </colgroup>
 	<thead>
 		<tr>
 			<th>Comando</th>
