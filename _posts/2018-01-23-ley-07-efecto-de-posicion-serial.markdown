@@ -18,4 +18,4 @@ tags:       [leyes y principios de usabilidad]
 
 <p>Este efecto fue estudiado por el filósofo y psicólogo alemán Hermann Ebbinghaus a finales del siglo XIX.</p>
 
-<p>Si quieres conocer más detalles sobre este efecto cognitivo, puedes partir de su <a href="https://en.wikipedia.org/wiki/Serial-position_effect" target="_blank">artículo en la Wikipedia</a>.</p>
+<p>Si quieres conocer más detalles sobre este efecto cognitivo, puedes partir de su <a href="https://en.wikipedia.org/wiki/Serial-position_effect" target="_blank" rel="noopener">artículo en la Wikipedia</a>.</p>

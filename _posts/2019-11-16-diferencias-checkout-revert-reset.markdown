@@ -10,7 +10,7 @@ tags:       [git]
 
 <p>Los comandos <code>git checkout</code>, <code>git revert</code> y <code>git reset</code> sirven para deshacer cambios en nuestro control de versiones. Son muy útiles, pero también muy parecidos y pueden generar confusión.</p>
 
-<p>Basándome en el excelente <a href="https://www.atlassian.com/git/tutorials" target="_blank">tutorial de Git de Atlassian</a>, he tomado algunas notas prácticas y simplificadas para diferenciarlos.</p>
+<p>Basándome en el excelente <a href="https://www.atlassian.com/git/tutorials" target="_blank" rel="noopener">tutorial de Git de Atlassian</a>, he tomado algunas notas prácticas y simplificadas para diferenciarlos.</p>
 
 <h2>Git checkout</h2>
 <p>Un <em>checkout</em> es una operación que mueve el puntero de referencia HEAD a un <em>commit</em> específico.</p>

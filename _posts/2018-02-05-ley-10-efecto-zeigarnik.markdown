@@ -16,4 +16,4 @@ tags:       [leyes y principios de usabilidad, leyes y principios de la Gestalt]
 
 <p>Este efecto fue descubierto por la psicóloga de la Gestalt y psiquiatra soviética Bliuma Zeigárnik en 1927.</p>
 
-<p>Si quieres conocer más detalles sobre este efecto, puedes partir de su <a href="https://es.wikipedia.org/wiki/Efecto_Zeigarnik" target="_blank">artículo en la Wikipedia</a>.</p>
+<p>Si quieres conocer más detalles sobre este efecto, puedes partir de su <a href="https://es.wikipedia.org/wiki/Efecto_Zeigarnik" target="_blank" rel="noopener">artículo en la Wikipedia</a>.</p>

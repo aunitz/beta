@@ -8,15 +8,15 @@ header-img: "img/post-bg-44.jpg"
 tags:       [git]
 ---
 
-<p>El mes pasado dejo de ser <em>beta</em> una iniciativa muy interesante llamada <a href="https://www.conventionalcommits.org/" target="_blank">Conventional Commits</a>.</p>
+<p>El mes pasado dejo de ser <em>beta</em> una iniciativa muy interesante llamada <a href="https://www.conventionalcommits.org/" target="_blank" rel="noopener">Conventional Commits</a>.</p>
 
 <p>Se trata de una especificación para dar significado a los mensajes de los <em>commits</em> haciéndolos legibles para máquinas y humanos.</p>
 
-<p>Esta especificación proporciona un conjunto fácil de reglas para crear un historial de <em>commits</em> explícito. Esta convención se ajusta a <a href="http://semver.org/" target="_blank">SemVer</a>, al describir las características, correcciones y cambios que rompen la compatibilidad en los mensajes de los <em>commits</em>.</p>
+<p>Esta especificación proporciona un conjunto fácil de reglas para crear un historial de <em>commits</em> explícito. Esta convención se ajusta a <a href="http://semver.org/" target="_blank" rel="noopener">SemVer</a>, al describir las características, correcciones y cambios que rompen la compatibilidad en los mensajes de los <em>commits</em>.</p>
 
 <p><img src="{{ site.baseurl }}/img/conventional-commits.jpg" alt="Conventional Commits"></p>
 
-<p>En <a href="https://www.adimedia.net/" target="_blank">la empresa en la que trabajo</a> ya veníamos utilizando SemVer y desde la semana pasada, hemos decidido probar a utilizar Conventional Commits en nuestro día a día.</p>
+<p>En <a href="https://www.adimedia.net/" target="_blank" rel="noopener">la empresa en la que trabajo</a> ya veníamos utilizando SemVer y desde la semana pasada, hemos decidido probar a utilizar Conventional Commits en nuestro día a día.</p>
 
 <h2>Resumen de la convención</h2>
 
@@ -53,7 +53,7 @@ Soluciona la incidencia #3
 
 <h4>Otros tipos de commits</h4>
 
-<p>Está permitido cualquier tipo, pero se recomiendan los que usa <a href="https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines" target="_blank">Angular convention</a>. Ejemplos recomendados:</p>
+<p>Está permitido cualquier tipo, pero se recomiendan los que usa <a href="https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines" target="_blank" rel="noopener">Angular convention</a>. Ejemplos recomendados:</p>
 
 <ul>
     <li><strong>build:</strong> cambios que afectan el sistema de compilación o dependencias externas (gulp, broccoli, npm...)</li>
@@ -103,4 +103,4 @@ BREAKING CHANGE: refactorizar para usar características de JavaScript no dispon
 
 <h3>Bola extra: CHANGELOG.md automático</h3>
 
-<p>Existe un paquete NPM llamado <a href="https://github.com/conventional-changelog/standard-version" target="_blank">standard-version</a> que nos permite crear el documento CHANGELOG.md de manera automatizada si nos ajustamos a Conventional Commits.</p>
+<p>Existe un paquete NPM llamado <a href="https://github.com/conventional-changelog/standard-version" target="_blank" rel="noopener">standard-version</a> que nos permite crear el documento CHANGELOG.md de manera automatizada si nos ajustamos a Conventional Commits.</p>

@@ -18,4 +18,4 @@ tags:       [leyes y principios de usabilidad]
 
 <p>La Ley de Hick o de Hick-Hyman, fue formulada por los psicólogos William Edmund Hick y Ray Hyman en 1952.</p>
 
-<p>Si quieres conocer su formulación matemática exacta y otros muchos detalles interesantes, puedes partir de este <a href="https://www.interaction-design.org/literature/article/hick-s-law-making-the-choice-easier-for-users" target="_blank">artículo de la Interaction Design Foundation</a>.</p>
+<p>Si quieres conocer su formulación matemática exacta y otros muchos detalles interesantes, puedes partir de este <a href="https://www.interaction-design.org/literature/article/hick-s-law-making-the-choice-easier-for-users" target="_blank" rel="noopener">artículo de la Interaction Design Foundation</a>.</p>

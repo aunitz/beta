@@ -36,7 +36,7 @@ tags:       [desarrollo de aplicaciones web]
 <p>Utilizando las herramientas front-end disponibles en aquellos años (AJAX, jQuery) podríamos haberlo evitado, pero resultaba excesivamente complejo y al final siempre dependíamos de los lenguajes de servidor para ciertas tareas del front. Como por ejemplo para el enrutado.</p>
 
 <h2>El patrón SPA</h2>
-<p>Aunque se habla de que el origen del concepto de SPA (Single-Page Applications) data del 2003, lo cierto es que, al menos yo, no empecé a participar en proyectos que lo usaban hasta aproximadamente el 2013. Año en el que MSDN Magazine de Microsoft publicó un <a href="https://msdn.microsoft.com/en-gb/magazine/dn463786.aspx" target="_blank">esclarecedor artículo sobre el tema</a>.</p>
+<p>Aunque se habla de que el origen del concepto de SPA (Single-Page Applications) data del 2003, lo cierto es que, al menos yo, no empecé a participar en proyectos que lo usaban hasta aproximadamente el 2013. Año en el que MSDN Magazine de Microsoft publicó un <a href="https://msdn.microsoft.com/en-gb/magazine/dn463786.aspx" target="_blank" rel="noopener">esclarecedor artículo sobre el tema</a>.</p>
 <p>Los dos primeros párrafos del artículo definen claramente el concepto. Me permito la libertad de citarlos, tras una traducción libre.</p>
 
 <blockquote>Las SPA son aplicaciones web que cargan una sola página HTML y actualizan dinámicamente esa página a medida que el usuario interactúa con la aplicación.</blockquote>

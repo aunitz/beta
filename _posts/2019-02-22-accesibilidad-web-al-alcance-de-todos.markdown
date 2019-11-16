@@ -24,7 +24,7 @@ tags:       [buenas prácticas de accesibilidad]
 
 <h2>Las reglas internacionales de accesibilidad</h2>
 
-<p>La <a href="https://www.w3.org/WAI/" target="_blank">WAI</a> (Web Accessibility Initiative) es el grupo de trabajo específico de la <a href="https://www.w3.org/" target="_blank">W3C</a> para los temas de accesibilidad. Establece a nivel internacional un conjunto de pautas o reglas básicas de accesibilidad que deben cumplir los sitios web para resultar accesibles.</p>
+<p>La <a href="https://www.w3.org/WAI/" target="_blank" rel="noopener">WAI</a> (Web Accessibility Initiative) es el grupo de trabajo específico de la <a href="https://www.w3.org/" target="_blank" rel="noopener">W3C</a> para los temas de accesibilidad. Establece a nivel internacional un conjunto de pautas o reglas básicas de accesibilidad que deben cumplir los sitios web para resultar accesibles.</p>
 
 <p>Existen tres niveles de accesibilidad establecidos por la WAI: nivel A (el mínimo), nivel AA y nivel AAA (el máximo).</p>
 
@@ -38,7 +38,7 @@ tags:       [buenas prácticas de accesibilidad]
 
 <h2>Reglas básicas de accesibilidad</h2>
 
-<p>Inspirándome en el <a href="https://moritzgiessmann.de/accessibility-cheatsheet/" target="_blank">Accessibility Cheatsheet de Moritz Gießmann</a> (que recomiendo tener siempre a mano), lo que pretendo en este artículo es proporcionar una <strong>pautas de accesibilidad muy básicas</strong>. No encaminadas a conseguir un nivel de accesibilidad estándar determinado (A, AA o AAA) sino orientadas a conseguir un mínimo de accesibilidad elemental que facilite el acceso a los usuarios de tus webs y aplicaciones.</p>
+<p>Inspirándome en el <a href="https://moritzgiessmann.de/accessibility-cheatsheet/" target="_blank" rel="noopener">Accessibility Cheatsheet de Moritz Gießmann</a> (que recomiendo tener siempre a mano), lo que pretendo en este artículo es proporcionar una <strong>pautas de accesibilidad muy básicas</strong>. No encaminadas a conseguir un nivel de accesibilidad estándar determinado (A, AA o AAA) sino orientadas a conseguir un mínimo de accesibilidad elemental que facilite el acceso a los usuarios de tus webs y aplicaciones.</p>
 
 <p><img src="{{ site.baseurl }}/img/accesibilidad-web-al-alcance-de-todos-02.jpg" alt=""></p>
 
@@ -79,12 +79,12 @@ tags:       [buenas prácticas de accesibilidad]
 <p><img src="{{ site.baseurl }}/img/accesibilidad-web-al-alcance-de-todos-07.png" alt=""></p>
 <p>El nivel de contraste debe ser de al menos 4.5:1 para textos pequeños o de 3:1 para textos grandes (de más de 14px en negrita o de más de 18px si no llevan negrita).</p>
 <p><img src="{{ site.baseurl }}/img/accesibilidad-web-al-alcance-de-todos-08.png" alt=""></p>
-<p>Existen varias herramientas para medir el nivel de contraste. Por ejemplo <a href="https://webaim.org/resources/contrastchecker/" target="_blank">Color Contrast Checker</a>.</p>
+<p>Existen varias herramientas para medir el nivel de contraste. Por ejemplo <a href="https://webaim.org/resources/contrastchecker/" target="_blank" rel="noopener">Color Contrast Checker</a>.</p>
 
 <h3>6. No transmitas información solo mediante el color</h3>
 <p>Los usuarios con visión reducida o daltonismo pueden tener serias dificultades para distinguir los colores. Por ello no se debe transmitir ninguna información solo mediante el color. Debe ir apoyada por información gráfica o textual que permita interpretarla correctamente en caso de ausencia de color.</p>
 <p><img src="{{ site.baseurl }}/img/accesibilidad-web-al-alcance-de-todos-09.png" alt=""></p>
-<p>Una manera sencilla de comprobar esta pauta es imprimir (puede ser en formato PDF) la página en blanco y negro y verificar que todo el contenido se entiende correctamente. Una alternativa más precisa es utilizar una aplicación como <a href="http://colororacle.org/" target="_blank">Color Oracle</a>, que muestra en tiempo real lo que ven las personas con discapacidades comunes de la visión del color.  </p>
+<p>Una manera sencilla de comprobar esta pauta es imprimir (puede ser en formato PDF) la página en blanco y negro y verificar que todo el contenido se entiende correctamente. Una alternativa más precisa es utilizar una aplicación como <a href="http://colororacle.org/" target="_blank" rel="noopener">Color Oracle</a>, que muestra en tiempo real lo que ven las personas con discapacidades comunes de la visión del color.  </p>
 
 <h3>7. Escribe enlaces descriptivos</h3>
 <p>Los lectores de pantalla disponen de atajos de teclado que permiten a los usuarios navegar de manera secuencial por los enlaces de un sitio web. Por tanto, deben tener significado por si mismos y no depender del contexto que les rodea.</p>
@@ -108,7 +108,7 @@ tags:       [buenas prácticas de accesibilidad]
 <p>Existen programas automáticos de reconocimiento de voz que pueden facilitar la labor de generar los subtítulos.</p>
 
 <h3>2. Utiliza etiquetas ARIA para añadir semántica al HTML</h3>
-<p>La <a href="https://www.w3.org/TR/wai-aria/" target="_blank">especificación ARIA</a> ha sido elaborada por la WAI para cubrir las carencias semánticas que tiene el HTML. Por ejemplo, en HTML no existe una etiqueta para definir semánticamente algo tan habitual como un menú emergente.</p>
+<p>La <a href="https://www.w3.org/TR/wai-aria/" target="_blank" rel="noopener">especificación ARIA</a> ha sido elaborada por la WAI para cubrir las carencias semánticas que tiene el HTML. Por ejemplo, en HTML no existe una etiqueta para definir semánticamente algo tan habitual como un menú emergente.</p>
 <p>Mediante los atributos ARIA se pueden definir estos significados semánticos para los elementos del DOM de nuestra página web. De modo que resulten accesibles para los dispositivos de asistencia de los usuarios con discapacidad.</p>
 
 <h2>Proporcionar un canal para el feedback</h2>
@@ -124,7 +124,7 @@ tags:       [buenas prácticas de accesibilidad]
 <ul>
 	<li><strong>Haz zoom al 200%. </strong>Utiliza el zoom de tu navegador. ¿Todo el texto sigue estando visible?</li>
 	<li><strong>Navega mediante el teclado.</strong> Comprueba que puedes acceder a todos los rincones de tu web utilizando solo las teclas de tu teclado: ←↑↓→ TAB, SHIFT+TAB, ESC y ENTER.</li>
-	<li><strong>Apaga el monitor y navega con un lector de pantalla.</strong> Por ejemplo, <a href="https://help.apple.com/voiceover/info/guide/" target="_blank">Voiceover</a> para Mac o <a href="https://www.nvaccess.org/" target="_blank">NVDA</a> para Windows.</li>
+	<li><strong>Apaga el monitor y navega con un lector de pantalla.</strong> Por ejemplo, <a href="https://help.apple.com/voiceover/info/guide/" target="_blank" rel="noopener">Voiceover</a> para Mac o <a href="https://www.nvaccess.org/" target="_blank" rel="noopener">NVDA</a> para Windows.</li>
 	<li><strong>Ejecuta la auditoria de accesibilidad de Google Chrome.</strong> Está en la pestaña “Audits” de las DevTools (accede pulsando F12).</li>
 	<li><strong>Navega con CSS desactivado.</strong> Y comprueba si la estructura de tu página tiene sentido.</li>
 </ul>
