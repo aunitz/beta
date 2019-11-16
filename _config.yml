@@ -4,15 +4,15 @@ subtitle: Aunitz Giménez
 header-img: img/home-bg.jpg
 email: aunitz@gmail.com
 copyright_name: Aunitz Giménez
-description: "Dirección de proyectos digitales y consultoría tecnológica. Especialista en usabilidad, accesibilidad y desarrollo web. Más de 17 años de experiencia en el sector."
+description: "Dirección de proyectos digitales y consultoría tecnológica. Especialista en usabilidad, accesibilidad y desarrollo de soluciones en entorno web."
 baseurl: ""
 url: "https://www.aunitz.net"
 twitter_username:
-github_username: aunitz
+#github_username: aunitz
 facebook_username:
 email_username:
 linkedin_username: aunitz
-medium_username: aunitz
+#medium_username: aunitz
 
 # Origen de la plantilla
 # https://startbootstrap.com/template-overviews/clean-blog/
