@@ -50,7 +50,7 @@ tags:       [desarrollo de aplicaciones web]
 
 <h3>Module Bundlers</h3>
 
-<p>El 73% utiliza <strong>Webpack</strong>. Hay un 15% que no utiliza ninguno.</p>
+<p>El 73% utiliza <strong>Webpack</strong>.</p>
 
 <h3>Transpilers</h3>
 
@@ -58,7 +58,7 @@ tags:       [desarrollo de aplicaciones web]
 
 <h3>Linting</h3>
 
-<p>La gran mayoría, el 76%, usa <strong>ESLint</strong>. El 12% no utiliza ninguno.</p>
+<p>La gran mayoría, el 76%, usa <strong>ESLint</strong>.</p>
 
 <h3>Package Managers</h3>
 
@@ -73,13 +73,13 @@ tags:       [desarrollo de aplicaciones web]
 <h3>Testing del rendimiento</h3>
 
 <p>El 68% testea el rendimiento con alguna herramienta. <strong>Lighthouse</strong> es la mayoritaria, con un 52%.</p>
-<p>Resulta curioso que a pesar de lo que Google ha promocionado la tecnología AMP (Accelerated Mobile Pages), sólo el 6% de los desarrolladores la utiliza. Parece que se trataría de una tecnología más de nicho.</p>
+<p>Resulta curioso que a pesar de lo que Google ha promocionado la tecnología AMP (Accelerated Mobile Pages), sólo el 6% de los desarrolladores la utiliza. Parece que se ha convertido en una tecnología de nicho.</p>
 
 <h3>Testing de accesibilidad</h3>
 
 <p>La accesibilidad parece ser <strong>la gran olvidada</strong> por los desarrolladores front-end. El 63% no utiliza ninguna herramienta para testearla.</p>
 
-<p>Existen excelentes herramientas gratuitas para ello, muy fáciles de utilizar. Como son <a href="https://wave.webaim.org/">Wave</a> y <a href="https://www.deque.com/axe/axe-for-web/">Axe</a>. Pero su uso es completamente marginal.</p>
+<p>Existen excelentes herramientas gratuitas para ello, muy fáciles de utilizar. Como son <a href="https://wave.webaim.org/" target="_blank" rel="noopener">Wave</a> y <a href="https://www.deque.com/axe/axe-for-web/" target="_blank" rel="noopener">Axe</a>. Pero su uso es completamente marginal.</p>
 
 <p>Si es por desconocimiento que no aplicas buenas prácticas de accesibilidad, debes saber que sin tener que ser un experto en accesibilidad podemos aplicar unas <a href="https://www.aunitz.net/accesibilidad-web-al-alcance-de-todos/">sencillas reglas que mejorarán considerablemente la accesibilidad de nuestras webs</a>.</p>
 
