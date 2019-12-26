@@ -2,7 +2,7 @@
 layout:     post
 title:      "Qué es un sistema de diseño"
 subtitle:   "Mucho más que una guía de estilo"
-date:       2019-12-26 19:30:00
+date:       2019-12-26 20:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-48.jpg"
 tags:       [sistemas de diseño, desarrollo de aplicaciones web, buenas prácticas de diseño]
@@ -24,7 +24,7 @@ tags:       [sistemas de diseño, desarrollo de aplicaciones web, buenas prácti
 
 <h2>Principales beneficios de un sistema de diseño</h2>
 
-<p><a href="https://bradfrost.com/" target="_blank" rel="noopener">Brad Frost</a>, es uno de los primeros y más influyentes autores que han teorizado sobre los sistemas de diseño. En su libro <a href="http://atomicdesign.bradfrost.com/table-of-contents/" target="_blank" rel="noopener">Atomic Design</a> (2013) aporta un listado de los principales beneficios que se derivan de disponer de un sistema de diseño:</p>
+<p><a href="https://bradfrost.com/" target="_blank" rel="noopener">Brad Frost</a> es uno de los primeros y más influyentes autores que han teorizado sobre los sistemas de diseño. En su libro <a href="http://atomicdesign.bradfrost.com/table-of-contents/" target="_blank" rel="noopener">Atomic Design</a> (2013) aporta un listado de los principales beneficios que se derivan de disponer de un sistema de diseño:</p>
 
 <ul>
     <li>Promueve la <strong>consistencia y cohesión</strong> de todos los interfaces y aplicaciones.</li>
@@ -48,7 +48,7 @@ tags:       [sistemas de diseño, desarrollo de aplicaciones web, buenas prácti
 
 <p>El “secreto” para desarrollar un sistema de diseño realmente efectivo no es otro que el que exista una auténtica colaboración y comunicación entre todas las partes implicadas y hacerlas trabajar de manera colaborativa, iterativa e incremental.</p>
 
-<p class="center-block"><img src="{{ site.baseurl }}/img/design-system-03.png" alt=""></p>
+<p><img src="{{ site.baseurl }}/img/design-system-03.png" alt="" class="center-block"></p>
 
 <h2>La base de un sistema de diseño: la guía de estilo</h2>
 
@@ -63,12 +63,12 @@ tags:       [sistemas de diseño, desarrollo de aplicaciones web, buenas prácti
 <p>Una buena guía de estilo cuenta, al menos, con las siguientes funcionalidades:</p>
 
 <ul>
-    <li>Proporciona descripciones de los componentes que incluye.</li>
-    <li>Facilita el código fuente de cada componente.</li>
-    <li>Permite visualizar los componentes a distintas resoluciones de monitor.</li>
-    <li>Proporciona mecanismos para visualizar las distintas variantes de un componente.</li>
-    <li>Proporciona <a href="{{ site.baseurl }}{% post_url 2019-11-02-tip-15-contenido-precede-diseno %}">contenidos reales</a> de ejemplo para las distintas plantillas.</li>
-    <li>Proporciona información contextual sobre el uso adecuado de los componentes.</li>
+    <li>Proporciona <strong>descripciones de los componentes</strong> que incluye.</li>
+    <li>Facilita el <strong>código fuente</strong> de cada componente.</li>
+    <li>Permite visualizar los componentes a <strong>distintas resoluciones</strong> de monitor.</li>
+    <li>Proporciona mecanismos para visualizar las distintas <strong>variantes de un componente</strong>.</li>
+    <li>Proporciona <strong><a href="{{ site.baseurl }}{% post_url 2019-11-02-tip-15-contenido-precede-diseno %}">contenidos reales</a> de ejemplo</strong> para las distintas plantillas.</li>
+    <li>Proporciona <strong>información contextual sobre el uso</strong> adecuado de los componentes.</li>
 </ul>
 
 <h2>Las piezas de un sistema de diseño: los componentes</h2>
@@ -77,7 +77,7 @@ tags:       [sistemas de diseño, desarrollo de aplicaciones web, buenas prácti
 
 <p><img src="{{ site.baseurl }}/img/design-system-05.jpg" alt=""></p>
 
-<p>Para entender el concepto de componente, es habitual compararlos con los bloques de LEGO. Nos es mala aproximación, pero le faltan matices. Los bloques de LEGO son piezas muy pequeñas y reutilizables. Mientras que los componentes de un sistema de diseño pueden ser de dimensión y/o funcionalidad muy diferentes. Por ello el autor <a href="https://bradfrost.com/" target="_blank" rel="noopener">Brad Frost</a>, en su libro <a href="http://atomicdesign.bradfrost.com/table-of-contents/" target="_blank" rel="noopener">Atomic Design</a> (2013), popularizó la metáfora de la química básica. De modo que los componentes pueden ser de tipo “átomo”, “molécula” u “organismo”. Ayudando a entender que la construcción de los componentes de un sistema de diseño implica <strong>jerarquía</strong>.</p>
+<p>Para entender el concepto de componente, es habitual compararlos con los bloques de LEGO. Nos es mala aproximación, pero le faltan matices. Los bloques de LEGO son piezas muy pequeñas y reutilizables. Mientras que los componentes de un sistema de diseño pueden ser de dimensión y/o funcionalidades muy diferentes. Por ello el autor <a href="https://bradfrost.com/" target="_blank" rel="noopener">Brad Frost</a>, en su libro <a href="http://atomicdesign.bradfrost.com/table-of-contents/" target="_blank" rel="noopener">Atomic Design</a> (2013), popularizó la metáfora de la química básica. De modo que los componentes pueden ser de tipo “átomo”, “molécula” u “organismo”. Ayudando a entender que la construcción de los componentes de un sistema de diseño implica <strong>jerarquía</strong>.</p>
 
 <p>La clave de los componentes está en desarrollarlos de modo que puedan estar ubicados en “cualquier” sitio. Es decir, deben ser <strong>modulares</strong>.</p>
 
@@ -85,9 +85,9 @@ tags:       [sistemas de diseño, desarrollo de aplicaciones web, buenas prácti
 
 <h2>Ejemplos de sistemas de diseño</h2>
 
-<p>Algunas compañías publican en internet sus sistemas de diseño. Suelen hacerlo aquellas que cuentan con una comunidad de desarrolladores externos que trabajan desarrollando aplicaciones que vivirán en su mismo ecosistema.</p>
+<p>Algunas compañías publican en abierto sus sistemas de diseño. Suelen hacerlo aquellas que cuentan con una comunidad de desarrolladores externos que trabajan desarrollando aplicaciones que vivirán en su mismo ecosistema.</p>
 
-<p>Los cual nos brinda una oportunidad única de estudiar y aprender de los sistemas de diseño que estas compañías han desarrollado. Nos ayudará a la hora de crear y mantener los nuestros propios. Porque sí, si puedes permitírtelo, <a href="{{ site.baseurl }}{% post_url 2019-02-07-ventajas-diseno-interfaz-personalizado %}">existen importantes ventajas derivadas de crear un sistema de diseño propio</a>.</p>
+<p>Lo cual nos brinda una oportunidad única de estudiar y aprender de los sistemas de diseño que estas compañías han desarrollado. Nos ayudará a la hora de crear y mantener los nuestros propios. Porque sí, si puedes permitírtelo, <a href="{{ site.baseurl }}{% post_url 2019-02-07-ventajas-diseno-interfaz-personalizado %}">existen importantes ventajas derivadas de crear un sistema de diseño propio</a>.</p>
 
 <p>Algunos ejemplos destacados:</p>
 
