@@ -8,7 +8,7 @@ header-img: "img/post-bg-48.jpg"
 tags:       [sistemas de diseño, desarrollo de aplicaciones web, buenas prácticas de diseño]
 ---
 
-<p>Un <strong>sistema de diseño</strong> (design system) es un <strong>proceso</strong> y conjuntamente una <strong>fuente de recursos</strong> que ayuda a los equipos diseñar y <strong>desarrollar</strong> los <strong>productos digitales</strong> de una compañía.</p>
+<p>Un <strong>sistema de diseño</strong> (design system) es un <strong>proceso</strong> y conjuntamente una <strong>fuente de recursos</strong> que ayuda a los equipos a diseñar y <strong>desarrollar</strong> los <strong>productos digitales</strong> de una compañía.</p>
 
 <p>Es un <strong>proceso</strong> porque se encuentra en constante evolución. Un sistema de diseño está vivo y progresa continuamente a la vez que los productos que ayuda a desarrollar.</p>
 
