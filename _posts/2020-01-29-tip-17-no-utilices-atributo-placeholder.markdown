@@ -16,7 +16,7 @@ tags:       [buenas prácticas de usabilidad, formularios]
 
 <h2>En ningún caso debe sustituir al label</h2>
 
-<p>Una práctica que no es raro ver en algunos formularios es la de utilizar <code>placeholders</code> como sustitutos de los elementos <code>label</code> de HTML.</p>
+<p>Una práctica que no es raro ver en algunos formularios es la de utilizar atributos <code>placeholder</code> como sustitutos de los elementos <code>label</code> de HTML.</p>
 
 <p><img src="{{ site.baseurl }}/img/no-utilices-atributo-placeholder-01.png" alt=""></p>
 
@@ -25,12 +25,12 @@ tags:       [buenas prácticas de usabilidad, formularios]
 <ul>
 	<li>Una vez que el usuario entra en el cuadro de texto para editarlo, el <code>placeholder</code> desaparece y, por tanto, no puede verificar que lo que está escribiendo es lo que debe escribir.</li>
 	<li>Puede ocurrir que el usuario confunda el <code>placeholder</code> con un campo que ya ha rellenado y lo pase por alto.</li>
-	<li>Por accesibilidad, <a href="https://www.w3.org/TR/WCAG20-TECHS/H44.html" target="_blank" rel="noopener">todos los campos de un formulario deben ir correctamente identificados y asociados con un <code>label</code></a>. Este problema de accesibilidad es también aplicable a los <a href="https://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction" target="_blank" rel="noopener"><code>labels</code> de efecto flotante</a> que a nivel de código se resuelvan mediante <em>placeholders</em>.</li>
+	<li>Por accesibilidad, <a href="https://www.w3.org/TR/WCAG20-TECHS/H44.html" target="_blank" rel="noopener">todos los campos de un formulario deben ir correctamente identificados y asociados con un <code>label</code></a>. Este problema de accesibilidad es también aplicable a los <a href="https://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction" target="_blank" rel="noopener"><code>label</code> de efecto flotante</a> que a nivel de código se resuelvan mediante <em>placeholder</em>.</li>
 </ul>
 
 <h2>Desaparece en el momento de escribir</h2>
 
-<p>Una vez que tenemos claro que no podemos prescindir de los <code>labels</code>, podemos plantearnos utilizar los <code>placeholders</code> para proporcionar información adicional o de ayuda al usuario para rellenar el campo.</p>
+<p>Una vez que tenemos claro que no podemos prescindir de los <code>label</code>, podemos plantearnos utilizar los atributos <code>placeholder</code> para proporcionar información adicional o de ayuda al usuario para rellenar el campo.</p>
 
 <p>El gran problema de usabilidad que tiene esta solución es que perdemos el texto de ayuda justo en el momento que más podemos necesitar consultarlo. Es decir, en el momento de rellenar el campo de formulario.</p>
 
