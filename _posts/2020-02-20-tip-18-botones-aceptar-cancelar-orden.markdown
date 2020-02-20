@@ -74,4 +74,4 @@ tags:       [buenas prácticas de usabilidad, formularios]
 
 <p>En cualquiera de los dos casos, <strong>otorga mayor peso visual a la acción principal</strong> y redacta <strong>unos nombres de botón que se entiendan</strong> lo mejor posible. Con el fin de reducir la probabilidad de que el usuario cometa errores.</p>
 
-<p>Una cuestión relacionada con el orden es la de en qué posición de la página colocaremos los botones. ¿Alineados a la izquierda? ¿A la derecha? ¿En el centro? Este es un tema que trataré en un futuro post.</p>
+<p>Una cuestión relacionada con el orden: ¿en qué posición de la página colocaremos los botones? ¿Alineados a la izquierda? ¿A la derecha? ¿En el centro? Este es un tema que trataré en un futuro post.</p>
