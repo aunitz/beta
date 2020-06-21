@@ -4,7 +4,7 @@ title:      "¿Pides propuestas gráficas en tus concursos? No vuelvas a hacerlo
 subtitle:   "Se trata de un grave error"
 date:       2020-06-21 19:30:00
 author:     "Aunitz Giménez"
-header-img: "img/post-bg-20.jpg"
+header-img: "img/post-bg-52.jpg"
 tags:       [buenas prácticas de diseño]
 ---
 

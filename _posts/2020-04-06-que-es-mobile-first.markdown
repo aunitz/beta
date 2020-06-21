@@ -4,7 +4,7 @@ title:      "Qué es Mobile First"
 subtitle:   "Requiere centrarse en lo importante"
 date:       2020-04-06 12:30:00
 author:     "Aunitz Giménez"
-header-img: "img/post-bg-12.jpg"
+header-img: "img/post-bg-51.jpg"
 tags:       [desarrollo de aplicaciones web, buenas prácticas de diseño]
 ---
 
