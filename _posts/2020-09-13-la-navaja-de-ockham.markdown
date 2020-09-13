@@ -11,8 +11,8 @@ tags:       [leyes y principios de usabilidad, buenas prácticas de diseño]
 <p>La <strong>navaja de Ockham</strong> es un principio metodológico y filosófico atribuido al fraile franciscano Guillermo de Ockham (1280-1349), según el cual <strong>“en igualdad de condiciones, la explicación más sencilla suele ser la más probable”</strong>.</p>
 
 <p>
-    <img src="{{ site.baseurl }}/img/la-navaja-de-ockham-01.jpg" alt="Ilustración de Guillermo de Ockham"><br>
-    <em>Guillermo de Ockham</em>
+    <img src="{{ site.baseurl }}/img/la-navaja-de-ockham-01.jpg" alt="Ilustración de Guillermo de Ockham">
+    <div class="clearfix"><em>Guillermo de Ockham</em></div>
 </p>
 
 <p>La denominación del principio alude a una navaja porque con ella Ockham “afeitaba” las entidades que consideraba innecesarias de los conceptos filosóficos que estudiaba.</p>
@@ -34,7 +34,7 @@ tags:       [leyes y principios de usabilidad, buenas prácticas de diseño]
 
 <p><img src="{{ site.baseurl }}/img/la-navaja-de-ockham-03.jpg" alt=""></p>
 
-<p>Si no conoces su trabajo, no te sorprenderá saber que su influencia ha sido admitida por Jonathan Ive, actual Jefe de Diseño de Apple.</p>
+<p>Si no conoces su trabajo, no te sorprenderá saber que su influencia ha sido admitida por Jonathan Ive, actual Jefe de Diseño de <strong>Apple</strong>.</p>
 
 <p><img src="{{ site.baseurl }}/img/la-navaja-de-ockham-04.jpg" alt=""></p>
 
