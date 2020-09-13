@@ -10,10 +10,7 @@ tags:       [leyes y principios de usabilidad, buenas prácticas de diseño]
 
 <p>La <strong>navaja de Ockham</strong> es un principio metodológico y filosófico atribuido al fraile franciscano Guillermo de Ockham (1280-1349), según el cual <strong>“en igualdad de condiciones, la explicación más sencilla suele ser la más probable”</strong>.</p>
 
-<p>
-    <img src="{{ site.baseurl }}/img/la-navaja-de-ockham-01.jpg" alt="Ilustración de Guillermo de Ockham">
-    <div class="clearfix"><em>Guillermo de Ockham</em></div>
-</p>
+<p><img src="{{ site.baseurl }}/img/la-navaja-de-ockham-01.jpg" alt="Ilustración de Guillermo de Ockham"><div class="clearfix"><em>Guillermo de Ockham</em></div></p>
 
 <p>La denominación del principio alude a una navaja porque con ella Ockham “afeitaba” las entidades que consideraba innecesarias de los conceptos filosóficos que estudiaba.</p>
 
@@ -21,10 +18,7 @@ tags:       [leyes y principios de usabilidad, buenas prácticas de diseño]
 
 <p>Los product managers, los programadores y en general casi todos los implicados en el desarrollo de un producto o servicio suelen (solemos) caer en la tentación de tratar de ofrecer el máximo número y complejidad de funcionalidades y opciones al usuario. Cuando precisamente, la mayor parte de las veces, el usuario prefiere una solución simple, usable y orientada a una necesidad concreta. El resto de los elementos solo logran confundirlo, distraerlo y alejarlo de su objetivo.</p>
 
-<p>
-    <img src="{{ site.baseurl }}/img/la-navaja-de-ockham-02.png" alt="Captura de pantalla de Word con decenas de botones de acción a la vista"><br>
-    <em>Sobrecarga de información. Imagen: <a href="https://twitter.com/ftrain" target="_blank" rel="noopener">@ftrain</a></em>
-</p>
+<p><img src="{{ site.baseurl }}/img/la-navaja-de-ockham-02.png" alt="Captura de pantalla de Word con decenas de botones de acción a la vista"><br><em>Sobrecarga de información. Imagen: <a href="https://twitter.com/ftrain" target="_blank" rel="noopener">@ftrain</a></em></p>
 
 <p>Existen un gran número de leyes y principios de usabilidad que apoyan o van en la línea de buscar la simplicidad. Algunas de ellas ya tratadas en este blog: la <a href="{{ site.baseurl }}{% post_url 2018-01-22-ley-05-ley-de-miller %}">ley de Miller</a>, la <a href="{{ site.baseurl }}{% post_url 2018-01-22-ley-04-ley-de-pragnanz %}">ley de Prägnanz</a>, la <a href="{{ site.baseurl }}{% post_url 2018-01-21-ley-02-ley-de-hick %}">ley de Hick</a>, la <a href="{{ site.baseurl }}{% post_url 2018-01-23-ley-08-ley-de-tesler %}">ley de Tesler</a>…</p>
 
