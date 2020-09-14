@@ -30,7 +30,7 @@ tags:       [leyes y principios de usabilidad, buenas prácticas de diseño]
 
 <p>El diseñador alemán <strong>Dieter Rams</strong>, referente fundamental del diseño industrial del siglo XX, abogó rotundamente por la simplicidad en sus diseños. Reduciéndolos a la mínima expresión. Su visión la resumió en alemán con la expresión "Weniger, aber besser" que traducida al español equivaldría a "Menos, pero con mejor ejecución".</p>
 
-<p>Dieter Rams desarrolló el grueso de su carrera en la empresa Braun. Siendo el responsable de elegantes diseños para cafeteras, calculadoras, radios, equipamiento audiovisual, electrodomésticos de consumo o productos de oficina.</p>
+<p>Dieter Rams desarrolló el grueso de su carrera en la empresa Braun A.G. entre los años 1955 y 1998. Siendo el responsable de elegantes diseños para cafeteras, calculadoras, radios, equipamiento audiovisual, electrodomésticos de consumo o productos de oficina.</p>
 
 <p><img src="{{ site.baseurl }}/img/la-navaja-de-ockham-03.jpg" alt=""></p>
 
