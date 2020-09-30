@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Cómo deshacer un commit en Git"
+title:      "Cómo deshacer un commit en Git (vídeo)"
 subtitle:   "No lo tenía claro hasta que vi este vídeo"
 date:       2017-07-29 09:50:00
 author:     "Aunitz Giménez"
