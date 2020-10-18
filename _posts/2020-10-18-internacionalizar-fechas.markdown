@@ -12,7 +12,9 @@ tags:       [buenas prácticas de usabilidad, formularios]
 
 <p>El significado del formato de las fechas depende del país. “08/11/2020” puede significar 11 de agosto de 2020 en EEUU, pero será 8 de noviembre de 2020 en algunos países europeos.</p>
 
-<p><strong>Lo ideal</strong> sería que el <strong>formato de las fechas</strong> fuese <strong>dinámico</strong> y que le mostrásemos a cada usuario aquel formato que es habitual en su país. Sin embargo, esto es algo que la mayor parte de las veces no será posible. Habitualmente porque nuestra web o aplicación puede que se encuentre traducida a varios idiomas, pero no internacionalizada. Es decir, no adaptada a los usos y costumbres de diferentes países. Típicamente podemos tener una versión en inglés de nuestro proyecto, pero no una versión en inglés para EEUU, otra para Reino Unido, otra para Australia, otra para el resto del mundo, etc.</p>
+<p><img src="{{ site.baseurl }}/img/internacionalizar-fechas-00.jpg" alt=""></p>
+
+<p><strong>Lo ideal</strong> sería que el <strong>formato de las fechas</strong> fuese <strong>dinámico</strong> y que le mostrásemos a cada usuario aquel formato que es habitual en su país. Sin embargo, esto es algo que la mayor parte de las veces no será posible. Habitualmente porque nuestra web o aplicación puede que se encuentre traducida a varios idiomas, pero no internacionalizada. Es decir, no adaptada a los usos y costumbres de diferentes países. Típicamente podemos tener una versión en inglés de nuestro proyecto, pero no una versión en inglés para EEUU, otra para Reino Unido, otra para Australia, otra para el resto del mundo...</p>
 
 <p>En consecuencia, nos veremos obligados a utilizar un <strong>formato de fecha común para todos los casos</strong>. ¿Cuál escoger? Si sigues los dos consejos que te proporciono a continuación tus usuarios no tendrán demasiados problemas.</p>
 
@@ -40,7 +42,7 @@ tags:       [buenas prácticas de usabilidad, formularios]
 
 <p><a href="https://www.w3.org/QA/Tips/iso-date" target="_blank" rel="noopener">Existe un formato internacional definido por ISO</a> (ISO 8601) para representar las fechas en formato numérico. Es el siguiente: AAAA-MM-DD. Donde AAAA es el año, MM es el mes (representado siempre con dos dígitos) y DD el día (representado siempre con dos dígitos).</p>
 
-<p>Este formato ISO tiene el inconveniente de que no resulta amigable para el usuario. Ya que no es el formato habitual de casi ningún país.</p>
+<p>Este formato ISO tiene el inconveniente de que <strong>no resulta amigable para el usuario</strong>. Ya que no es el formato habitual de casi ningún país.</p>
 
 <h3>Inconvenientes de escribir el nombre del mes</h3>
 
