@@ -58,7 +58,7 @@ tags:       [buenas prácticas de usabilidad]
 <div class="footnotes">
   <ol>
     <li id="fn:fn-f1">
-      <p>Aún y todo existía la dificultad de tener en cuenta el espacio que dejaba disponible para el contenido cada navegador, cada sistema operativo, la configuración particular del usuario de las barras del navegador, etc.</p>
+      <p>Aún y todo existía la dificultad de tener en cuenta el espacio que dejaba disponible para el contenido cada navegador, cada sistema operativo, la configuración particular del usuario de las barras del navegador, etc.&nbsp;<a href="#fnref:fn-f1" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>
