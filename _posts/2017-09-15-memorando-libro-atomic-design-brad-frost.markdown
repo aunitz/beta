@@ -15,7 +15,7 @@ libro de referencia para la creación de <strong>sistemas de diseño</strong>.</
 <p><img src="{{ site.baseurl }}/img/atomic-design-01-ebook.jpg" alt="Fotografía de una página interior del libro Atomic Design de Brad Frost"></p>
 
 <p>Este post no pretender resumir el contenido del libro. Hay
-otros que lo han hecho muy bien. Por ejemplo, el mismo <a href="http://bradfrost.com/blog/post/atomic-web-design/">Brad Frost en su blog</a>.
+otros que lo han hecho muy bien. Por ejemplo, el mismo <a href="http://bradfrost.com/blog/post/atomic-web-design/" target="_blank" rel="noopener noreferrer">Brad Frost en su blog</a>.
 </p>
 
 <p>Lo que pretendo en este artículo es pasar a limpio las
@@ -28,7 +28,7 @@ muy recomendable</strong> para todos aquellos que estéis interesados en desarro
 sistemas de diseño, interfaces de usuario, guías de estilo, patrones de diseño,
 etc. </p>
 
-<p>El autor ha sido muy generoso con la comunidad y <a href="http://atomicdesign.bradfrost.com/">el libro se puede leer completo
+<p>El autor ha sido muy generoso con la comunidad y <a href="http://atomicdesign.bradfrost.com/" target="_blank" rel="noopener noreferrer">el libro se puede leer completo
 online</a>. Además de comprarlo en formato papel y/o ebook.</p>
 
 <p>Además, está escrito de manera que su lectura resulta muy
@@ -50,7 +50,7 @@ de desarrollo.</p>
 sitio porque podrá estar en cualquier sitio.</p>
 
 <p>Para ayudarte a modularizar la arquitectura de tu CSS
-existen metodologías como <a href="http://oocss.org/">OOCSS</a>, <a href="https://smacss.com/">SMACSS</a> y <a href="https://en.bem.info/">BEM</a>.</p>
+existen metodologías como <a href="http://oocss.org/" target="_blank" rel="noopener noreferrer">OOCSS</a>, <a href="https://smacss.com/" target="_blank" rel="noopener noreferrer">SMACSS</a> y <a href="https://en.bem.info/" target="_blank" rel="noopener noreferrer">BEM</a>.</p>
 
 <p>Las primeras aproximaciones visuales al diseño de un
 interfaz deben ser de porciones pequeñas del mismo. No de páginas completas que
@@ -58,7 +58,7 @@ proporcionen un diseño con falsa apariencia de diseño final.</p>
 
 <h2>Bootstrap sí o no</h2>
 
-<p>Los tan populares <i>frameworks</i> de UI como <a href="http://getbootstrap.com/">Bootstrap</a> o <a href="http://foundation.zurb.com/">Foundation</a> resultan útiles para el
+<p>Los tan populares <i>frameworks</i> de UI como <a href="http://getbootstrap.com/" target="_blank" rel="noopener noreferrer">Bootstrap</a> o <a href="http://foundation.zurb.com/" target="_blank" rel="noopener noreferrer">Foundation</a> resultan útiles para el
 desarrollo rápido de interfaces. </p>
 
 <p>Proporcionan una colección de componentes bien comprobados y
@@ -149,7 +149,7 @@ miembro de la organización</h2>
 y <strong>dónde</strong> usar cada componente.</p>
 
 <p>Un ejemplo de guía de estilo que proporciona información muy
-completa sobre cómo, cuándo y dónde utilizar cada componente es <a href="https://material.io/guidelines/">Material design</a>.</p>
+completa sobre cómo, cuándo y dónde utilizar cada componente es <a href="https://material.io/guidelines/" target="_blank" rel="noopener noreferrer">Material design</a>.</p>
 
 <h2>Una estrategia de mantenimiento y actualización es crítica para la
 supervivencia de una guía de estilo</h2>
@@ -211,18 +211,18 @@ organismos), ayuda a entender que la construcción de los componentes de un
 sistema de diseño implica jerarquía.</p>
 
 <p>Pero si esta metáfora no funciona en tú organización, el
-autor no ve problema en que la cambies. <a href="http://atomicdesign.bradfrost.com/chapter-2/#whats-in-a-name">Atomic
+autor no ve problema en que la cambies. <a href="http://atomicdesign.bradfrost.com/chapter-2/#whats-in-a-name" target="_blank" rel="noopener noreferrer">Atomic
 Design no es un dogma rígido</a>.</p>
 
 <h2>Pattern Lab, una herramienta muy útil</h2>
 
 <p>Con la colaboración de varios colegas, Brad Frost ha
 desarrollado una herramienta que facilita construir una guía de estilo
-respetando los principios del Atomic Design. La han llamado <a href="http://patternlab.io/">Pattern Lab</a> y es open source.</p>
+respetando los principios del Atomic Design. La han llamado <a href="http://patternlab.io/" target="_blank" rel="noopener noreferrer">Pattern Lab</a> y es open source.</p>
 
 <p>En su estructura, Pattern Lab utiliza la metáfora de la
 química, pero fácilmente se puede utilizar otra estructura o metáfora. De
-hecho, <a href="http://atomicdesign.bradfrost.com/chapter-3/#building-atomic-design-systems-with-pattern-lab">en
+hecho, <a href="http://atomicdesign.bradfrost.com/chapter-3/#building-atomic-design-systems-with-pattern-lab" target="_blank" rel="noopener noreferrer">en
 el libro se invita</a> a establecer el <i>naming</i> y la categorización que
 resulte más efectiva para nuestro proyecto.</p>
 
@@ -263,7 +263,7 @@ de un interfaz de usuario es una excelente manera de evidenciar sus
 inconsistencias y demostrar a los <i>stakeholders</i> la necesidad de un
 sistema de diseño.</p>
 
-<p><a href="http://atomicdesign.bradfrost.com/chapter-4/#conducting-an-interface-audit">En
+<p><a href="http://atomicdesign.bradfrost.com/chapter-4/#conducting-an-interface-audit" target="_blank" rel="noopener noreferrer">En
 el libro se detalla la técnica</a> para llevar a cabo este ejercicio.</p>
 
 <h2>Tres imágenes muy útiles para hacer comprender la complejidad del entorno
@@ -290,14 +290,14 @@ considerado como un requisito esencial de la experiencia de usuario.</p>
 
 <h2>La metodología de desarrollo en cascada no es válida para el mundo digital</h2>
 
-<p>La <a href="http://www.javiergarzas.com/2013/07/ciclos-de-vida-software.html">metodología
+<p>La <a href="http://www.javiergarzas.com/2013/07/ciclos-de-vida-software.html" target="_blank" rel="noopener noreferrer">metodología
 de desarrollo en cascada</a> tiene sentido en el mundo físico (imprenta,
 arquitectura, manufactura, etc.) porque los cambios suponen un coste muchas
 veces inasumible. Sin embargo, esto no es así en el mundo digital.</p>
 
 <p>Para crear un sistema de diseño hay que hacer comprender
 claramente este punto a todas las partes implicadas y hacerlas trabajar de
-manera colaborativa, <a href="http://www.javiergarzas.com/2012/10/iterativo-e-incremental.html">iterativa
+manera colaborativa, <a href="http://www.javiergarzas.com/2012/10/iterativo-e-incremental.html" target="_blank" rel="noopener noreferrer">iterativa
 e incremental</a>. </p>
 
 <h2>Hay que incluir a los desarrolladores front-end en el proceso de diseño</h2>
@@ -321,12 +321,12 @@ desarrolladores front-end.</p>
 <p>Para ilustrar el proceso de creación de un sistema de diseño
 Brad Frost utiliza una, en mi opinión, acertada y bonita metáfora.</p>
 
-<p>Desarrollar un sistema de diseño es un <a href="http://atomicdesign.bradfrost.com/chapter-4/#an-iterative-iterative-iterative-iterative-process">proceso
+<p>Desarrollar un sistema de diseño es un <a href="http://atomicdesign.bradfrost.com/chapter-4/#an-iterative-iterative-iterative-iterative-process" target="_blank" rel="noopener noreferrer">proceso
 iterativo similar a esculpir una escultura</a>.</p>
 
 <p>
   <img src="{{ site.baseurl }}/img/atomic-design-06-escultor.jpg" alt="Fotografía de un escultor tallando una escultura">
-  <figcaption>Créditos de la imagen: <a href="https://flic.kr/p/dLrf6w">Mike Beauregard en Flickr</a></figcaption>
+  <figcaption>Créditos de la imagen: <a href="https://flic.kr/p/dLrf6w" target="_blank" rel="noopener noreferrer">Mike Beauregard en Flickr</a></figcaption>
 </p>
 
 <p>Es clave que los <i>stakeholders</i> se sientan cómodos y
@@ -340,7 +340,7 @@ son los responsables de sintetizar toda la información vital del proyecto y
 trasladarla a los interfaces de usuario para que cumplan con los objetivos del
 usuario y del negocio.</p>
 
-<p>Dentro de este proceso, es mejor comenzar con <i>wireframes </i><a href="http://www.lukew.com/ff/entry.asp?933"><i>mobile first</i></a> de baja
+<p>Dentro de este proceso, es mejor comenzar con <i>wireframes </i><a href="http://www.lukew.com/ff/entry.asp?933" target="_blank" rel="noopener noreferrer"><i>mobile first</i></a> de baja
 fidelidad, en lugar de documentos de alta fidelidad.</p>
 
 <p>Utilizar la aproximación <i>mobile first</i> nos fuerza a
@@ -350,13 +350,13 @@ adecuado?, ¿está en el orden correcto?</p>
 
 <h2>El test visual de los 20 segundos</h2>
 
-<p><a href="http://goodkickoffmeetings.com/2010/04/the-20-second-gut-test/">Una
+<p><a href="http://goodkickoffmeetings.com/2010/04/the-20-second-gut-test/" target="_blank" rel="noopener noreferrer">Una
 técnica</a> que sirve para capturar en fases tempranas del proyecto los gustos
 visuales de los <i>stakeholders</i>.</p>
 
 <h2>Style tiles</h2>
 
-<p><a href="http://styletil.es/">Una técnica</a> que permite a
+<p><a href="http://styletil.es/" target="_blank" rel="noopener noreferrer">Una técnica</a> que permite a
 los diseñadores visuales explorar aspectos de color, tipografía, textura,
 iconos, etc. sin tener que avanzar en el diseño de la estructura del interfaz.</p>
 
@@ -370,7 +370,7 @@ en que piensen en términos de “sistema”, en lugar de en términos de “pá
 
 <h2>Collages de elementos</h2>
 
-<p><a href="http://v3.danielmall.com/articles/rif-element-collages/">Es una técnica</a>
+<p><a href="http://v3.danielmall.com/articles/rif-element-collages/" target="_blank" rel="noopener noreferrer">Es una técnica</a>
 que permite avanzar algo más en el diseño que los <i>style tiles</i>, pero sin
 llegar aún a diseñar los componentes finales.</p>
 
@@ -422,7 +422,7 @@ comportamiento en el navegador quien los valida definitivamente.</p>
 
 <h2>Técnica para compartir el CSS y el JavaScript del front-end</h2>
 
-<p><a href="https://medium.com/@marcelosomers/chasing-the-holy-grail-bbc0b7cce365">Marcelo
+<p><a href="https://medium.com/@marcelosomers/chasing-the-holy-grail-bbc0b7cce365" target="_blank" rel="noopener noreferrer">Marcelo
 Somers escribió un post</a> en el que compara diversas técnicas para compartir
 y coordinar librerías de componentes. </p>
 

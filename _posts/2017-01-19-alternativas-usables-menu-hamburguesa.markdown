@@ -10,7 +10,7 @@ tags:       [buenas prácticas de usabilidad]
 
 <p>Ya habrás leído en más de una ocasión<sup id="fnref:fn-f1"><a href="#fn:fn-f1" class="footnote">1</a></sup> que el menú hamburguesa no resulta usable para muchos usuarios. Comparto esta opinión por la sencilla razón de que contradice el principio de usabilidad de <strong>interfaz visible</strong><sup id="fnref:fn-f2"><a href="#fn:fn-f2" class="footnote">2</a></sup>. El cual afirma que deben evitarse elementos invisibles de navegación que han de ser inferidos por los usuarios, menús desplegables, indicaciones ocultas, etc.</p>
 
-<p>Buscando alternativas, he encontrado este <a href="https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8#.h13amirvf">excelente artículo de Zoltan Kollin</a> en Medium, que describe hasta 5 alternativas válidas.</p>
+<p>Buscando alternativas, he encontrado este <a href="https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8#.h13amirvf" target="_blank" rel="noopener noreferrer">excelente artículo de Zoltan Kollin</a> en Medium, que describe hasta 5 alternativas válidas.</p>
 
 <ol>
   <li>Pestañas</li>
@@ -40,7 +40,7 @@ tags:       [buenas prácticas de usabilidad]
 <div class="footnotes">
   <ol>
     <li id="fn:fn-f1">
-      <p>Por ejemplo <a href="https://www.nngroup.com/articles/hamburger-menus/">en este artículo de Nielsen Norman Group</a>.&nbsp;<a href="#fnref:fn-f1" class="reversefootnote">&#8617;</a></p>
+      <p>Por ejemplo <a href="https://www.nngroup.com/articles/hamburger-menus/" target="_blank" rel="noopener noreferrer">en este artículo de Nielsen Norman Group</a>.&nbsp;<a href="#fnref:fn-f1" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:fn-f2">
       <p>Mi lista de <a href="{{ site.baseurl }}{% post_url 2017-01-18-principios-usabilidad %}">principios generales de usabilidad</a>.&nbsp;<a href="#fnref:fn-f2" class="reversefootnote">&#8617;</a></p>
