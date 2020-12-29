@@ -14,13 +14,13 @@ tags:       [buenas prácticas de usabilidad]
 
 <p>Lo que me lleva a preguntarme por el <strong>tamaño que deberían tener los elementos interactivos</strong> (botones, enlaces, menús, etc.) de una aplicación para que sean cómodamente manipulables por la mayoría de los usuarios.</p>
 
-<p>Si consultamos las pautas de diseño de interfaces de las grandes empresas de software, veremos que no existe un criterio común al respecto. Apple recomienda un tamaño mínimo de <a href="https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/" target="_blank" rel="noopener">44×44 pt</a>. Microsoft recomienda un mínimo de <a href="https://docs.microsoft.com/en-us/windows/uwp/design/input/guidelines-for-targeting#target-size" target="_blank" rel="noopener">7,5×7,5 mm</a>. Google recomienda un tamaño mínimo de <a href="https://material.io/design/usability/accessibility.html#layout-and-typography" target="_blank" rel="noopener">48×48 dp</a>. ¿Confuso verdad? Probablemente no tengas claro el significado de algunas de las unidades que manejan para definir los tamaños.</p>
+<p>Si consultamos las pautas de diseño de interfaces de las grandes empresas de software, veremos que no existe un criterio común al respecto. Apple recomienda un tamaño mínimo de <a href="https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/" target="_blank" rel="noopener noreferrer">44×44 pt</a>. Microsoft recomienda un mínimo de <a href="https://docs.microsoft.com/en-us/windows/uwp/design/input/guidelines-for-targeting#target-size" target="_blank" rel="noopener noreferrer">7,5×7,5 mm</a>. Google recomienda un tamaño mínimo de <a href="https://material.io/design/usability/accessibility.html#layout-and-typography" target="_blank" rel="noopener noreferrer">48×48 dp</a>. ¿Confuso verdad? Probablemente no tengas claro el significado de algunas de las unidades que manejan para definir los tamaños.</p>
 
-<p>Para arrojar algo de luz, podríamos fijarnos, como sugiere el artículo <a href="https://www.smashingmagazine.com/2012/02/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/" target="_blank" rel="noopener">Finger-Friendly Design</a> publicado en Smashing Magazine, en las medidas físicas que tienen los dedos humanos. Especialmente los dedos<strong> índice y pulgar</strong>. Que son los que más se utilizan para interactuar con este tipo de dispositivos.</p>
+<p>Para arrojar algo de luz, podríamos fijarnos, como sugiere el artículo <a href="https://www.smashingmagazine.com/2012/02/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/" target="_blank" rel="noopener noreferrer">Finger-Friendly Design</a> publicado en Smashing Magazine, en las medidas físicas que tienen los dedos humanos. Especialmente los dedos<strong> índice y pulgar</strong>. Que son los que más se utilizan para interactuar con este tipo de dispositivos.</p>
 
 <p><img src="{{ site.baseurl }}/img/tamano-minimo-elementos-interactivos-dispositivo-tactil-02.jpg" alt=""></p>
 
-<p>En el artículo de Smashing Magazine explican que <a href="http://touchlab.mit.edu/publications/2003_009.pdf" target="_blank" rel="noopener">un estudio del MIT Touch Lab sobre las yemas de los dedos humanos</a> descubrió que el ancho promedio del dedo índice es de 1,6 a 2 cm (16 a 20 mm) para la mayoría de los adultos. Mientras que el ancho promedio del dedo pulgar de un adulto es de… <a href="http://en.wikipedia.org/wiki/Finger_(unit)" target="_blank" rel="noopener">una pulgada</a>, claro. Es decir, 2,5 cm (25 mm).</p>
+<p>En el artículo de Smashing Magazine explican que <a href="http://touchlab.mit.edu/publications/2003_009.pdf" target="_blank" rel="noopener noreferrer">un estudio del MIT Touch Lab sobre las yemas de los dedos humanos</a> descubrió que el ancho promedio del dedo índice es de 1,6 a 2 cm (16 a 20 mm) para la mayoría de los adultos. Mientras que el ancho promedio del dedo pulgar de un adulto es de… <a href="http://en.wikipedia.org/wiki/Finger_(unit)" target="_blank" rel="noopener noreferrer">una pulgada</a>, claro. Es decir, 2,5 cm (25 mm).</p>
 
 <p>En base a estos tamaños, el autor del artículo recomienda unas medidas mínimas en píxeles. Sin embargo, los píxeles no son una unidad de medida adecuada para definir el tamaño recomendado de un elemento interactivo para dispositivos móviles porque es una unidad que no tiene en cuenta la <strong>densidad de píxeles de la pantalla del dispositivo</strong>.</p>
 
@@ -28,7 +28,7 @@ tags:       [buenas prácticas de usabilidad]
 
 <p><img src="{{ site.baseurl }}/img/tamano-minimo-elementos-interactivos-dispositivo-tactil-03.png" alt=""></p>
 
-<p>Para anular este efecto, deberíamos utilizar unidades relativas, que escalen para tener dimensiones reales uniformes en cualquier pantalla. Como es el caso de los <a href="https://material.io/design/layout/pixel-density.html#pixel-density" target="_blank" rel="noopener">píxeles independientes de la densidad</a> ideados por Google para el sistema operativo Android. Los llamados “dp” (pronunciado "dips").</p>
+<p>Para anular este efecto, deberíamos utilizar unidades relativas, que escalen para tener dimensiones reales uniformes en cualquier pantalla. Como es el caso de los <a href="https://material.io/design/layout/pixel-density.html#pixel-density" target="_blank" rel="noopener noreferrer">píxeles independientes de la densidad</a> ideados por Google para el sistema operativo Android. Los llamados “dp” (pronunciado "dips").</p>
 
 <p>Un dp es igual a un píxel físico en una pantalla con una densidad de 160 ppp (puntos por pulgada, en inglés dpi: dots per inch).</p>
 
@@ -62,4 +62,4 @@ tags:       [buenas prácticas de usabilidad]
 
 <p>De modo que, por ejemplo, si nuestra pantalla tiene una densidad de 240 dpi, un elemento de 48x48 dp ocupará 72x72 píxeles.</p>
 
-<p><a href="https://developer.android.com/training/multiscreen/screendensities" target="_blank" rel="noopener">Más información sobre los dp</a> en la web oficial para desarrolladores de Android de Google.</p>
+<p><a href="https://developer.android.com/training/multiscreen/screendensities" target="_blank" rel="noopener noreferrer">Más información sobre los dp</a> en la web oficial para desarrolladores de Android de Google.</p>

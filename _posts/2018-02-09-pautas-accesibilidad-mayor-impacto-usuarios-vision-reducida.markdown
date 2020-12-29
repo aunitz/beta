@@ -42,6 +42,6 @@ tags:       [buenas prácticas de accesibilidad]
 
 <p>Para la verificación de las dos primeras pautas, os resultarán útiles estas sencillas herramientas para comprobar el nivel de contraste existente entre dos colores:</p>
 <ul>
-    <li><a href="https://webaim.org/resources/contrastchecker/" target="_blank" rel="noopener">WebAIM: Color Contrast Checker</a>. Herramienta online.</li>
-    <li><a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank" rel="noopener">Colour Contrast Analyser</a>. Aplicación instalable para Windows y Mac.</li>
+    <li><a href="https://webaim.org/resources/contrastchecker/" target="_blank" rel="noopener noreferrer">WebAIM: Color Contrast Checker</a>. Herramienta online.</li>
+    <li><a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank" rel="noopener noreferrer">Colour Contrast Analyser</a>. Aplicación instalable para Windows y Mac.</li>
 </ul>

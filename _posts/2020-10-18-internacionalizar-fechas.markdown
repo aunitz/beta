@@ -24,7 +24,7 @@ tags:       [buenas prácticas de usabilidad, formularios]
 
 <p><img src="{{ site.baseurl }}/img/internacionalizar-fechas-01.png" alt=""></p>
 
-<p>Por cierto, en español, <a href="https://www.fundeu.es/recomendacion/dias-de-la-semana-meses-estaciones-minuscula/" target="_blank" rel="noopener">los nombres de los meses se escriben en minúscula</a> por tratarse de nombres comunes.</p>
+<p>Por cierto, en español, <a href="https://www.fundeu.es/recomendacion/dias-de-la-semana-meses-estaciones-minuscula/" target="_blank" rel="noopener noreferrer">los nombres de los meses se escriben en minúscula</a> por tratarse de nombres comunes.</p>
 
 <h2>2. En los formularios distingue claramente los campos de día, mes y año</h2>
 
@@ -40,7 +40,7 @@ tags:       [buenas prácticas de usabilidad, formularios]
 
 <h3>El formato ISO 8601</h3>
 
-<p><a href="https://www.w3.org/QA/Tips/iso-date" target="_blank" rel="noopener">Existe un formato internacional definido por ISO</a> (ISO 8601) para representar las fechas en formato numérico. Es el siguiente: AAAA-MM-DD. Donde AAAA es el año, MM es el mes (representado siempre con dos dígitos) y DD el día (representado siempre con dos dígitos).</p>
+<p><a href="https://www.w3.org/QA/Tips/iso-date" target="_blank" rel="noopener noreferrer">Existe un formato internacional definido por ISO</a> (ISO 8601) para representar las fechas en formato numérico. Es el siguiente: AAAA-MM-DD. Donde AAAA es el año, MM es el mes (representado siempre con dos dígitos) y DD el día (representado siempre con dos dígitos).</p>
 
 <p>Este formato ISO tiene el inconveniente de que <strong>no resulta amigable para el usuario</strong>. Ya que no es el formato habitual de casi ningún país.</p>
 

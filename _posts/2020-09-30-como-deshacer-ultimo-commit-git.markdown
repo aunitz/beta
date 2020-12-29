@@ -10,7 +10,7 @@ tags:       [git]
 
 <p>Me he dado cuenta de que estoy un tanto encandilado con el tema de cómo deshacer el último <em>commit</em> de un repositorio Git. <a href="{{ site.baseurl }}{% post_url 2017-07-29-git-como-deshacer-commit %}">Publiqué un vídeo muy sencillo</a> al respecto en verano del 2017 y un artículo más completo en el 2019. Te emplazo a consultar <a href="{{ site.baseurl }}{% post_url 2019-11-16-diferencias-checkout-revert-reset %}">el post del 2019</a> si quieres más detalle del que proporciono en esta ocasión.</p>
 
-<p>Tomando como referencia un <a href="https://midu.dev/como-deshacer-el-ultimo-commit-git" target="_blank" rel="noopener">post publicado por Miguel Angel Durán</a> en su página web voy a proporcionar unas pautas muy sencillas y directas.</p>
+<p>Tomando como referencia un <a href="https://midu.dev/como-deshacer-el-ultimo-commit-git" target="_blank" rel="noopener noreferrer">post publicado por Miguel Angel Durán</a> en su página web voy a proporcionar unas pautas muy sencillas y directas.</p>
 
 <p><img src="{{ site.baseurl }}/img/como-deshacer-ultimo-commit-git-01.jpg" alt=""></p>
 

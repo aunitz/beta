@@ -24,6 +24,6 @@ tags:       [leyes y principios de usabilidad]
 
 <p>La conclusión es que <strong>los tiempos de respuesta</strong> de las aplicaciones <strong>tienen un enorme impacto en la productividad</strong>. El objetivo debe ser que tus aplicaciones respondan a las órdenes del usuario en menos de 400 milisegundos.</p>
 
-<p>¿Qué tiempos de respuesta tiene tu aplicación? Si se trata de una página web y la monitorizas mediante Google Analytics, <a href="https://support.google.com/analytics/answer/1205784?hl=es" target="_blank" rel="noopener">puedes consultar las métricas relacionadas con el rendimiento</a>.</p>
+<p>¿Qué tiempos de respuesta tiene tu aplicación? Si se trata de una página web y la monitorizas mediante Google Analytics, <a href="https://support.google.com/analytics/answer/1205784?hl=es" target="_blank" rel="noopener noreferrer">puedes consultar las métricas relacionadas con el rendimiento</a>.</p>
 
-<p>Puedes <a href="https://jlelliotton.blogspot.com/p/the-economic-value-of-rapid-response.html" target="_blank" rel="noopener">consultar el artículo original de Walter J. Doherty y Ahrvind J. Thadani</a> en el blog de Jim Elliott.</p>
+<p>Puedes <a href="https://jlelliotton.blogspot.com/p/the-economic-value-of-rapid-response.html" target="_blank" rel="noopener noreferrer">consultar el artículo original de Walter J. Doherty y Ahrvind J. Thadani</a> en el blog de Jim Elliott.</p>

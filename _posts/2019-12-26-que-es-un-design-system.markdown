@@ -24,7 +24,7 @@ tags:       [sistemas de diseño, desarrollo de aplicaciones web, buenas prácti
 
 <h2>Principales beneficios de un sistema de diseño</h2>
 
-<p><a href="https://bradfrost.com/" target="_blank" rel="noopener">Brad Frost</a> es uno de los primeros y más influyentes autores que han teorizado sobre los sistemas de diseño. En su libro <a href="http://atomicdesign.bradfrost.com/table-of-contents/" target="_blank" rel="noopener">Atomic Design</a> (2013) aporta un listado de los principales beneficios que se derivan de disponer de un sistema de diseño:</p>
+<p><a href="https://bradfrost.com/" target="_blank" rel="noopener noreferrer">Brad Frost</a> es uno de los primeros y más influyentes autores que han teorizado sobre los sistemas de diseño. En su libro <a href="http://atomicdesign.bradfrost.com/table-of-contents/" target="_blank" rel="noopener noreferrer">Atomic Design</a> (2013) aporta un listado de los principales beneficios que se derivan de disponer de un sistema de diseño:</p>
 
 <ul>
     <li>Promueve la <strong>consistencia y cohesión</strong> de todos los interfaces y aplicaciones.</li>
@@ -77,7 +77,7 @@ tags:       [sistemas de diseño, desarrollo de aplicaciones web, buenas prácti
 
 <p><img src="{{ site.baseurl }}/img/design-system-05.jpg" alt=""></p>
 
-<p>Para entender el concepto de componente, es habitual compararlos con los bloques de LEGO. Nos es mala aproximación, pero le faltan matices. Los bloques de LEGO son piezas muy pequeñas y reutilizables. Mientras que los componentes de un sistema de diseño pueden ser de dimensión y/o funcionalidades muy diferentes. Por ello el autor <a href="https://bradfrost.com/" target="_blank" rel="noopener">Brad Frost</a>, en su libro <a href="http://atomicdesign.bradfrost.com/table-of-contents/" target="_blank" rel="noopener">Atomic Design</a> (2013), popularizó la metáfora de la química básica. De modo que los componentes pueden ser de tipo “átomo”, “molécula” u “organismo”. Ayudando a entender que la construcción de los componentes de un sistema de diseño implica <strong>jerarquía</strong>.</p>
+<p>Para entender el concepto de componente, es habitual compararlos con los bloques de LEGO. Nos es mala aproximación, pero le faltan matices. Los bloques de LEGO son piezas muy pequeñas y reutilizables. Mientras que los componentes de un sistema de diseño pueden ser de dimensión y/o funcionalidades muy diferentes. Por ello el autor <a href="https://bradfrost.com/" target="_blank" rel="noopener noreferrer">Brad Frost</a>, en su libro <a href="http://atomicdesign.bradfrost.com/table-of-contents/" target="_blank" rel="noopener noreferrer">Atomic Design</a> (2013), popularizó la metáfora de la química básica. De modo que los componentes pueden ser de tipo “átomo”, “molécula” u “organismo”. Ayudando a entender que la construcción de los componentes de un sistema de diseño implica <strong>jerarquía</strong>.</p>
 
 <p>La clave de los componentes está en desarrollarlos de modo que puedan estar ubicados en “cualquier” sitio. Es decir, deben ser <strong>modulares</strong>.</p>
 
@@ -93,42 +93,42 @@ tags:       [sistemas de diseño, desarrollo de aplicaciones web, buenas prácti
 
 <h3>Material Design by Google</h3>
 
-<p><a href="https://material.io/" target="_blank" rel="noopener">Sistema de diseño de Google</a> para el desarrollo de aplicaciones para Android, iOS y web.</p>
+<p><a href="https://material.io/" target="_blank" rel="noopener noreferrer">Sistema de diseño de Google</a> para el desarrollo de aplicaciones para Android, iOS y web.</p>
 
 <p><img src="{{ site.baseurl }}/img/design-system-google.png" alt="Captura de pantalla de Material Design by Google"></p>
 
 <h3>Fluent Design System by Microsoft</h3>
 
-<p><a href="https://www.microsoft.com/design/fluent/" target="_blank" rel="noopener">Sistema de diseño de Microsoft</a> para el desarrollo de aplicaciones para Windows, Android, iOS y web.</p>
+<p><a href="https://www.microsoft.com/design/fluent/" target="_blank" rel="noopener noreferrer">Sistema de diseño de Microsoft</a> para el desarrollo de aplicaciones para Windows, Android, iOS y web.</p>
 
 <p><img src="{{ site.baseurl }}/img/design-system-microsoft.png" alt="Captura de pantalla de Fluent Design System by Microsoft"></p>
 
 <h3>Human Interface Guidelines by Apple</h3>
 
-<p><a href="https://developer.apple.com/design/" target="_blank" rel="noopener">Sistema de diseño de Apple</a> para el desarrollo de aplicaciones macOS, iOS, watchOS y tvOS.</p>
+<p><a href="https://developer.apple.com/design/" target="_blank" rel="noopener noreferrer">Sistema de diseño de Apple</a> para el desarrollo de aplicaciones macOS, iOS, watchOS y tvOS.</p>
 
 <p><img src="{{ site.baseurl }}/img/design-system-apple.png" alt="Captura de pantalla de Human Interface Guidelines by Apple"></p>
 
 <h3>Lightning by Salesforce</h3>
 
-<p><a href="https://www.lightningdesignsystem.com/" target="_blank" rel="noopener">Sistema de diseño de Salesforce</a> para el desarrollo de aplicaciones web en el ecosistema de este popular CRM en la nube.</p>
+<p><a href="https://www.lightningdesignsystem.com/" target="_blank" rel="noopener noreferrer">Sistema de diseño de Salesforce</a> para el desarrollo de aplicaciones web en el ecosistema de este popular CRM en la nube.</p>
 
 <p><img src="{{ site.baseurl }}/img/design-system-salesforce.png" alt="Captura de pantalla de Lightning by Salesforce"></p>
 
 <h3>Carbon Design System by IBM</h3>
 
-<p><a href="https://www.carbondesignsystem.com/" target="_blank" rel="noopener">Sistema de diseño de IBM</a> para el desarrollo de aplicaciones web.</p>
+<p><a href="https://www.carbondesignsystem.com/" target="_blank" rel="noopener noreferrer">Sistema de diseño de IBM</a> para el desarrollo de aplicaciones web.</p>
 
 <p><img src="{{ site.baseurl }}/img/design-system-ibm.png" alt="Captura de pantalla de Carbon Design System by IBM"></p>
 
 <h3>Atlassian Design</h3>
 
-<p><a href="https://atlassian.design/" target="_blank" rel="noopener">Sistema de diseño de Atlassian</a> para el desarrollo de aplicaciones web.</p>
+<p><a href="https://atlassian.design/" target="_blank" rel="noopener noreferrer">Sistema de diseño de Atlassian</a> para el desarrollo de aplicaciones web.</p>
 
 <p><img src="{{ site.baseurl }}/img/design-system-atlassian.png" alt="Captura de pantalla de Atlassian Design"></p>
 
 <h3>Polaris by Shopify</h3>
 
-<p><a href="https://polaris.shopify.com/" target="_blank" rel="noopener">Sistema de diseño de Shopify</a> para el desarrollo de aplicaciones web.</p>
+<p><a href="https://polaris.shopify.com/" target="_blank" rel="noopener noreferrer">Sistema de diseño de Shopify</a> para el desarrollo de aplicaciones web.</p>
 
 <p><img src="{{ site.baseurl }}/img/design-system-shopify.png" alt="Captura de pantalla de Polaris by Shopify"></p>

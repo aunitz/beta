@@ -18,14 +18,14 @@ tags:       [leyes y principios de usabilidad]
 
 <p><img src="{{ site.baseurl }}/img/ley-05-ley-de-miller.png" alt="Ilustración de la Ley 05 de usabilidad: Ley de Miller"></p>
 
-<p>Si quieres conocer más sobre esta ley, puedes partir de su <a href="https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two" target="_blank" rel="noopener">artículo en la Wikipedia</a>.</p>
+<p>Si quieres conocer más sobre esta ley, puedes partir de su <a href="https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two" target="_blank" rel="noopener noreferrer">artículo en la Wikipedia</a>.</p>
 
 <hr>
 
 <div class="footnotes">
   <ol>
     <li id="fn:fn-f1">
-      <a href="https://www.ncbi.nlm.nih.gov/pubmed/9384378" target="_blank" rel="noopener">LUCK, S. J.; VOGEL, W. K. The capacity of visual working memory for features and conjunctions. Nature. Nº 390 (1997) p. 279-281</a>.&nbsp;<a href="#fnref:fn-f1" class="reversefootnote">&#8617;</a>
+      <a href="https://www.ncbi.nlm.nih.gov/pubmed/9384378" target="_blank" rel="noopener noreferrer">LUCK, S. J.; VOGEL, W. K. The capacity of visual working memory for features and conjunctions. Nature. Nº 390 (1997) p. 279-281</a>.&nbsp;<a href="#fnref:fn-f1" class="reversefootnote">&#8617;</a>
     </li>
   </ol>
 </div>

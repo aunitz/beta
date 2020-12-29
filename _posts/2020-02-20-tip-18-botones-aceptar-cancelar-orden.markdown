@@ -46,7 +46,7 @@ tags:       [buenas prácticas de usabilidad, formularios]
 
 <h2>Lo más importante es mantener la consistencia</h2>
 
-<p>No parece haber estudios suficientes que decanten claramente la balanza por una u otra opción. El reconocido experto internacional de usabilidad <a href="https://www.nngroup.com/articles/ok-cancel-or-cancel-ok/" target="_blank" rel="noopener">Jakob Nielsen ya afirmó en 2008</a> que <strong>no es relevante si optas por una u otra solución</strong>. No tendrá un impacto significativo en la usabilidad. <strong>Lo importante es que mantengas la consistencia en toda la aplicación</strong>, para no confundir al usuario.</p>
+<p>No parece haber estudios suficientes que decanten claramente la balanza por una u otra opción. El reconocido experto internacional de usabilidad <a href="https://www.nngroup.com/articles/ok-cancel-or-cancel-ok/" target="_blank" rel="noopener noreferrer">Jakob Nielsen ya afirmó en 2008</a> que <strong>no es relevante si optas por una u otra solución</strong>. No tendrá un impacto significativo en la usabilidad. <strong>Lo importante es que mantengas la consistencia en toda la aplicación</strong>, para no confundir al usuario.</p>
 
 <p>Naturalmente, si desarrollas aplicaciones nativas de escritorio para un determinado sistema operativo deberás adoptar su convención. Si desarrollas aplicaciones web para un público multiplataforma deberás escoger una de las dos alternativas y mantener la consistencia a lo largo de toda la aplicación.</p>
 

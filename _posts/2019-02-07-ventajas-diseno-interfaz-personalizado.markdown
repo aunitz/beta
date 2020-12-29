@@ -8,9 +8,9 @@ header-img: "img/post-bg-41.jpg"
 tags:       [sistemas de diseño, buenas prácticas de diseño]
 ---
 
-<p>Durante los últimos años observo una <strong>fuerte tendencia en el front-end de las aplicaciones web a utilizar <a href="https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969" target="_blank" rel="noopener">sistemas de diseño</a> de terceros</strong>.</p>
+<p>Durante los últimos años observo una <strong>fuerte tendencia en el front-end de las aplicaciones web a utilizar <a href="https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969" target="_blank" rel="noopener noreferrer">sistemas de diseño</a> de terceros</strong>.</p>
 
-<p>Especialmente llamativa está resultando la adopción indiscriminada de <a href="https://material.io/" target="_blank" rel="noopener">Material Design</a>, el sistema de diseño de Google. Probablemente sea debido a su excelente documentación y la existencia de librerías de componentes ya desarrolladas para casi todos los frameworks de front-end.</p>
+<p>Especialmente llamativa está resultando la adopción indiscriminada de <a href="https://material.io/" target="_blank" rel="noopener noreferrer">Material Design</a>, el sistema de diseño de Google. Probablemente sea debido a su excelente documentación y la existencia de librerías de componentes ya desarrolladas para casi todos los frameworks de front-end.</p>
 
 <p>Entre los factores que incentivan el uso de sistemas de diseño de terceros por parte de los equipos de desarrollo front-end destacaría tres, que pueden darse combinados entre sí.</p>
 

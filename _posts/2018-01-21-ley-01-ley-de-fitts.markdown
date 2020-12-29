@@ -18,4 +18,4 @@ tags:       [leyes y principios de usabilidad]
 
 <p>Esta ley fue formulada por el psicólogo Paul Fitts en 1954.</p>
 
-<p>Si quieres conocer su formulación matemática exacta y otros muchos detalles interesantes, puedes partir de su <a href="https://es.wikipedia.org/wiki/Ley_de_Fitts" target="_blank" rel="noopener">artículo en la Wikipedia</a>.</p>
+<p>Si quieres conocer su formulación matemática exacta y otros muchos detalles interesantes, puedes partir de su <a href="https://es.wikipedia.org/wiki/Ley_de_Fitts" target="_blank" rel="noopener noreferrer">artículo en la Wikipedia</a>.</p>

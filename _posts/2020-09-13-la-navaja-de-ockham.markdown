@@ -23,7 +23,7 @@ tags:       [leyes y principios de usabilidad, buenas prácticas de diseño]
 
 <p>
     <img src="{{ site.baseurl }}/img/la-navaja-de-ockham-02.png" alt="Captura de pantalla de Word con decenas de botones de acción a la vista">
-    <em>Sobrecarga de información. Imagen: <a href="https://twitter.com/ftrain" target="_blank" rel="noopener">@ftrain</a></em>
+    <em>Sobrecarga de información. Imagen: <a href="https://twitter.com/ftrain" target="_blank" rel="noopener noreferrer">@ftrain</a></em>
 </p>
 
 <p>Existen un gran número de leyes y principios de usabilidad que apoyan o van en la línea de buscar la simplicidad. Algunas de ellas ya tratadas en este blog: la <a href="{{ site.baseurl }}{% post_url 2018-01-22-ley-05-ley-de-miller %}">ley de Miller</a>, la <a href="{{ site.baseurl }}{% post_url 2018-01-22-ley-04-ley-de-pragnanz %}">ley de Prägnanz</a>, la <a href="{{ site.baseurl }}{% post_url 2018-01-21-ley-02-ley-de-hick %}">ley de Hick</a>, la <a href="{{ site.baseurl }}{% post_url 2018-01-23-ley-08-ley-de-tesler %}">ley de Tesler</a>…</p>
@@ -38,4 +38,4 @@ tags:       [leyes y principios de usabilidad, buenas prácticas de diseño]
 
 <p><img src="{{ site.baseurl }}/img/la-navaja-de-ockham-04.jpg" alt=""></p>
 
-<p>Si quieres conocer más sobre este principio, puedes partir de <a href="https://es.wikipedia.org/wiki/Navaja_de_Ockham" target="_blank" rel="noopener">su artículo en la Wikipedia</a>.</p>
+<p>Si quieres conocer más sobre este principio, puedes partir de <a href="https://es.wikipedia.org/wiki/Navaja_de_Ockham" target="_blank" rel="noopener noreferrer">su artículo en la Wikipedia</a>.</p>

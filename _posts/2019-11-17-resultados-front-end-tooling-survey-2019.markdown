@@ -8,7 +8,7 @@ header-img: "img/post-bg-46.jpg"
 tags:       [desarrollo de aplicaciones web]
 ---
 
-<p>Desde hace algunos años, el ingeniero de UI <a href="https://ashleynolan.co.uk/" target="_blank" rel="noopener">Ashley Watson-Nolan</a>, con el apoyo económico de su amigo el diseñador y desarrollador web <a href="https://wesbos.com/" target="_blank" rel="noopener">Wes Bos</a>, elabora una <a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2019-results" target="_blank" rel="noopener">interesante encuesta</a> sobre las <strong>herramientas que utilizan los desarrolladores front-end</strong>.</p>
+<p>Desde hace algunos años, el ingeniero de UI <a href="https://ashleynolan.co.uk/" target="_blank" rel="noopener noreferrer">Ashley Watson-Nolan</a>, con el apoyo económico de su amigo el diseñador y desarrollador web <a href="https://wesbos.com/" target="_blank" rel="noopener noreferrer">Wes Bos</a>, elabora una <a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2019-results" target="_blank" rel="noopener noreferrer">interesante encuesta</a> sobre las <strong>herramientas que utilizan los desarrolladores front-end</strong>.</p>
 
 <p>La encuesta tiene relativa relevancia porque el número de desarrolladores que la responden es de varios miles. En el año 2019 han participado 3.005 desarrolladores. Además, un 60% de los participantes tienen más de 5 años de experiencia en desarrollo front-end.</p>
 
@@ -79,7 +79,7 @@ tags:       [desarrollo de aplicaciones web]
 
 <p>La accesibilidad parece ser <strong>la gran olvidada</strong> por los desarrolladores front-end. El 63% no utiliza ninguna herramienta para testearla.</p>
 
-<p>Existen excelentes herramientas gratuitas para ello, muy fáciles de utilizar. Como son <a href="https://wave.webaim.org/" target="_blank" rel="noopener">Wave</a> y <a href="https://www.deque.com/axe/axe-for-web/" target="_blank" rel="noopener">Axe</a>. Pero su uso es completamente marginal.</p>
+<p>Existen excelentes herramientas gratuitas para ello, muy fáciles de utilizar. Como son <a href="https://wave.webaim.org/" target="_blank" rel="noopener noreferrer">Wave</a> y <a href="https://www.deque.com/axe/axe-for-web/" target="_blank" rel="noopener noreferrer">Axe</a>. Pero su uso es completamente marginal.</p>
 
 <p>Si es por desconocimiento que no aplicas buenas prácticas de accesibilidad, debes saber que sin tener que ser un experto en accesibilidad podemos aplicar unas <a href="https://www.aunitz.net/accesibilidad-web-al-alcance-de-todos/">sencillas reglas que mejorarán considerablemente la accesibilidad de nuestras webs</a>.</p>
 

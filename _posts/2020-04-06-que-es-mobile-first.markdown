@@ -8,13 +8,13 @@ header-img: "img/post-bg-51.jpg"
 tags:       [desarrollo de aplicaciones web, buenas prácticas de diseño]
 ---
 
-<p>El concepto de “Mobile First” aplicado al desarrollo web fue <a href="https://www.lukew.com/ff/entry.asp?933" target="_blank" rel="noopener">acuñado por primera vez en 2009 por Luke Wroblewski</a>.</p>
+<p>El concepto de “Mobile First” aplicado al desarrollo web fue <a href="https://www.lukew.com/ff/entry.asp?933" target="_blank" rel="noopener noreferrer">acuñado por primera vez en 2009 por Luke Wroblewski</a>.</p>
 
 <p>Este autor observó de manera adelantada a su tiempo que el crecimiento de los accesos desde móvil a los sitios web se estaba disparando. Años más tarde, en el 2017, se produjo a nivel mundial un cambio histórico. Por primera vez, hubo <strong>más páginas vistas desde dispositivos móviles que desde ordenadores de sobremesa</strong>. Actualmente el reparto de accesos entre móviles y ordenadores de sobremesa parece estar estabilizándose. Siendo ligeramente superiores las visitas desde móviles.</p>
 
 <p><img src="{{ site.baseurl }}/img/que-es-mobile-first-01.png" alt="Gráfico que muestra cómo desde el 2017 hay más accesos desde dispositivos móviles que desde ordenadores"></p>
 
-<p>Estas estadísticas procedentes de <a href="https://gs.statcounter.com/" target="_blank" rel="noopener">StatCounter</a> son cifras globales a nivel mundial. El reparto no es exactamente el mismo por países o tipologías de webs, pero la tendencia en casi todos los casos sí es la misma.</p>
+<p>Estas estadísticas procedentes de <a href="https://gs.statcounter.com/" target="_blank" rel="noopener noreferrer">StatCounter</a> son cifras globales a nivel mundial. El reparto no es exactamente el mismo por países o tipologías de webs, pero la tendencia en casi todos los casos sí es la misma.</p>
 
 <p><strong>Mobile First es un principio de diseño</strong> y desarrollo web que pretende responder a este reto poniendo el foco en <strong>optimizar la experiencia de los usuarios que acceden desde dispositivos móviles</strong>.</p>
 

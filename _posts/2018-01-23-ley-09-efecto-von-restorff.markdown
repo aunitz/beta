@@ -16,4 +16,4 @@ tags:       [leyes y principios de usabilidad]
 
 <p>Este sesgo cognitivo fue descubierto en el año 1933 por el psicólogo alemán Hedwing von Restorff.</p>
 
-<p>Si quieres conocer más detalles sobre este efecto, puedes partir de su <a href="https://en.wikipedia.org/wiki/Von_Restorff_effect" target="_blank" rel="noopener">artículo en la Wikipedia</a>.</p>
+<p>Si quieres conocer más detalles sobre este efecto, puedes partir de su <a href="https://en.wikipedia.org/wiki/Von_Restorff_effect" target="_blank" rel="noopener noreferrer">artículo en la Wikipedia</a>.</p>

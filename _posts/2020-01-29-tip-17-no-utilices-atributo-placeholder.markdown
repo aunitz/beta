@@ -25,7 +25,7 @@ tags:       [buenas prácticas de usabilidad, formularios]
 <ul>
 	<li>Una vez que el usuario entra en el cuadro de texto para editarlo, el <code>placeholder</code> desaparece y, por tanto, no puede verificar que lo que está escribiendo es lo que debe escribir.</li>
 	<li>Puede ocurrir que el usuario confunda el <code>placeholder</code> con un campo que ya ha rellenado y lo pase por alto.</li>
-	<li>Por accesibilidad, <a href="https://www.w3.org/TR/WCAG20-TECHS/H44.html" target="_blank" rel="noopener">todos los campos de un formulario deben ir correctamente identificados y asociados con un <code>label</code></a>. Este problema de accesibilidad es también aplicable a los <a href="https://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction" target="_blank" rel="noopener"><code>label</code> de efecto flotante</a> que a nivel de código se resuelvan mediante <code>placeholder</code>.</li>
+	<li>Por accesibilidad, <a href="https://www.w3.org/TR/WCAG20-TECHS/H44.html" target="_blank" rel="noopener noreferrer">todos los campos de un formulario deben ir correctamente identificados y asociados con un <code>label</code></a>. Este problema de accesibilidad es también aplicable a los <a href="https://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction" target="_blank" rel="noopener noreferrer"><code>label</code> de efecto flotante</a> que a nivel de código se resuelvan mediante <code>placeholder</code>.</li>
 </ul>
 
 <h2>Desaparece en el momento de escribir</h2>
@@ -52,7 +52,7 @@ tags:       [buenas prácticas de usabilidad, formularios]
 
 <h2>Insuficiente contraste</h2>
 
-<p>El color que asignan por defecto los navegadores a los atributos <code>placeholder</code> no cumple con los <a href="https://www.w3.org/TR/WCAG20-TECHS/G18.html" target="_blank" rel="noopener">requisitos de contraste establecidos en accesibilidad</a>. De modo que resultan difíciles de leer para algunos usuarios.</p>
+<p>El color que asignan por defecto los navegadores a los atributos <code>placeholder</code> no cumple con los <a href="https://www.w3.org/TR/WCAG20-TECHS/G18.html" target="_blank" rel="noopener noreferrer">requisitos de contraste establecidos en accesibilidad</a>. De modo que resultan difíciles de leer para algunos usuarios.</p>
 
 <p><img src="{{ site.baseurl }}/img/no-utilices-atributo-placeholder-06.png" alt=""></p>
 

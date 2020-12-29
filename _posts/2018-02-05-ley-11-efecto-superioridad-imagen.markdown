@@ -14,4 +14,4 @@ tags:       [leyes y principios de usabilidad]
 
 <p><img src="{{ site.baseurl }}/img/ley-11-efecto-superioridad-imagen.png" alt="Ilustración de la Ley 11 de usabilidad: Efecto de superioridad de la imagen"></p>
 
-<p>Si quieres conocer más detalles sobre este efecto, puedes partir de su <a href="https://en.wikipedia.org/wiki/Picture_superiority_effect" target="_blank" rel="noopener">artículo en la Wikipedia</a>.</p>
+<p>Si quieres conocer más detalles sobre este efecto, puedes partir de su <a href="https://en.wikipedia.org/wiki/Picture_superiority_effect" target="_blank" rel="noopener noreferrer">artículo en la Wikipedia</a>.</p>
