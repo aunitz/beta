@@ -19,10 +19,15 @@
     <!-- https://fonts.gstatic.com is the font file origin -->
     <!-- It may not have the same origin as the CSS file (https://fonts.googleapis.com) -->
     <link rel="preconnect"
-        href="https://fonts.gstatic.com"
+        href="//fonts.gstatic.com"
+        crossorigin>
+
+    <link rel="preconnect"
+        href="//maxcdn.bootstrapcdn.com/"
         crossorigin>
 
     <!-- We use the full link to the CSS file in the rest of the tags -->
+    <!-- Google Fonts -->
     <link rel="preload"
         as="style"
         href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic%7COpen+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic%7CCaveat:400,700&display=swap">
@@ -32,12 +37,23 @@
         media="print" onload="this.media='all'">
 
     <noscript>
-    <link rel="stylesheet"
+        <link rel="stylesheet"
             href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic%7COpen+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic%7CCaveat:400,700&display=swap">
     </noscript>
 
-    <!-- Custom Fonts -->
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- Font Awesome -->
+    <link rel="preload"
+        as="style"
+        href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet"
+        href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
+        media="print" onload="this.media='all'">
+
+    <noscript>
+        <link rel="stylesheet"
+            href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    </noscript>
 
     {% feed_meta %}
     {% include ga.html %}
