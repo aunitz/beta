@@ -9,15 +9,7 @@
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ '/css/clean-blog.min.css' | prepend: site.baseurl }}">
-
-    <!-- Custom Fonts -->
-    <!-- https://fonts.gstatic.com is the font file origin -->
-    <!-- It may not have the same origin as the CSS file (https://fonts.googleapis.com) -->
+    <!-- Preconnect to required origins -->
     <link rel="preconnect"
         href="//fonts.gstatic.com"
         crossorigin>
@@ -26,7 +18,16 @@
         href="//maxcdn.bootstrapcdn.com/"
         crossorigin>
 
-    <!-- We use the full link to the CSS file in the rest of the tags -->
+    <link rel="preconnect"
+        href="//ajax.googleapis.com/"
+        crossorigin>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ '/css/clean-blog.min.css' | prepend: site.baseurl }}">
+
     <!-- Google Fonts -->
     <link rel="preload"
         as="style"
