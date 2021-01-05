@@ -16,8 +16,28 @@
     <link rel="stylesheet" href="{{ '/css/clean-blog.min.css' | prepend: site.baseurl }}">
 
     <!-- Custom Fonts -->
+    <!-- https://fonts.gstatic.com is the font file origin -->
+    <!-- It may not have the same origin as the CSS file (https://fonts.googleapis.com) -->
+    <link rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossorigin>
+
+    <!-- We use the full link to the CSS file in the rest of the tags -->
+    <link rel="preload"
+        as="style"
+        href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic%7COpen+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic%7CCaveat:400,700&display=swap">
+
+    <link rel="stylesheet"
+        href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic%7COpen+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic%7CCaveat:400,700&display=swap"
+        media="print" onload="this.media='all'">
+
+    <noscript>
+    <link rel="stylesheet"
+            href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic%7COpen+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic%7CCaveat:400,700&display=swap">
+    </noscript>
+
+    <!-- Custom Fonts -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic%7COpen+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic%7CCaveat:400,700&display=swap" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
