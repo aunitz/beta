@@ -19,7 +19,9 @@ linkedin_username: aunitz
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-google_tracking_id: UA-90648162-1
+#google_tracking_id: UA-90648162-1
+# Activación de la medición mejorada de Google Analytics 4
+google_tracking_id: G-PJWXCNEVTP
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
