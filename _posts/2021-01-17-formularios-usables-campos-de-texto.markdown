@@ -13,12 +13,12 @@ tags:       [buenas prácticas de usabilidad, formularios]
 <p>Consejos de usabilidad para los campos de texto:</p>
 
 <ul>
-    <li><a href="{{ site.baseurl }}{% post_url 2018-03-11-tip-11-etiquetas-por-encima-campos %}">Las etiquetas (<code>&lt;label&gt;</code>) de los campos, mejor por encima</a></li>
-    <li><a href="{{ site.baseurl }}{% post_url 2019-11-17-resultados-front-end-tooling-survey-2019 %}">No utilices el atributo placeholder</a></li>
-    <li>Ubica el texto de ayuda junto al campo correspondiente</li>
-    <li>Emplea valores por defecto útiles</li>
-    <li>La anchura del campo de texto debe reflejar el tamaño esperado del contenido a introducir</li>
-    <li>Indica cuáles son los campos obligatorios. Si casi todos son obligatorios, mejor indica cuáles son opcionales</li>
+    <li><a href="{{ site.baseurl }}{% post_url 2018-03-11-tip-11-etiquetas-por-encima-campos %}">Las etiquetas (<code>&lt;label&gt;</code>) de los campos, mejor por encima</a>.</li>
+    <li><a href="{{ site.baseurl }}{% post_url 2020-01-29-tip-17-no-utilices-atributo-placeholder %}">No utilices el atributo placeholder</a>.</li>
+    <li>Ubica el texto de ayuda junto al campo correspondiente.</li>
+    <li>Emplea valores por defecto útiles.</li>
+    <li>La anchura del campo de texto debe reflejar el tamaño esperado del contenido a introducir.</li>
+    <li>Indica cuáles son los campos obligatorios. Si casi todos son obligatorios, mejor indica cuáles son opcionales.</li>
 </ul>
 
 <p><img src="{{ site.baseurl }}/img/formularios-usables-campos-de-texto.png" alt=""></p>
