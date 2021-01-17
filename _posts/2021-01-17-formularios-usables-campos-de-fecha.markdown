@@ -8,7 +8,7 @@ header-img: "img/post-bg-63.jpg"
 tags:       [buenas prácticas de usabilidad, formularios]
 ---
 
-<p>La introducción de fechas en un formulario es una de las acciones que más problemas de usabilidad plantea en los formularios.</p>
+<p>La introducción de fechas es una de las acciones que más problemas de usabilidad plantea en los formularios.</p>
 
 <p>En HTML existe un tipo de elemento específico para los campos de fecha (<code>&lt;input type="date"&gt;</code>). Sin embargo, salvo que haya alguna razón que lo justifique, no te aconsejo que lo utilices. El principal motivo es que cada navegador lo interpreta de una manera diferente. Lo cual te impide tener el control sobre lo que el usuario visualiza y en consecuencia plantea complicaciones de consistencia y usabilidad en tus formularios.</p>
 
