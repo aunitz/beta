@@ -13,11 +13,11 @@ tags:       [buenas prácticas de accesibilidad]
 <p>La accesibilidad consiste en el <strong>acceso a la información sin limitación alguna por razón de deficiencia, discapacidad o minusvalía</strong>. Son muchas las personas que acceden a la información de nuestras páginas desde contextos muy diferentes ya que…</p>
 
 <ul>
-	<li>Pueden tener problemas de oído, visión, movilidad.</li>
-	<li>Pueden tener dificultades de lectura o comprensión.</li>
-	<li>Quizás no pueden utilizar el teclado o el ratón.</li>
-	<li>Pueden tener una pantalla pequeña o una conexión lenta.</li>
-	<li>...</li>
+    <li>Pueden tener problemas de oído, visión, movilidad.</li>
+    <li>Pueden tener dificultades de lectura o comprensión.</li>
+    <li>Quizás no pueden utilizar el teclado o el ratón.</li>
+    <li>Pueden tener una pantalla pequeña o una conexión lenta.</li>
+    <li>...</li>
 </ul>
 
 <p><strong>La accesibilidad no es de interés únicamente para las personas con discapacidad</strong>, sino que <strong>mejora el acceso a la web en general</strong>. Por ello, aunque suele recibir un tratamiento específico, prefiero considerar la accesibilidad como <strong>una parte de la experiencia de usuario</strong>.</p>
@@ -45,12 +45,12 @@ tags:       [buenas prácticas de accesibilidad]
 <p>A nivel general, las barreras de accesibilidad principales que nos podemos encontrar en los usuarios son las siguientes:</p>
 
 <ul>
-	<li>Sordera</li>
-	<li>Sordoceguera</li>
-	<li>Movilidad (entendida como la imposibilidad de utilizar el ratón y/o el teclado)</li>
-	<li>Cognitiva</li>
-	<li>Visión reducida</li>
-	<li>Daltonismo</li>
+    <li>Sordera</li>
+    <li>Sordoceguera</li>
+    <li>Movilidad (entendida como la imposibilidad de utilizar el ratón y/o el teclado)</li>
+    <li>Cognitiva</li>
+    <li>Visión reducida</li>
+    <li>Daltonismo</li>
 </ul>
 
 <p>Teniendo en mente estas barreras, a continuación enumero nueve pautas que ayudarán a superarlas.</p>
@@ -122,11 +122,11 @@ tags:       [buenas prácticas de accesibilidad]
 <p>Existen multitud de herramientas y técnicas para la auditoría de accesibilidad. Algunas muy complejas. Pero manteniendo la filosofía de este artículo de que la accesibilidad puede implementarse, en gran parte, de manera sencilla, recomendaré algunas técnicas básicas.</p>
 
 <ul>
-	<li><strong>Haz zoom al 200%. </strong>Utiliza el zoom de tu navegador. ¿Todo el texto sigue estando visible?</li>
-	<li><strong>Navega mediante el teclado.</strong> Comprueba que puedes acceder a todos los rincones de tu web utilizando solo las teclas de tu teclado: ←↑↓→ TAB, SHIFT+TAB, ESC y ENTER.</li>
-	<li><strong>Apaga el monitor y navega con un lector de pantalla.</strong> Por ejemplo, <a href="https://help.apple.com/voiceover/info/guide/" target="_blank" rel="noopener noreferrer">Voiceover</a> para Mac o <a href="https://www.nvaccess.org/" target="_blank" rel="noopener noreferrer">NVDA</a> para Windows.</li>
-	<li><strong>Ejecuta la auditoria de accesibilidad de Google Chrome.</strong> Está en la pestaña “Audits” de las DevTools (accede pulsando F12).</li>
-	<li><strong>Navega con CSS desactivado.</strong> Y comprueba si la estructura de tu página tiene sentido.</li>
+    <li><strong>Haz zoom al 200%. </strong>Utiliza el zoom de tu navegador. ¿Todo el texto sigue estando visible?</li>
+    <li><strong>Navega mediante el teclado.</strong> Comprueba que puedes acceder a todos los rincones de tu web utilizando solo las teclas de tu teclado: ←↑↓→ TAB, SHIFT+TAB, ESC y ENTER.</li>
+    <li><strong>Apaga el monitor y navega con un lector de pantalla.</strong> Por ejemplo, <a href="https://help.apple.com/voiceover/info/guide/" target="_blank" rel="noopener noreferrer">Voiceover</a> para Mac o <a href="https://www.nvaccess.org/" target="_blank" rel="noopener noreferrer">NVDA</a> para Windows.</li>
+    <li><strong>Ejecuta la auditoria de accesibilidad de Google Chrome.</strong> Está en la pestaña “Audits” de las DevTools (accede pulsando F12).</li>
+    <li><strong>Navega con CSS desactivado.</strong> Y comprueba si la estructura de tu página tiene sentido.</li>
 </ul>
 
 <h2>Bola extra: Google es un usuario discapacitado</h2>

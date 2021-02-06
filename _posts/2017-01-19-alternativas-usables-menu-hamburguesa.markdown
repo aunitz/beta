@@ -38,12 +38,12 @@ tags:       [buenas prácticas de usabilidad]
 <hr>
 
 <div class="footnotes">
-  <ol>
-    <li id="fn:fn-f1">
-      <p>Por ejemplo <a href="https://www.nngroup.com/articles/hamburger-menus/" target="_blank" rel="noopener noreferrer">en este artículo de Nielsen Norman Group</a>.&nbsp;<a href="#fnref:fn-f1" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:fn-f2">
-      <p>Mi lista de <a href="{{ site.baseurl }}{% post_url 2017-01-18-principios-usabilidad %}">principios generales de usabilidad</a>.&nbsp;<a href="#fnref:fn-f2" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
+    <ol>
+        <li id="fn:fn-f1">
+            <p>Por ejemplo <a href="https://www.nngroup.com/articles/hamburger-menus/" target="_blank" rel="noopener noreferrer">en este artículo de Nielsen Norman Group</a>.&nbsp;<a href="#fnref:fn-f1" class="reversefootnote">&#8617;</a></p>
+        </li>
+        <li id="fn:fn-f2">
+            <p>Mi lista de <a href="{{ site.baseurl }}{% post_url 2017-01-18-principios-usabilidad %}">principios generales de usabilidad</a>.&nbsp;<a href="#fnref:fn-f2" class="reversefootnote">&#8617;</a></p>
+        </li>
+    </ol>
 </div>

@@ -73,43 +73,43 @@ tags:       [git]
         <col style="width:20%;">
         <col style="width:60%;">
     </colgroup>
-	<thead>
-		<tr>
-			<th>Comando</th>
-			<th>Alcance</th>
-			<th>Uso más común</th>
-		</tr>
+    <thead>
+        <tr>
+            <th>Comando</th>
+            <th>Alcance</th>
+            <th>Uso más común</th>
+        </tr>
     </thead>
     <tbody>
-		<tr>
-			<td><code>git reset</code></td>
-			<td>Commit</td>
-			<td>Descartar <em>commits</em> en una rama privada o descartar cambios no <em>commiteados</em></td>
-		</tr>
-		<tr>
-			<td><code>git reset</code></td>
-			<td>Archivo</td>
-			<td>Cargar en el directorio <em>staged</em> una versión antigua del archivo</td>
-		</tr>
-		<tr>
-			<td><code>git checkout</code></td>
-			<td>Commit</td>
-			<td>Cambiar entre ramas o inspeccionar <em>commits</em> antiguos</td>
-		</tr>
-		<tr>
-			<td><code>git checkout</code></td>
-			<td>Archivo</td>
-			<td>Cargar en el directorio de trabajo una versión antigua del archivo</td>
-		</tr>
-		<tr>
-			<td><code>git revert</code></td>
-			<td>Commit</td>
-			<td>Deshacer <em>commits</em> en una rama pública</td>
-		</tr>
-		<tr>
-			<td><code>git revert</code></td>
-			<td>Archivo</td>
-			<td>No disponible</td>
-		</tr>
+        <tr>
+            <td><code>git reset</code></td>
+            <td>Commit</td>
+            <td>Descartar <em>commits</em> en una rama privada o descartar cambios no <em>commiteados</em></td>
+        </tr>
+        <tr>
+            <td><code>git reset</code></td>
+            <td>Archivo</td>
+            <td>Cargar en el directorio <em>staged</em> una versión antigua del archivo</td>
+        </tr>
+        <tr>
+            <td><code>git checkout</code></td>
+            <td>Commit</td>
+            <td>Cambiar entre ramas o inspeccionar <em>commits</em> antiguos</td>
+        </tr>
+        <tr>
+            <td><code>git checkout</code></td>
+            <td>Archivo</td>
+            <td>Cargar en el directorio de trabajo una versión antigua del archivo</td>
+        </tr>
+        <tr>
+            <td><code>git revert</code></td>
+            <td>Commit</td>
+            <td>Deshacer <em>commits</em> en una rama pública</td>
+        </tr>
+        <tr>
+            <td><code>git revert</code></td>
+            <td>Archivo</td>
+            <td>No disponible</td>
+        </tr>
     </tbody>
 </table>

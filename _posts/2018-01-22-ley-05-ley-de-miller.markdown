@@ -23,9 +23,9 @@ tags:       [leyes y principios de usabilidad]
 <hr>
 
 <div class="footnotes">
-  <ol>
-    <li id="fn:fn-f1">
-      <a href="https://www.ncbi.nlm.nih.gov/pubmed/9384378" target="_blank" rel="noopener noreferrer">LUCK, S. J.; VOGEL, W. K. The capacity of visual working memory for features and conjunctions. Nature. Nº 390 (1997) p. 279-281</a>.&nbsp;<a href="#fnref:fn-f1" class="reversefootnote">&#8617;</a>
-    </li>
-  </ol>
+    <ol>
+        <li id="fn:fn-f1">
+            <a href="https://www.ncbi.nlm.nih.gov/pubmed/9384378" target="_blank" rel="noopener noreferrer">LUCK, S. J.; VOGEL, W. K. The capacity of visual working memory for features and conjunctions. Nature. Nº 390 (1997) p. 279-281</a>.&nbsp;<a href="#fnref:fn-f1" class="reversefootnote">&#8617;</a>
+        </li>
+    </ol>
 </div>
