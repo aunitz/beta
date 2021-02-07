@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Formularios usables: botones"
-subtitle:   "{Consejos de usabilidad para los botones}"
+subtitle:   "Consejos de usabilidad para los botones"
 date:       2021-01-17 19:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-62.jpg"

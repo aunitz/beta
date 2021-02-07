@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Formularios usables: campos de fecha"
-subtitle:   "{Consejos de usabilidad para los campos de fecha}"
+subtitle:   "Consejos de usabilidad para los campos de fecha"
 date:       2021-01-17 19:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-63.jpg"
