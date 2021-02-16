@@ -5,7 +5,7 @@ subtitle:   "Notas que quiero recordar sobre lo leído en el libro."
 date:       2017-09-15 18:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-08.jpg"
-tags:       [sistemas de diseño, libros]
+tags:       [sistemas de diseño, memorandos]
 ---
 
 <p>El libro <strong>Atomic Design</strong> de <strong>Brad Frost</strong> fue publicado en su primera edición en 2013. Desde entonces, se ha convertido en un libro de referencia para la creación de <strong>sistemas de diseño</strong>.</p>
