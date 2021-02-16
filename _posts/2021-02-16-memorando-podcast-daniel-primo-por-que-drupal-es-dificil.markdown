@@ -8,13 +8,13 @@ header-img: "img/post-bg-66.jpg"
 tags:       [desarrollo de aplicaciones web, memorandos]
 ---
 
-<p>Hace unos años escribí un <a href="{{ site.baseurl }}{% post_url 2017-09-15-memorando-libro-atomic-design-brad-frost %}">memorando sobre el libro Atomic Design de Brad Frost</a>. Es habitual encontrar en Internet reseñas, resúmenes y memorandos sobre libros. ¿Y por qué no sobre podcasts?</p>
+<p>Hace unos años escribí un <a href="{{ site.baseurl }}{% post_url 2017-09-15-memorando-libro-atomic-design-brad-frost %}">memorando sobre el libro Atomic Design de Brad Frost</a>. Es habitual encontrar en Internet: reseñas, resúmenes y memorandos sobre libros. ¿Y por qué no sobre podcasts?</p>
 
-<p>Recientemente necesité informarme sobre los motivos por los que Drupal es considerado un CMS difícil o “para desarrolladores”. Y no he encontrado mejor recurso en español que el <a href="https://www.danielprimo.io/blog/por-que-drupal-es-dificil">episodio número 22 (13/02/2018) del podcast Web Reactiva</a> del programador y formador <a href="https://www.danielprimo.io/" target="_blank" rel="noopener noreferrer">Daniel Primo</a>.</p>
+<p>Recientemente necesité informarme sobre los motivos por los que Drupal es considerado un CMS difícil o “para desarrolladores”. Y no he encontrado mejor recurso en español que el <a href="https://www.danielprimo.io/blog/por-que-drupal-es-dificil" target="_blank" rel="noopener noreferrer">episodio número 22 (13/02/2018) del podcast Web Reactiva</a> del programador y formador <a href="https://www.danielprimo.io/" target="_blank" rel="noopener noreferrer">Daniel Primo</a>.</p>
 
 <p><img src="{{ site.baseurl }}/img/memorando-por-que-drupal-es-dificil-01.png" alt=""></p>
 
-<p>Lo que pretendo en este artículo es pasar a limpio las principales enseñanzas o reflexiones que a mí me ha aportado la escucha del episodio. A modo de recordatorio para el futuro. En consecuencia, se trata de un escrito completamente subjetivo y basado en mi <em>know how</em> previo.</p>
+<p>Lo que pretendo en este artículo es pasar a limpio las principales enseñanzas o reflexiones que me ha aportado la escucha del episodio. A modo de recordatorio para el futuro. En consecuencia, se trata de un escrito completamente subjetivo y basado en mi <em>know how</em> previo.</p>
 
 <h2>¿Qué es Drupal?</h2>
 <p>Drupal es algo más que un CMS (Content Management System), un gestor de contenidos. Es un <strong>framework para construir aplicaciones web</strong>. Es software libre (open source). Está construido con tecnologías de software libre como <strong>PHP</strong> y <strong>JavaScript</strong>.</p>
@@ -53,7 +53,7 @@ tags:       [desarrollo de aplicaciones web, memorandos]
 <p><img src="{{ site.baseurl }}/img/memorando-por-que-drupal-es-dificil-03.jpg" alt=""></p>
 
 <h2>¿Por qué es considerado Drupal difícil?</h2>
-<p>El núcleo de Drupal 8 se basa en componentes <strong>Symfony</strong> (uno de los <em>framework</em> más potentes que existen para PHP). Por tanto, ha dado un giro definitivo hacia la <strong>programación orientada a objetos</strong>. Paradigma de programación que hay que entender y dominar para sacarle el máximo provecho a la herramienta. Por tanto, marca ineludiblemente unas reglas del juego que tienes que aprender.</p>
+<p>El núcleo de Drupal 8 se basa en componentes <strong>Symfony</strong> (uno de los <em>framework</em> más potentes que existen para PHP). Por tanto, ha dado un giro definitivo hacia la <strong>programación orientada a objetos</strong>. Paradigma de programación que hay que entender y dominar para sacarle el máximo provecho a la herramienta. En consecuencia, marca ineludiblemente unas reglas del juego que tienes que aprender.</p>
 
 <p>Además, los recursos de aprendizaje para los usuarios que ya han superado las fases iniciales de conocimiento de la herramienta son escasos y <strong>cobran mucha importancia las personas con experiencia</strong>. Debería haber al menos una persona en el equipo con este perfil de experto que oriente a los más novatos.</p>
 <p>Desde hace años circula un gráfico anónimo en clave de humor que representa la <strong>curva de aprendizaje de Drupal </strong>con respecto a otros populares CMS.</p>
