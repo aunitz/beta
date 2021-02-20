@@ -1,36 +1,30 @@
-# Site settings
 title: Aunitz Giménez - Consultor y director de proyectos digitales
-subtitle: Aunitz Giménez
-header-img: img/home-bg.jpg
 email: aunitz@gmail.com
-copyright_name: Aunitz Giménez
-description: "Dirección de proyectos digitales y consultoría tecnológica. Especialista en usabilidad, accesibilidad y desarrollo web. Más de 17 años de experiencia en el sector."
+description: Dirección de proyectos digitales y consultoría tecnológica. Especialista en usabilidad, accesibilidad y desarrollo web. Más de 17 años de experiencia en el sector.
+author: Aunitz Giménez
 baseurl: "http://www.aunitz.net/beta"
 url: "https://www.aunitz.net"
+
+# Social Profiles
 twitter_username:
 github_username: aunitz
 facebook_username:
-email_username:
+instagram_username:  
 linkedin_username: aunitz
-medium_username: aunitz
 
-# Origen de la plantilla
-# https://startbootstrap.com/template-overviews/clean-blog/
-
-# Google Analytics
-# To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id: UA-90648162-1
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-#disqus: aunitz
+# Add your google-analytics ID here to activate google analytics
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown: kramdown
-#highlighter: rouge
-#permalink: pretty
-permalink: /:title/
 paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md",resources]
+# paginate_path: "/posts/page:num/"
+permalink: /:title/
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
-gems: [jekyll-paginate, jekyll-feed]
+
+# Origen de la plantilla
+# https://startbootstrap.com/template-overviews/clean-blog/
