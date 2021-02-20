@@ -2,14 +2,14 @@ title: Aunitz Giménez - Consultor y director de proyectos digitales
 email: aunitz@gmail.com
 description: Dirección de proyectos digitales y consultoría tecnológica. Especialista en usabilidad, accesibilidad y desarrollo web. Más de 17 años de experiencia en el sector.
 author: Aunitz Giménez
-baseurl: "http://www.aunitz.net/beta"
+baseurl: "beta"
 url: "https://www.aunitz.net"
 
 # Social Profiles
 twitter_username:
 github_username: aunitz
 facebook_username:
-instagram_username:  
+instagram_username:
 linkedin_username: aunitz
 
 # Add your google-analytics ID here to activate google analytics
