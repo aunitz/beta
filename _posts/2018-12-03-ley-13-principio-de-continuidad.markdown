@@ -1,11 +1,12 @@
 ---
-layout:          post
-title:           "Principio de continuidad"
-subtitle:        "{Leyes de usabilidad. Gestalt}"
-date:            2018-12-03 13:00:00
-author:          "Aunitz Giménez"
-header-img-cdn:  "https://res.cloudinary.com/aunitz/image/upload/f_auto,q_auto/v1613934705/post-bg-14_sh5uki.jpg"
-tags:            [leyes y principios de usabilidad, leyes y principios de la Gestalt]
+layout:               post
+title:                "Principio de continuidad"
+subtitle:             "{Leyes de usabilidad. Gestalt}"
+date:                 2018-12-03 13:00:00
+author:               "Aunitz Giménez"
+header-img-cdn:       "https://res.cloudinary.com/aunitz/image/upload/f_auto,q_auto/v1613934705/post-bg-14_sh5uki.jpg"
+header-img-cdn-mini:  "https://res.cloudinary.com/aunitz/image/upload/c_scale,f_auto,q_auto,w_767/v1613934705/post-bg-14_sh5uki.jpg"
+tags:                 [leyes y principios de usabilidad, leyes y principios de la Gestalt]
 ---
 
 <p><em><strong>Los elementos dispuestos en una línea o curva se perciben como relacionados.</strong></em></p>
