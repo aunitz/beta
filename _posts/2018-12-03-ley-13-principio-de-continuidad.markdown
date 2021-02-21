@@ -4,7 +4,7 @@ title:           "Principio de continuidad"
 subtitle:        "{Leyes de usabilidad. Gestalt}"
 date:            2018-12-03 13:00:00
 author:          "Aunitz Giménez"
-header-img-cdn:  "https://res.cloudinary.com/aunitz/image/upload/f_auto,q_auto/v1613934705/post-bg-14_sh5uki.jpg"
+header-img-cdn:  "https://res.cloudinary.com/aunitz/image/upload/f_auto,fl_progressive,q_auto/v1613934705/post-bg-14_sh5uki.jpg"
 tags:            [leyes y principios de usabilidad, leyes y principios de la Gestalt]
 ---
 
