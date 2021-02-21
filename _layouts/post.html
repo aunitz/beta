@@ -9,7 +9,7 @@ layout: default
     }
     @media (max-width: 767px) {
         .intro-header {
-            background-image: url('{% if page.header-img %}{{ site.baseurl }}/{{ page.header-img }}{% elsif page.header-img-cdn-mini %}{{ page.header-img-cdn }}{% else %}{{ site.baseurl }}/{{ site.header-img }}{% endif %}');
+            background-image: url('{% if page.header-img %}{{ site.baseurl }}/{{ page.header-img }}{% elsif page.header-img-cdn-mini %}{{ page.header-img-cdn-mini }}{% else %}{{ site.baseurl }}/{{ site.header-img }}{% endif %}');
         }
     }
 </style>
