@@ -15,12 +15,12 @@ tags:       [buenas prácticas de usabilidad, formularios]
 <p>Escudándome en la autoridad Adam y su reciente publicación tanto <a href="https://adamsilver.io/blog/material-design-text-fields-are-badly-designed/" target="_blank" rel="noopener noreferrer">en su propio blog</a> como en la prestigiosa revista del sector <a href="https://www.smashingmagazine.com/2021/02/material-design-text-fields/" target="_blank" rel="noopener noreferrer">Smashing Magazine</a> de sendos artículos explicando los problemas de usabilidad de los campos de texto de los formularios de Material Design, paso a desgranar los inconvenientes que tienen.</p>
 
 <h2>Los campos de texto de Material Design</h2>
-<p>Presentemos primero cómo son los campos de texto de Material Design. Se trata de campos en los que la etiqueta del campo (label) se ubica dentro del campo, a modo de placeholder. De modo que cuando el usuario entra en el campo, la etiqueta se desplaza hacia arriba y “flota” sobre el texto que va escribiendo.</p>
+<p>Presentemos primero cómo son los campos de texto de Material Design. Se trata de campos en los que la etiqueta del campo (<code>label</code>) se ubica dentro del campo, a modo de <code>placeholder</code>. De modo que cuando el usuario entra en el campo, la etiqueta se desplaza hacia arriba y “flota” sobre el texto que va escribiendo.</p>
 
 <p><img src="{{ site.baseurl }}/img/campos-de-material-design-mal-disenados-01.gif" alt=""></p>
 
 <h2>Problemas de usabilidad de los campos de texto de Material Design</h2>
-<p><strong>1. Las etiquetas de los campos que no están rellenados pueden confundirse con un campo rellenado y provocar que el usuario lo omita accidentalmente.</strong></p>
+<p><strong>1. Las etiquetas de los campos que no están rellenados pueden confundirse con un campo rellenado y provocar que el usuario los omita accidentalmente.</strong></p>
 
 <p><img src="{{ site.baseurl }}/img/campos-de-material-design-mal-disenados-02.png" alt=""></p>
 
@@ -47,7 +47,7 @@ tags:       [buenas prácticas de usabilidad, formularios]
 <div class="footnotes">
     <ol>
         <li id="fn:fn-f1">
-            <p>Sistema de diseño de Google para todo su ecosistema de productos y servicios digitales. Tanto para aplicaciones móviles como para entorno web.</p>
+            <p>Sistema de diseño de Google para todo su ecosistema de productos y servicios digitales. Tanto para aplicaciones móviles como para entorno web.&nbsp;<a href="#fnref:fn-f1" class="reversefootnote">&#8617;</a></p>
         </li>
     </ol>
 </div>
