@@ -4,7 +4,7 @@ title:      "Los campos de texto de Material Design están mal diseñados"
 subtitle:   "Memorando sobre el artículo de Adam Silver"
 date:       2021-03-19 23:30:00
 author:     "Aunitz Giménez"
-header-img: "img/post-bg-69.jpg"
+header-img: "img/post-bg-68.jpg"
 tags:       [buenas prácticas de usabilidad, formularios]
 ---
 

@@ -4,7 +4,7 @@ title:      "Qué son las Core Web Vitals"
 subtitle:   "Métricas básicas de experiencia de usuario"
 date:       2021-02-27 23:00:00
 author:     "Aunitz Giménez"
-header-img: "img/post-bg-68.jpg"
+header-img: "img/post-bg-67.jpg"
 tags:       [desarrollo de aplicaciones web, SEO]
 ---
 
