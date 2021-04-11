@@ -31,8 +31,7 @@ var mixedChart = new Chart(ctx, {
             data: [25, 35, 45, 50],
         }],
         labels: ['January', 'February', 'March', 'April']
-    },
-    options: options
+    }
 });
 </script>
 
