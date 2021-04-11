@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src="//cdn.jsdelivr.net/npm/chart.js@3.1.0/dist/chart.min.js"></script>
+
+    <canvas id="myChart" width="722"></canvas>
+    <script>
+    var ctx = document.getElementById('myChart').getContext('2d');
+    var mixedChart = new Chart(ctx, {
+        data: {
+            datasets: [{
+                type: 'bar',
+                label: 'Bar Dataset',
+                data: [24, 20, 18, 16, 15]
+            }, {
+                type: 'line',
+                label: 'Line Dataset',
+                data: [26, 47, 67, 84, 100],
+            }],
+            labels: ['Causa D', 'Causa A', 'Causa B', 'Causa E', 'Causa C']
+        }
+    });
+    </script>
+
+<canvas id="pareto"></canvas>
+<script>
+    var data = {
+        labels: ['Causa D', 'Causa A', 'Causa B', 'Causa E', 'Causa C'],
+        datasets: [{
+            type: 'line',
+            label: 'Porcentaje acumulado',
+            borderColor: '#ED7D31',
+            backgroundColor: '#ED7D31',
+            data: [26, 47, 67, 84, 100],
+            yAxisID: 'right-y-axis'
+        }, {
+            type: 'bar',
+            label: 'Número de veces',
+            backgroundColor: '#5B9BD5',
+            data: [24, 20, 18, 16, 15],
+            yAxisID: 'left-y-axis'
+        }]
+    };
+
+    var options = {
+        scales: {
+            'left-y-axis': {
+                type: 'linear',
+                position: 'left',
+                title: {
+                    display: true,
+                    text: 'Número de veces',
+                    font: {
+                        size: 12
+                    }
+                }
+            },
+            'right-y-axis': {
+                type: 'linear',
+                position: 'right',
+                title: {
+                    display: true,
+                    text: 'Porcentaje acumulado',
+                    font: {
+                        size: 12,
+                    }
+                },
+                ticks: {
+                    // Include a percentage sign in the ticks
+                    callback: function(value, index, values) {
+                        return value + '%';
+                    }
+                }
+            }
+        },
+        plugins: {
+            legend: {
+                display: false
+            },
+            title: {
+                display: true,
+                text: 'Diagrama de Pareto',
+                font: {
+                    size: 18,
+                    weight: 'normal'
+                },
+                padding: 20
+            },
+            tooltip: {
+                callbacks: {
+
+                }
+            }
+        }
+    };
+
+    window.onload = function () {
+        var contenedor = document.getElementById("pareto").getContext("2d");
+
+        window.myBar = new Chart(contenedor, {
+            type: 'bar',
+            data: data,
+            options: options
+        });
+    };
+</script>
+</body>
+</html>
