@@ -42,22 +42,37 @@ layout: default
                 </div>
             </div>
         </div>
-      </div>
     </div>
-  </header>
+</header>
 
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-        {{ content }}
+				{{ content }}
 
-        <hr>
+                <hr>
 
                 {% include disqus.html %}
 
-        </div>
+                <ul class="pager">
+                    {% if page.previous.url %}
+                    <li class="previous">
+                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Anterior</a>
+                    </li>
+                    {% endif %}
+                    {% if page.next.url %}
+                    <li class="next">
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Siguiente &rarr;</a>
+                    </li>
+                    {% endif %}
+                </ul>
 
-      </div>
+            </div>
+        </div>
     </div>
-  </div>
+</article>
+
+<hr>
