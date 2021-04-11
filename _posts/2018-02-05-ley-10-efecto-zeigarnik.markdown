@@ -5,6 +5,7 @@ subtitle:   "{Leyes de usabilidad. Gestalt}"
 date:       2018-02-05 20:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-25.jpg"
+tags:       [leyes y principios de usabilidad, leyes y principios de la Gestalt]
 ---
 
 <p><em><strong>Define la tendencia a recordar tareas inacabadas o interrumpidas con mayor facilidad que las que han sido completadas.</strong></em></p>
@@ -15,4 +16,4 @@ header-img: "img/post-bg-25.jpg"
 
 <p>Este efecto fue descubierto por la psicóloga de la Gestalt y psiquiatra soviética Bliuma Zeigárnik en 1927.</p>
 
-<p>Si quieres conocer más detalles sobre este efecto, puedes partir de su <a href="https://es.wikipedia.org/wiki/Efecto_Zeigarnik" target="_blank">artículo en la Wikipedia</a>.</p>
+<p>Si quieres conocer más detalles sobre este efecto, puedes partir de su <a href="https://es.wikipedia.org/wiki/Efecto_Zeigarnik" target="_blank" rel="noopener noreferrer">artículo en la Wikipedia</a>.</p>

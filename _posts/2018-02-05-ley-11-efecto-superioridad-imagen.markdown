@@ -5,6 +5,7 @@ subtitle:   "{Leyes de usabilidad}"
 date:       2018-02-05 21:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-26.jpg"
+tags:       [leyes y principios de usabilidad]
 ---
 
 <p><em><strong>Los textos acompañados de imágenes tienen más probabilidades de ser recordados que la información únicamente textual.</strong></em></p>
@@ -13,4 +14,4 @@ header-img: "img/post-bg-26.jpg"
 
 <p><img src="{{ site.baseurl }}/img/ley-11-efecto-superioridad-imagen.png" alt="Ilustración de la Ley 11 de usabilidad: Efecto de superioridad de la imagen"></p>
 
-<p>Si quieres conocer más detalles sobre este efecto, puedes partir de su <a href="https://en.wikipedia.org/wiki/Picture_superiority_effect" target="_blank">artículo en la Wikipedia</a>.</p>
+<p>Si quieres conocer más detalles sobre este efecto, puedes partir de su <a href="https://en.wikipedia.org/wiki/Picture_superiority_effect" target="_blank" rel="noopener noreferrer">artículo en la Wikipedia</a>.</p>

@@ -5,9 +5,10 @@ subtitle:   "{Tip 7 de usabilidad}"
 date:       2017-11-01 17:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-03.jpg"
+tags:       [buenas prácticas de usabilidad]
 ---
 
-<p>Los menús desplegables (<a href="https://developer.mozilla.org/es/docs/Web/HTML/Elemento/select">elemento select de HTML</a>) deben utilizarse con mucha precaución. De acuerdo con el <a href="{{ site.baseurl }}{% post_url 2017-01-18-principios-usabilidad %}">principio de interfaz visible</a>, se debe evitar ocultar información relevante al usuario. Es preferible que el usuario tenga a la vista las opciones importantes a que las tenga que descubrir desplegando un select.</p>
+<p>Los menús desplegables (<a href="https://developer.mozilla.org/es/docs/Web/HTML/Elemento/select" target="_blank" rel="noopener noreferrer">elemento select de HTML</a>) deben utilizarse con mucha precaución. De acuerdo con el <a href="{{ site.baseurl }}{% post_url 2017-01-18-principios-usabilidad %}">principio de interfaz visible</a>, se debe evitar ocultar información relevante al usuario. Es preferible que el usuario tenga a la vista las opciones importantes a que las tenga que descubrir desplegando un select.</p>
 
 <p>Los select deben limitarse a ser utilizados en aquellas ocasiones en las que el usuario pueda predecir fácilmente su contenido. Como por ejemplo un desplegable de días de la semana o un listado de provincias. </p>
 

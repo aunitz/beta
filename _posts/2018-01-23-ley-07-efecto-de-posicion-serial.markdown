@@ -5,6 +5,7 @@ subtitle:   "{Leyes de usabilidad}"
 date:       2018-01-23 18:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-22.jpg"
+tags:       [leyes y principios de usabilidad]
 ---
 
 <p><em><strong>Los usuarios tienden a recordar mejor el primer y último elemento de una serie.</strong></em></p>
@@ -17,4 +18,4 @@ header-img: "img/post-bg-22.jpg"
 
 <p>Este efecto fue estudiado por el filósofo y psicólogo alemán Hermann Ebbinghaus a finales del siglo XIX.</p>
 
-<p>Si quieres conocer más detalles sobre este efecto cognitivo, puedes partir de su <a href="https://en.wikipedia.org/wiki/Serial-position_effect" target="_blank">artículo en la Wikipedia</a>.</p>
+<p>Si quieres conocer más detalles sobre este efecto cognitivo, puedes partir de su <a href="https://en.wikipedia.org/wiki/Serial-position_effect" target="_blank" rel="noopener noreferrer">artículo en la Wikipedia</a>.</p>

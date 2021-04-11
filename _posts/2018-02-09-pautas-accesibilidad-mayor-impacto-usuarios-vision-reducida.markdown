@@ -5,6 +5,7 @@ subtitle:   "{Accesibilidad web práctica}"
 date:       2018-02-09 18:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-27.jpg"
+tags:       [buenas prácticas de accesibilidad]
 ---
 
 <p>Con este artículo voy a iniciar una serie dedicada a divulgar aquellas pautas de accesibilidad que tienen un <strong>mayor impacto práctico</strong> en el día a día de los usuarios con algún tipo de discapacidad.</p>
@@ -41,6 +42,6 @@ header-img: "img/post-bg-27.jpg"
 
 <p>Para la verificación de las dos primeras pautas, os resultarán útiles estas sencillas herramientas para comprobar el nivel de contraste existente entre dos colores:</p>
 <ul>
-    <li><a href="https://webaim.org/resources/contrastchecker/" target="_blank">WebAIM: Color Contrast Checker</a>. Herramienta online.</li>
-    <li><a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">Colour Contrast Analyser</a>. Aplicación instalable para Windows y Mac.</li>
+    <li><a href="https://webaim.org/resources/contrastchecker/" target="_blank" rel="noopener noreferrer">WebAIM: Color Contrast Checker</a>. Herramienta online.</li>
+    <li><a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank" rel="noopener noreferrer">Colour Contrast Analyser</a>. Aplicación instalable para Windows y Mac.</li>
 </ul>

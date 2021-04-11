@@ -5,9 +5,10 @@ subtitle:   "{Tip 1 de usabilidad}"
 date:       2017-03-06 09:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-04.jpg"
+tags:       [buenas prácticas de usabilidad]
 ---
 
-<p>Existe una excelente web llamada <a href="http://www.goodui.org">Good User Interface</a> que recoge ideas y consejos sencillos sobre usabilidad y conversión.</p>
+<p>Existe una excelente web llamada <a href="http://www.goodui.org" target="_blank" rel="noopener noreferrer">Good User Interface</a> que recoge ideas y consejos sencillos sobre usabilidad y conversión.</p>
 
 <p>Consciente de la carencia de buenos contenidos en español sobre usabilidad y UI/UX en general, me he propuesto seleccionar algunas de las recomendaciones de esta web e irlas traduciendo poco a poco. La traducción no pretende ser rigurosa y en ocasiones añadiré comentarios de mi propia cosecha.</p>
 

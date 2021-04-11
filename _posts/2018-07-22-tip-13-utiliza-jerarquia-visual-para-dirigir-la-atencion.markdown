@@ -5,6 +5,7 @@ subtitle:   "{Tip 13 de usabilidad}"
 date:       2018-07-22 18:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-29.jpg"
+tags:       [buenas prácticas de usabilidad]
 ---
 
 <p>Una buena jerarquía visual se utiliza para <strong>separar los elementos de un interfaz</strong> y distinguir los más importantes de los menos.</p>

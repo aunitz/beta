@@ -5,6 +5,7 @@ subtitle:   "{Leyes de usabilidad. Gestalt}"
 date:       2018-12-03 12:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-31.jpg"
+tags:       [leyes y principios de usabilidad, leyes y principios de la Gestalt]
 ---
 
 <p><em><strong>Tendemos a percibir los objetos como formas simétricas que se distribuyen alrededor de un centro.</strong></em></p>
@@ -19,4 +20,4 @@ header-img: "img/post-bg-31.jpg"
 
 <p>Este principio de la percepción visual fue establecido por la escuela de psicología de la Gestalt. Una corriente de la psicología moderna, surgida en Alemania a principios del siglo XX.</p>
 
-<p>Si quieres conocer más sobre sobre la escuela de la Gestalt y su principios sobre la percepción visual aplicados al diseño, puedes consultar <a href="https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/" target="_blank">el siguiente artículo de Smashing Magazine</a>.</p>
+<p>Si quieres conocer más sobre sobre la escuela de la Gestalt y su principios sobre la percepción visual aplicados al diseño, puedes consultar <a href="https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/" target="_blank" rel="noopener noreferrer">el siguiente artículo de Smashing Magazine</a>.</p>

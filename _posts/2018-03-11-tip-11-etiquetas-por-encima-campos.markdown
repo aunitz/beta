@@ -5,6 +5,7 @@ subtitle:   "{Tip 11 de usabilidad}"
 date:       2018-03-11 12:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-28.jpg"
+tags:       [buenas prácticas de usabilidad, formularios]
 ---
 
 <p>Una de las decisiones importantes que debes tomar al diseñar un formulario es dónde ubicar las etiquetas (labels) con respecto a los campos del formulario.</p>

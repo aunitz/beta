@@ -11,17 +11,54 @@
   <!-- Delete in production -->
   <meta name="robots" content="noindex">
 
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <!-- Preconnect to required origins -->
+    <link rel="preconnect"
+        href="//fonts.gstatic.com"
+        crossorigin>
 
-  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link rel="preconnect"
+        href="//maxcdn.bootstrapcdn.com/"
+        crossorigin>
 
-  <link rel="stylesheet" href="{{"/assets/vendor/bootstrap/css/bootstrap.min.css" | relative_url }}">
+    <link rel="preconnect"
+        href="//ajax.googleapis.com/"
+        crossorigin>
 
-  <link rel="stylesheet" href="{{"/assets/vendor/fontawesome-free/css/all.min.css" | relative_url }}">
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 
-  <link rel="stylesheet" href="{{"/assets/main.css" | relative_url }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ '/css/clean-blog.min.css' | prepend: site.baseurl }}">
+
+    <!-- Google Fonts -->
+    <link rel="preload"
+        as="style"
+        href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic%7COpen+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic%7CCaveat:400,700&display=swap">
+
+    <link rel="stylesheet"
+        href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic%7COpen+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic%7CCaveat:400,700&display=swap"
+        media="print" onload="this.media='all'">
+
+    <noscript>
+        <link rel="stylesheet"
+            href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic%7COpen+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic%7CCaveat:400,700&display=swap">
+    </noscript>
+
+    <!-- Font Awesome -->
+    <link rel="preload"
+        as="style"
+        href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet"
+        href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
+        media="print" onload="this.media='all'">
+
+    <noscript>
+        <link rel="stylesheet"
+            href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    </noscript>
+
+    {% feed_meta %}
+    {% include ga.html %}
 
 </head>

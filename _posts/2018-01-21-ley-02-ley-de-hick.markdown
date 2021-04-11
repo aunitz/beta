@@ -5,6 +5,7 @@ subtitle:   "{Leyes de usabilidad}"
 date:       2018-01-21 20:00:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-17.jpg"
+tags:       [leyes y principios de usabilidad]
 ---
 
 <p><em><strong>El tiempo que se tarda en tomar una decisión aumenta de manera logarítmica a medida que se incrementa el número de alternativas.</strong></em></p>
@@ -17,4 +18,4 @@ header-img: "img/post-bg-17.jpg"
 
 <p>La Ley de Hick o de Hick-Hyman, fue formulada por los psicólogos William Edmund Hick y Ray Hyman en 1952.</p>
 
-<p>Si quieres conocer su formulación matemática exacta y otros muchos detalles interesantes, puedes partir de este <a href="https://www.interaction-design.org/literature/article/hick-s-law-making-the-choice-easier-for-users" target="_blank">artículo de la Interaction Design Foundation</a>.</p>
+<p>Si quieres conocer su formulación matemática exacta y otros muchos detalles interesantes, puedes partir de este <a href="https://www.interaction-design.org/literature/article/hick-s-law-making-the-choice-easier-for-users" target="_blank" rel="noopener noreferrer">artículo de la Interaction Design Foundation</a>.</p>

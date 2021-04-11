@@ -5,6 +5,7 @@ subtitle:   "{Tip 5 de usabilidad}"
 date:       2017-04-10 09:30:00
 author:     "Aunitz Giménez"
 header-img: "img/post-bg-07.jpg"
+tags:       [buenas prácticas de usabilidad]
 ---
 
 <p>Una aplicación ha de permitir deshacer las acciones realizadas. Si las acciones son reversibles, los usuarios pueden experimentar o equivocarse sin problemas. Se trata de un <a href="{{ site.baseurl }}/principios-usabilidad/">principio general de usabilidad</a> llamado de <strong>Reseversibilidad</strong>.</p>
