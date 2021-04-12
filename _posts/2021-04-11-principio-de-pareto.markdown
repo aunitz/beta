@@ -28,6 +28,6 @@ tags:       [leyes y principios de usabilidad]
 
 <p>Otra aplicación habitual del principio de Pareto en usabilidad se produce cuando <strong>la mayoría del tráfico (80%) de una web o aplicación se concentra en unos pocos contenidos (20%)</strong>. Cuanto esto ocurre, debemos concentrarnos en mejorar y actualizar estos pocos contenidos.</p>
 
-<p>Un ejemplo adicional para tener en cuenta en usabilidad sería cuando <strong>la mayoría del tiempo de nuestros usuarios (80%) los pasan realizando unas pocas tareas (20%)</strong>.</p>
+<p>Un ejemplo adicional muy a cuenta en usabilidad es cuando observamos que <strong>la mayoría del tiempo de nuestros usuarios (80%) transcurre realizando unas pocas tareas (20%)</strong>. Será en esas pocas tareas en las que deberemos poner el foco.</p>
 
 <p>En definitiva, lo que nos hace ver el principio de Pareto es que <strong>nuestros recursos son finitos y debemos destinarlos a lo que sea más importante para nuestros usuarios</strong>. Invirtiendo nuestro tiempo y esfuerzo en estas áreas clave maximizaremos el beneficio obtenido.</p>
