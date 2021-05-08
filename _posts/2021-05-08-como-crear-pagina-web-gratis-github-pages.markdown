@@ -99,4 +99,4 @@ tags:       [desarrollo de aplicaciones web]
 <h2>Próximo paso: asignarle un dominio propio</h2>
 
 <p>Una vez que hayamos personalizado completamente el contenido de nuestra página web, podemos querer contratar un <strong>nombre de dominio propio</strong> y asignárselo a nuestra web. De modo que en lugar de https://[nombreusuario].github.io podamos tener publicada la web en, por ejemplo, www.aprendeusabilidadyux.com.</p>
-<p>GitHub Pages permite que podamos configurar un nombre de dominio propio que tengamos comprado. Explican <a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site" target="_blank" rel="noopener noreferrer">cómo hacerlo</a> en su documentación. </p>
+<p>GitHub Pages permite que podamos configurar un nombre de dominio propio que tengamos comprado. Explican <a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site" target="_blank" rel="noopener noreferrer">cómo hacerlo</a> en su documentación.</p>
