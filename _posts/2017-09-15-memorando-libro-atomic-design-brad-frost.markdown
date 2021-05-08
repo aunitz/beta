@@ -10,7 +10,7 @@ tags:       [sistemas de diseño, memorandos]
 
 <p>El libro <strong>Atomic Design</strong> de <strong>Brad Frost</strong> fue publicado en su primera edición en 2013. Desde entonces, se ha convertido en un libro de referencia para la creación de <strong>sistemas de diseño</strong>.</p>
 
-<p><img src="{{ site.baseurl }}/img/atomic-design-01-ebook.jpg" alt="Fotografía de una página interior del libro Atomic Design de Brad Frost"></p>
+<p><img src="{{ site.baseurl }}/img/atomic-design-01-ebook.jpg" loading="lazy" alt="Fotografía de una página interior del libro Atomic Design de Brad Frost"></p>
 
 <p>Este post no pretender resumir el contenido del libro. Hay otros que lo han hecho muy bien. Por ejemplo, el mismo <a href="http://bradfrost.com/blog/post/atomic-web-design/" target="_blank" rel="noopener noreferrer">Brad Frost en su blog</a>.
 </p>
@@ -166,7 +166,7 @@ páginas que contiene.</p>
 
 <p>Los desarrolladores front-end están acostumbrados a utilizar herramientas que permiten probar con facilidad distintas resoluciones de pantalla. Sin embargo, otros <i>stakeholders</i> del proyecto puede que no. Pattern Lab incorpora una herramienta para el cambio de resoluciones que puede resultar muy útil para hacer entender a ciertos <i>stakeholders</i> las propiedades <i>responsive</i> de un sistema de diseño.</p>
 
-<p><img src="{{ site.baseurl }}/img/atomic-design-02-pattern-lab-capture.png" alt="Captura de pantalla del redimensionador de Pattern Lab"></p>
+<p><img src="{{ site.baseurl }}/img/atomic-design-02-pattern-lab-capture.png" loading="lazy" alt="Captura de pantalla del redimensionador de Pattern Lab"></p>
 
 <h2>El “secreto” para el éxito de un sistema de diseño: la colaboración y la comunicación</h2>
 
@@ -184,11 +184,11 @@ páginas que contiene.</p>
 
 <p>El libro incluye tres imágenes que al autor le han resultado muy útiles para hacer entender la complejidad del entorno web a los clientes, colegas, etc.</p>
 
-<p><img src="{{ site.baseurl }}/img/atomic-design-03-esto-no-es-web.png" alt="Fotografía de un monitor de ordenador de escritorio: esto no es la web"></p>
+<p><img src="{{ site.baseurl }}/img/atomic-design-03-esto-no-es-web.png" loading="lazy" alt="Fotografía de un monitor de ordenador de escritorio: esto no es la web"></p>
 
-<p><img src="{{ site.baseurl }}/img/atomic-design-04-esto-es-web.png" alt="Fotografía de múltiples dispositivos de distintos tamaños: esto es la web"></p>
+<p><img src="{{ site.baseurl }}/img/atomic-design-04-esto-es-web.png" loading="lazy" alt="Fotografía de múltiples dispositivos de distintos tamaños: esto es la web"></p>
 
-<p><img src="{{ site.baseurl }}/img/atomic-design-05-esto-sera-web.png" alt="Fotografía de múltiples dispositivos de distintos tamaños y signos de interrogación: esto será la web"></p>
+<p><img src="{{ site.baseurl }}/img/atomic-design-05-esto-sera-web.png" loading="lazy" alt="Fotografía de múltiples dispositivos de distintos tamaños y signos de interrogación: esto será la web"></p>
 
 <h2>Considerar el rendimiento como un principio esencial del diseño</h2>
 
