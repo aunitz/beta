@@ -36,7 +36,7 @@ tags:       [desarrollo de aplicaciones web]
 
 <p>Para ellos ejecutaremos en el directorio local de nuestra elección el comando:</p>
 
-<p><code>git clone https://[nombreusuario]@github.com/[nombreusuario]/[nombreusuario].github.io</code></p>
+<p><small><code>git clone https://[nombreusuario]@github.com/[nombreusuario]/[nombreusuario].github.io</code></small></p>
 
 <p>Nos avisará que el repositorio que hemos clonado está vacío, pero no pasa nada. Entraremos en el directorio que nos ha creado (en nuestro ejemplo “aprendeusabilidadyux.github.io”) y desarrollaremos nuestra <em>landing</em> dentro del mismo.</p>
 
@@ -88,7 +88,7 @@ tags:       [desarrollo de aplicaciones web]
 
 <p><code>git commit -m "Contenidos reales de la web (primera parte)"</code></p>
 
-<p<code>>git push -u origin main</code></p>
+<p><code>>git push -u origin main</code></p>
 
 <p>Y accediendo a la URL correspondiente visualizaremos los cambios.</p>
 
