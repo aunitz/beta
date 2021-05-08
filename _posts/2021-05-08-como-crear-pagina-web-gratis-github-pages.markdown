@@ -64,13 +64,13 @@ tags:       [desarrollo de aplicaciones web]
 
 <p>Para ello ejecutaremos los siguientes comandos de Git:</p>
 
-<p><code>git branch -M main</code></p>
+<p><small><code>git branch -M main</code></small></p>
 
-<p><code>git add --all</code></p>
+<p><small><code>git add --all</code></small></p>
 
-<p><code>git commit -m "Commit inicial"</code></p>
+<p><small><code>git commit -m "Commit inicial"</code></small></p>
 
-<p><code>git push -u origin main</code></p>
+<p><small><code>git push -u origin main</code></small></p>
 
 <p>Y accederemos mediante el navegador a la URL correspondiente.</p>
 
@@ -84,11 +84,11 @@ tags:       [desarrollo de aplicaciones web]
 
 <p>A partir de este punto lo que nos toca es ir personalizando el contenido de la plantilla a nuestra conveniencia. Cada vez que queramos ver cómo se refleja en internet un cambio que hayamos hecho en local, deberemos “commitearlo” y “pushearlo” al repositorio de GitHub con los siguientes comandos de Git:</p>
 
-<p><code>git add --all</code></p>
+<p><small><code>git add --all</code></small></p>
 
-<p><code>git commit -m "Contenidos reales de la web (primera parte)"</code></p>
+<p><small><code>git commit -m "Contenidos reales de la web (primera parte)"</code></small></p>
 
-<p><code>>git push -u origin main</code></p>
+<p><small><code>git push -u origin main</code></small></p>
 
 <p>Y accediendo a la URL correspondiente visualizaremos los cambios.</p>
 
