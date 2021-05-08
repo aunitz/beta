@@ -74,7 +74,7 @@ tags:       [desarrollo de aplicaciones web]
 
 <p>Y accederemos mediante el navegador a la URL correspondiente.</p>
 
-<p>En nuestro caso a <a href="https://aprendeusabilidadyux.github.io/" target="_blank" rel="noopener noreferrer">https://aprendeusabilidadyux.github.io/</a></p>
+<p>En nuestro caso a <a href="https://aprendeusabilidadyux.github.io/" target="_blank" rel="noopener noreferrer" style="word-break: break-all;">https://aprendeusabilidadyux.github.io/</a></p>
 
 <p><img src="{{ site.baseurl }}/img/como-crear-pagina-web-gratis-github-pages-04.png" loading="lazy" alt=""></p>
 
@@ -92,7 +92,7 @@ tags:       [desarrollo de aplicaciones web]
 
 <p>Y accediendo a la URL correspondiente visualizaremos los cambios.</p>
 
-<p>En nuestro caso en <a href="https://aprendeusabilidadyux.github.io/" target="_blank" rel="noopener noreferrer">https://aprendeusabilidadyux.github.io/</a></p>
+<p>En nuestro caso en <a href="https://aprendeusabilidadyux.github.io/" target="_blank" rel="noopener noreferrer" style="word-break: break-all;">https://aprendeusabilidadyux.github.io/</a></p>
 
 <p><img src="{{ site.baseurl }}/img/como-crear-pagina-web-gratis-github-pages-05.png" loading="lazy" alt=""></p>
 
