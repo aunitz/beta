@@ -36,7 +36,7 @@ tags:       [desarrollo de aplicaciones web]
 
 <p>Para ellos ejecutaremos en el directorio local de nuestra elección el comando:</p>
 
-<p><small><code>git clone https://[nombreusuario]@github.com/[nombreusuario]/[nombreusuario].github.io</code></small></p>
+<p><small><code style="word-break: break-all;">git clone https://[nombreusuario]@github.com/[nombreusuario]/[nombreusuario].github.io</code></small></p>
 
 <p>Nos avisará que el repositorio que hemos clonado está vacío, pero no pasa nada. Entraremos en el directorio que nos ha creado (en nuestro ejemplo “aprendeusabilidadyux.github.io”) y desarrollaremos nuestra <em>landing</em> dentro del mismo.</p>
 
