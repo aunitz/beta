@@ -18,7 +18,7 @@ tags:       [desarrollo de aplicaciones web]
 	<li><strong>Comprar un nombre de dominio</strong> con alguna empresa registradora. Su coste suele rondar los 10 € anuales. Debes tener en cuenta que el coste del dominio se paga todos los años. Si dejas de pagarlo, dejarás de ser el propietario del dominio y quedará libre para que cualquier otro usuario pueda comprarlo.</li>
 </ul>
 
-<p>Para nuestro ejemplo, hemos comprado el nombre de dominio “<strong style="word-break: break-all;">aprendeusabilidadyux.com</strong>”.</p>
+<p>Para nuestro ejemplo, hemos comprado el nombre de dominio “<strong>aprendeusabilidadyux.com</strong>”.</p>
 
 <h2>Paso 1: añadir un redireccionamiento 301 en las DNS del dominio</h2>
 
