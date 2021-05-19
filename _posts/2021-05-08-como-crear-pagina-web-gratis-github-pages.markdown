@@ -38,7 +38,7 @@ tags:       [desarrollo de aplicaciones web]
 
 <p><small><code style="word-break: break-all;">git clone https://[nombreusuario]@github.com/[nombreusuario]/[nombreusuario].github.io</code></small></p>
 
-<p>Nos avisará que el repositorio que hemos clonado está vacío, pero no pasa nada. Entraremos en el directorio que nos ha creado (en nuestro ejemplo “aprendeusabilidadyux.github.io”) y desarrollaremos nuestra <em>landing</em> dentro del mismo.</p>
+<p>Nos avisará de que el repositorio que hemos clonado está vacío, pero no pasa nada. Entraremos en el directorio que nos ha creado (en nuestro ejemplo “aprendeusabilidadyux.github.io”) y desarrollaremos nuestra <em>landing</em> dentro del mismo.</p>
 
 <h2>Paso 3: desarrollar la landing (en este caso mediante una plantilla gratuita)</h2>
 
@@ -99,4 +99,4 @@ tags:       [desarrollo de aplicaciones web]
 <h2>Próximo paso: asignarle un dominio propio</h2>
 
 <p>Una vez que hayamos personalizado completamente el contenido de nuestra página web, podemos querer contratar un <strong>nombre de dominio propio</strong> y asignárselo a nuestra web. De modo que en lugar de https://[nombreusuario].github.io podamos tener publicada la web en, por ejemplo, <strong>www.aprendeusabilidadyux.com</strong>.</p>
-<p>GitHub Pages permite que podamos configurar un nombre de dominio propio que tengamos comprado. Te explico cómo en la <a href="{{ site.baseurl }}{% post_url 2021-05-09-como-crear-pagina-web-gratis-github-pages-segunda-parte %}">segunda parte de este post</a>.</p>
+<p>GitHub Pages permite que podamos configurar un nombre de dominio propio que tengamos comprado. Te explico cómo se hace en la <a href="{{ site.baseurl }}{% post_url 2021-05-09-como-crear-pagina-web-gratis-github-pages-segunda-parte %}">segunda parte de este post</a>.</p>
