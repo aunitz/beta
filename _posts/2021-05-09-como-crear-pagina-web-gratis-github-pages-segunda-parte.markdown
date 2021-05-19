@@ -45,7 +45,7 @@ tags:       [desarrollo de aplicaciones web]
 
 <p>Lo más conveniente es decantarse por una de las dos como la dirección canónica de nuestro sitio web. En mi caso, <strong>prefiero el subdominio “www” como dirección canónica</strong>. Preferencia que debo indicar en la configuración de GitHub Pages. Explico cómo en el paso 3.</p>
 
-<p>Para que GitHub Pages nos redireccione correctamente los accesos sin "www" al aubdominio con las "www", debemos dirigir el tráfico entrante en el dominio raíz a las cuatro IPs públicas y fijas del servicio de GitHub Pages. Para ello debes entrar al panel de control que te habrá facilitado la empresa en la que has comprado el dominio y <strong>añadir cuatro nuevas entradas a los registros DNS</strong>.</p>
+<p>Para que GitHub Pages nos redireccione correctamente los accesos sin "www" al subdominio con las "www", debemos dirigir el tráfico entrante en el dominio raíz a las cuatro IPs públicas y fijas del servicio de GitHub Pages. Para ello debes entrar al panel de control que te habrá facilitado la empresa en la que has comprado el dominio y <strong>añadir cuatro nuevas entradas a los registros DNS</strong>.</p>
 
 <p>Estas cuatro nuevas entradas (una por cada IP pública de GitHub Pages) tendrán las siguientes propiedades:</p>
 <ul>
