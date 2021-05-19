@@ -20,28 +20,7 @@ tags:       [desarrollo de aplicaciones web]
 
 <p>Para nuestro ejemplo, hemos comprado el nombre de dominio “<strong>aprendeusabilidadyux.com</strong>”.</p>
 
-<h2>Paso 1: añadir un redireccionamiento 301 en las DNS del dominio</h2>
-
-<p>De cara al óptimo posicionamiento en buscadores (SEO), no es conveniente que nuestra página web pueda ser consultada tanto con las “www” como sin ellas. Es decir, que pueda ser consultada tanto con el dominio raíz “aprendeusabilidadyux.com” como con el subdominio “www.aprendeusabilidadyux.com”. Ya que los buscadores considerarán que estamos sirviendo contenido duplicado. Para ellos el dominio raíz y el subdominio “www” son dos “direcciones de internet” diferentes.</p>
-
-<p>Lo más conveniente es decantarse por una de las dos como la dirección canónica de nuestro sitio web y redireccionar la otra permanentemente a nivel de DNS.</p>
-
-<p>En mi caso, <strong>prefiero el subdominio “www” como dirección canónica</strong> y lo que hago es redireccionar la raíz del dominio principal al subdominio “www”.</p>
-
-<p>Para ello debes entrar al panel de control que te habrá facilitado la empresa en la que has comprado el dominio y <strong>añadir una nueva entrada a los registros DNS</strong>.</p>
-
-<p>Esta nueva entrada tendrá las siguientes propiedades:</p>
-<ul>
-	<li>Host: <em>dejarlo en blanco</em>.</li>
-	<li>Tipo: <strong>Redireccionamiento 301</strong>. Este tipo de redireccionamiento le indica a los navegadores y buscadores que se trata de un redireccionamiento permanente.</li>
-	<li>Valor: <strong style="word-break: break-all;">https://www.aprendeusabilidadyux.com/</strong></li>
-</ul>
-
-<p>En el campo “valor” no dejes de poner la letra “s” de protocolo seguro. GitHub Pages tiene la ventaja de que nos permitirá disponer de un <strong>certificado SSL de manera gratuita</strong> y servir nuestra web bajo protocolo encriptado seguro.</p>
-
-<p><strong class="text-danger">Aviso importante:</strong> aunque el cambio que acabas de realizar pueda estar visible en tu panel de control inmediatamente, la realidad es que <strong>las modificaciones a nivel de DNS pueden llegar a tardar entre 12 y 24 horas en propagarse</strong> a todo el mundo. A veces bastante menos otras veces incluso algunas horas más. Por lo que tendrás que esperar un tiempo hasta que GitHub Pages pueda detectar el cambio.</p>
-
-<h2>Paso 2: añadir una entrada CNAME en las DNS del dominio</h2>
+<h2>Paso 1: añadir una entrada de tipo CNAME en las DNS del dominio</h2>
 
 <p>El paso 1 y el paso 2 son intercambiables. Es decir, no es relevante cuál realices primero y cuál después.</p>
 
@@ -57,6 +36,32 @@ tags:       [desarrollo de aplicaciones web]
 </ul>
 
 <p>Naturalmente sustituyendo [nombreusuario] por el correspondiente a nuestro proyecto. Si tienes dudas en este punto, vuelve a <a href="{{ site.baseurl }}{% post_url 2021-05-08-como-crear-pagina-web-gratis-github-pages %}">consultar la primera parte de este tutorial</a> que se encuentra en un post anterior.</p>
+
+<p><strong class="text-danger">Aviso importante:</strong> aunque el cambio que acabas de realizar pueda estar visible en tu panel de control inmediatamente, la realidad es que <strong>las modificaciones a nivel de DNS pueden llegar a tardar entre 12 y 24 horas en propagarse</strong> a todo el mundo. A veces bastante menos otras veces incluso algunas horas más. Por lo que tendrás que esperar un tiempo hasta que GitHub Pages pueda detectar el cambio.</p>
+
+<h2>Paso 2: añadir cuatro entradas de tipo A en las DNS del dominio</h2>
+
+<p>De cara al óptimo posicionamiento en buscadores (SEO), no es conveniente que nuestra página web pueda ser consultada tanto con las “www” como sin ellas. Es decir, que pueda ser consultada tanto con el dominio raíz “aprendeusabilidadyux.com” como con el subdominio “www.aprendeusabilidadyux.com”. Ya que los buscadores considerarán que estamos sirviendo contenido duplicado. Para ellos el dominio raíz y el subdominio “www” son dos “direcciones de internet” diferentes.</p>
+
+<p>Lo más conveniente es decantarse por una de las dos como la dirección canónica de nuestro sitio web. En mi caso, <strong>prefiero el subdominio “www” como dirección canónica</strong>. Preferencia que debo indicar en la configuración de GitHub Pages. Explico cómo en el paso 3.</p>
+
+<p>Para que GitHub Pages nos redireccione correctamente los accesos sin "www" al aubdominio con las "www", debemos dirigir el tráfico entrante en el dominio raíz a las cuatro IPs públicas y fijas del servicio de GitHub Pages. Para ello debes entrar al panel de control que te habrá facilitado la empresa en la que has comprado el dominio y <strong>añadir cuatro nuevas entradas a los registros DNS</strong>.</p>
+
+<p>Estas cuatro nuevas entradas (una por cada IP pública de GitHub Pages) tendrán las siguientes propiedades:</p>
+<ul>
+	<li>Host: <em>dejarlo en blanco</em>.</li>
+	<li>Tipo: <strong>A</strong>.</li>
+	<li>Valor: <strong>185.199.108.153</strong></li>
+	<li>Host: <em>dejarlo en blanco</em>.</li>
+	<li>Tipo: <strong>A</strong>.</li>
+	<li>Valor: <strong>185.199.109.153</strong></li>
+	<li>Host: <em>dejarlo en blanco</em>.</li>
+	<li>Tipo: <strong>A</strong>.</li>
+	<li>Valor: <strong>185.199.110.153</strong></li>
+	<li>Host: <em>dejarlo en blanco</em>.</li>
+	<li>Tipo: <strong>A</strong>.</li>
+	<li>Valor: <strong>185.199.111.153</strong></li>
+</ul>
 
 <p>De nuevo te recordamos que <strong>las modificaciones a nivel de DNS pueden llegar a tardar entre 12 y 24 horas en propagarse</strong> a todo el mundo.</p>
 
