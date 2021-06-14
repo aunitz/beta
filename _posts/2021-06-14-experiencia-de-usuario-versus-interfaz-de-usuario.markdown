@@ -16,17 +16,17 @@ tags:       [desarrollo de aplicaciones web]
 
 <h2>Qué es la experiencia de usuario</h2>
 
-<p>Conocida en inglés como <strong>User Experience</strong> o por sus siglas <strong>UX</strong>. Abarca todos los aspectos de la interacción del usuario con el producto o servicio. Tanto conceptos prácticos como emocionales. Como la información que se proporciona al usuario, la facilidad de uso, el packaging, los tiempos de entrega, la atención al cliente, etc.</p>
+<p>Conocida en inglés como <strong>User Experience</strong> o por sus siglas <strong>UX</strong>. Abarca todos los aspectos de la interacción del usuario con el producto o servicio. Tanto conceptos prácticos como emocionales. Trata sobre la información que se proporciona al usuario, la facilidad de uso, el packaging, los tiempos de entrega, la atención al cliente, etc.</p>
 
 <p>Por lo general implica que en su desarrollo colaboren diferentes departamentos y/o disciplinas de lo más variopinto (ingeniería, marketing, diseño, negocio, etc.).</p>
 
-<p>Se ocupa de realizar investigaciones sobre la conducta del usuario, identifica sus necesidades, crea prototipos, validar ideas, etc.</p>
+<p>Se ocupa de realizar investigaciones sobre la conducta del usuario, identificar sus necesidades, crear prototipos, validar ideas, etc.</p>
 
 <h2>Qué es el interfaz de usuario</h2>
 
 <p>Conocido en inglés como <strong>User Interface</strong> o por sus siglas <strong>UI</strong>. Es aquella parte del producto o servicio con la que interactúa el usuario. Habitualmente mediante un interfaz visual, pero también puede implicar la interacción mediante el tacto, la voz, etc.</p>
 
-<p>Tiene mucho que ver con la estética y la usabilidad o facilidad de uso. Se ocupa de cuestiones como la tipografía, el color, el espacio en blanco, la distribución de contenidos, los iconos, los botones.</p>
+<p>Tiene mucho que ver con la estética y la usabilidad o facilidad de uso. Se ocupa de cuestiones como la tipografía, el color, el espacio en blanco, la distribución de contenidos, los iconos, los botones, etc.</p>
 
 <p>Lógicamente la UI juega un papel muy importante dentro de la UX. Pero la UX abarca más aspectos además de la UI. Bajo mi punto de vista, podríamos simplificar diciendo que la UI es un subconjunto de la UX.</p>
 
