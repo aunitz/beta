@@ -43,7 +43,7 @@ tags:       [leyes y principios de usabilidad]
 
 <p>&nbsp;</p>
 
-<table class="table table-bordered" style="max-width: 650px;">
+<table class="table table-bordered" style="max-width: 600px;">
     <thead>
         <tr class="active">
             <th>Comercial</th>
