@@ -10,6 +10,74 @@ tags:       [leyes y principios de usabilidad]
 
 <p>El <strong>principio de Pareto</strong> es también conocido como <strong>la regla del 80/20</strong>. La enunció por primera vez en 1896 el economista italiano Vilfredo Pareto.</p>
 
+<table>
+    <tr>
+        <th>Comercial</th>
+        <th>Ventas</th>
+    </tr>
+    <tr>
+        <td>Luciana Pla</td>
+        <td>1.540 €</td>
+    </tr>
+    <tr>
+        <td>Pablo Conde</td>
+        <td>30 €</td>
+    </tr>
+    <tr>
+        <td>Fabian Gonzalo</td>
+        <td>89 €</td>
+    </tr>
+    <tr>
+        <td>Maria Luisa Perello</td>
+        <td>153 €</td>
+    </tr>
+    <tr>
+        <td>Nadia Caparros</td>
+        <td>122 €</td>
+    </tr>
+    <tr>
+        <td>Isidoro Enriquez</td>
+        <td>76 €</td>
+    </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+        <th>Comercial</th>
+        <th>Ventas</th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Luciana Pla</td>
+        <td>1.540 €</td>
+    </tr>
+    <tr>
+        <td>Pablo Conde</td>
+        <td>30 €</td>
+    </tr>
+    <tr>
+        <td>Fabian Gonzalo</td>
+        <td>89 €</td>
+    </tr>
+    <tr>
+        <td>Maria Luisa Perello</td>
+        <td>153 €</td>
+    </tr>
+    <tr>
+        <td>Nadia Caparros</td>
+        <td>122 €</td>
+    </tr>
+    <tr>
+        <td>Isidoro Enriquez</td>
+        <td>76 €</td>
+    </tr>
+    </tbody>
+</table>
+
 <p>Vilfredo Pareto descubrió que el 20% de los propietarios poseían el 80% de las tierras de Italia. Esta misma relación de 80/20 se ha aplicado con éxito en ámbitos tan dispares como la política, la economía, el control de calidad, el desarrollo de software o la seguridad de las redes informáticas.</p>
 
 <p>La relación de 80/20 no es una distribución que haya que tomar de manera literal, ya que puede variar de un contexto a otro. Sin embargo, de manera aproximada, <strong>suele ser de aplicación para sistemas desequilibrados</strong>.</p>
