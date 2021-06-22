@@ -26,7 +26,7 @@
         crossorigin>
 
     <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | prepend: site.baseurl }}">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ '/css/clean-blog.min.css' | prepend: site.baseurl }}">
@@ -61,5 +61,14 @@
 
     {% feed_meta %}
     {% include ga.html %}
+
+    <!-- jQuery -->
+    <script defer src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script defer src="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script defer src="{{ '/js/clean-blog.min.js' | prepend: site.baseurl }}"></script>
 
 </head>

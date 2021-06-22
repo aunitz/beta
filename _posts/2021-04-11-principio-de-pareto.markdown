@@ -82,28 +82,7 @@ tags:       [leyes y principios de usabilidad]
 
 <p>La relación de 80/20 no es una distribución que haya que tomar de manera literal, ya que puede variar de un contexto a otro. Sin embargo, de manera aproximada, <strong>suele ser de aplicación para sistemas desequilibrados</strong>.</p>
 
-<script src="//cdn.jsdelivr.net/npm/chart.js@3.1.0/dist/chart.min.js"></script>
-
-<canvas id="myChart" width="400" height="400"></canvas>
-<script>
-var ctx = document.getElementById('myChart').getContext('2d');
-var mixedChart = new Chart(ctx, {
-    data: {
-        datasets: [{
-            type: 'bar',
-            label: 'Bar Dataset',
-            data: [10, 20, 30, 40]
-        }, {
-            type: 'line',
-            label: 'Line Dataset',
-            data: [25, 35, 45, 50],
-        }],
-        labels: ['January', 'February', 'March', 'April']
-    }
-});
-</script>
-
-<p><img src="{{ site.baseurl }}/img/principio-de-pareto.gif" alt="Diagrama de Pareto"></p>
+<p><img src="{{ site.baseurl }}/img/principio-de-pareto.gif" loading="lazy" alt="Diagrama de Pareto"></p>
 
 <p>Algunos ejemplos clásicos:</p>
 <ul>
