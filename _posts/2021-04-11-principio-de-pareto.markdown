@@ -44,8 +44,8 @@ tags:       [leyes y principios de usabilidad]
 <p>&nbsp;</p>
 
 <table class="table table-bordered">
-    <thead>
-        <tr class="table-active">
+    <thead class="thead-light">
+        <tr>
             <th>Comercial</th>
             <th class="text-right">Ventas</th>
         </tr>
