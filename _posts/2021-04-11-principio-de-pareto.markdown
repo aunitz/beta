@@ -45,36 +45,36 @@ tags:       [leyes y principios de usabilidad]
 
 <table class="table table-bordered">
     <thead>
-        <tr>
-        <th>Comercial</th>
-        <th>Ventas</th>
+        <tr class="table-active">
+            <th>Comercial</th>
+            <th class="text-right">Ventas</th>
         </tr>
     </thead>
     <tbody>
-    <tr>
-        <td>Luciana Pla</td>
-        <td>1.540 €</td>
-    </tr>
-    <tr>
-        <td>Pablo Conde</td>
-        <td>30 €</td>
-    </tr>
-    <tr>
-        <td>Fabian Gonzalo</td>
-        <td>89 €</td>
-    </tr>
-    <tr>
-        <td>Maria Luisa Perello</td>
-        <td>153 €</td>
-    </tr>
-    <tr>
-        <td>Nadia Caparros</td>
-        <td>122 €</td>
-    </tr>
-    <tr>
-        <td>Isidoro Enriquez</td>
-        <td>76 €</td>
-    </tr>
+        <tr>
+            <td>Luciana Pla</td>
+            <td class="text-right">1.540 €</td>
+        </tr>
+        <tr>
+            <td>Pablo Conde</td>
+            <td class="text-right">30 €</td>
+        </tr>
+        <tr>
+            <td>Fabian Gonzalo</td>
+            <td class="text-right">89 €</td>
+        </tr>
+        <tr>
+            <td>Maria Luisa Perello</td>
+            <td class="text-right">153 €</td>
+        </tr>
+        <tr>
+            <td>Nadia Caparros</td>
+            <td class="text-right">122 €</td>
+        </tr>
+        <tr>
+            <td>Isidoro Enriquez</td>
+            <td class="text-right">76 €</td>
+        </tr>
     </tbody>
 </table>
 
